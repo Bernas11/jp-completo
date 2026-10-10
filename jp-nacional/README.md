@@ -7,20 +7,19 @@ Next.js 16 (App Router) · React 19 · next-intl · Tailwind · Framer Motion ·
 ## Funcionalidades
 
 - Páginas institucionais: início, História, Carta de Princípios, Órgãos Nacionais, Anteriores Líderes, Concelhias (pesquisa + mapa), Contactos, Documentação (filtrável por categoria), políticas de privacidade/cookies/termos.
-- **Adesão** (`/aderir`): formulário em 3 passos com upload do documento de identificação → `POST /api/adesao`.
-- **Loja «Marca JP»** (`/marca-jp`), ligada por omissão (desliga-se com `NEXT_PUBLIC_SHOP_ENABLED=false`): checkout Stripe (`/api/checkout`, `/api/stripe-webhook`) e encomendas (`/api/encomenda`).
-- **Newsletter** (`/api/newsletter`).
+- **Adesão** (`/aderir`): desativada em modo de demonstração; o `POST /api/adesao` recusa pedidos antes de ler/gravar dados pessoais.
+- **Loja «Marca JP»** (`/marca-jp`): desligada por omissão; só ativa fora do modo demo com `NEXT_PUBLIC_SHOP_ENABLED=true` e Stripe configurado.
+- **Newsletter**: desativada em modo de demonstração; `POST /api/newsletter` recusa gravações.
 - **Internacionalização**: português é o idioma base (sem prefixo); os restantes usam prefixo (`/en`, `/fr`, …). Textos em `messages/*.json`.
 
 ## API
 
 | Rota | Função |
 |---|---|
-| `POST /api/adesao` | Cria o pedido de adesão (valida, *rate limit*, *honeypot*, grava ficheiro e registo) |
-| `POST /api/newsletter` | Subscrição da newsletter |
+| `POST /api/adesao` | Recusa com `503` em modo demo; em modo ativo valida e grava pedido/documento |
+| `POST /api/newsletter` | Recusa com `503` em modo demo; em modo ativo subscreve newsletter |
 | `POST /api/checkout` | Cria sessão de pagamento Stripe |
 | `POST /api/stripe-webhook` | Webhook do Stripe |
-| `POST /api/encomenda` | Registo de encomenda |
 
 ## Desenvolvimento
 

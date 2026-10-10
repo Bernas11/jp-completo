@@ -18,12 +18,12 @@ O ecossistema (`jp-nacional`, `jp-admin`, `jp-portal`) foi desenvolvido como **p
 1. **Vercel:** apagar ou pausar os projetos `jp-admin` e `jp-portal`. Manter apenas `jp-nacional` se a demonstração for para mostrar.
 2. **Supabase:** pausar os projetos *(Project Settings → General → Pause project)*. São recuperáveis.
 3. **Chaves e segredos:** revogar ou rodar `SUPABASE_*SERVICE_ROLE*`, `STRIPE_*`, `BREVO_*`, `UPSTASH_*`, `SYNC_SHARED_SECRET`, `CRON_SECRET`. Desativar o *webhook* do Stripe.
-4. **Site de demonstração:** se a loja não estiver configurada, `NEXT_PUBLIC_SHOP_ENABLED=false`; sem Supabase ativo, o formulário de adesão e a newsletter deixam de funcionar — confirmar o que a demo mostra.
+4. **Site de demonstração:** `NEXT_PUBLIC_DEMO_MODE=true` por omissão bloqueia adesões e newsletter, e a loja fica desligada. Antes de ativar funcionalidades reais, confirmar ambiente, consentimentos, retenção e segurança dos dados.
 5. **GitHub:** repositório público de portefólio; no fim, arquivado (`gh repo archive`) para ficar só de leitura.
 
 ## Repor em produção (se o projeto for retomado)
 
-Seguir [`DEPLOY.md`](DEPLOY.md) e [`OPERACOES.md`](OPERACOES.md) e **resolver primeiro** os pontos críticos de [`PONTOS-DE-ATENCAO.md`](PONTOS-DE-ATENCAO.md): agendamento `pg_cron` com valores de substituição, `email_templates` vazia, possível *open redirect* no portal, registo aberto no portal e políticas RLS permissivas.
+Seguir [`DEPLOY.md`](DEPLOY.md) e [`OPERACOES.md`](OPERACOES.md) e **resolver primeiro** os pontos críticos de [`PONTOS-DE-ATENCAO.md`](PONTOS-DE-ATENCAO.md): agendamento `pg_cron` com valores de substituição, `email_templates` vazia e políticas RLS permissivas. O *open redirect* foi corrigido no código do portal; confirmar o deploy. Rever se o registo aberto como simpatizante é a regra desejada.
 
 ## Marca, direitos e licença
 

@@ -1,7 +1,7 @@
 {
-  "name": "Portal Juventude Popular",
-  "short_name": "Portal JP",
-  "description": "Comunidade oficial da Juventude Popular",
+  "name": "Portal Juventude Popular — protótipo",
+  "short_name": "Portal JP demo",
+  "description": "Demonstração não oficial do portal da Juventude Popular. Não introduzas dados reais.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0e1d6b",

@@ -1,6 +1,6 @@
 # Supabase — Edge Functions (projeto `jp-militancia`)
 
-Código exportado a partir do projeto em produção (`bcwbhhtsncuriueponuz`, versão 6 de cada função). A partir de agora, **este é o código de referência**.
+Snapshot de código exportado do projeto Supabase `jp-militancia` (versão 6 de cada função). O identificador do projeto e os segredos devem ser configurados fora deste repositório. A partir de agora, **este é o código de referência**.
 
 | Função | `verify_jwt` | Autenticação | Função |
 |---|---|---|---|
@@ -13,10 +13,11 @@ Código exportado a partir do projeto em produção (`bcwbhhtsncuriueponuz`, ver
 `BREVO_API_KEY`, `BREVO_APPROVED_TEMPLATE_ID`, `CRON_SECRET`, `SYNC_SHARED_SECRET`, `PORTAL_SYNC_MEMBER_URL`, `PORTAL_SYNC_EVENT_URL`.
 
 ```bash
-supabase secrets set --project-ref bcwbhhtsncuriueponuz BREVO_API_KEY=... CRON_SECRET=...
-supabase functions deploy approve-membership --project-ref bcwbhhtsncuriueponuz
-supabase functions deploy sync-outbox-processor --no-verify-jwt --project-ref bcwbhhtsncuriueponuz
-supabase functions deploy email-queue-processor --no-verify-jwt --project-ref bcwbhhtsncuriueponuz
+: "${SUPABASE_PROJECT_REF:?Configura o project ref fora do repositório}"
+supabase secrets set --project-ref "$SUPABASE_PROJECT_REF" BREVO_API_KEY="$BREVO_API_KEY" CRON_SECRET="$CRON_SECRET"
+supabase functions deploy approve-membership --project-ref "$SUPABASE_PROJECT_REF"
+supabase functions deploy sync-outbox-processor --no-verify-jwt --project-ref "$SUPABASE_PROJECT_REF"
+supabase functions deploy email-queue-processor --no-verify-jwt --project-ref "$SUPABASE_PROJECT_REF"
 ```
 
 Ver também `docs/PONTOS-DE-ATENCAO.md` (a tabela `email_templates` está vazia).

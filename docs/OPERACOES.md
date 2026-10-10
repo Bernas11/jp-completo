@@ -52,8 +52,10 @@ O Supabase **bloqueia** `delete from storage.objects` por SQL. Usa o painel (Sto
 
 ```bash
 npm i @supabase/supabase-js
-SUPABASE_URL=https://bcwbhhtsncuriueponuz.supabase.co \
-SUPABASE_SERVICE_ROLE_KEY=<chave> \
+: "${SUPABASE_URL:?Define a URL do projeto num ambiente privado}"
+: "${SUPABASE_SERVICE_ROLE_KEY:?Define a chave num ambiente privado}"
+SUPABASE_URL="$SUPABASE_URL" \\
+SUPABASE_SERVICE_ROLE_KEY="$SUPABASE_SERVICE_ROLE_KEY" \\
 node scripts/limpar-storage.mjs
 ```
 

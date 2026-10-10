@@ -1,6 +1,10 @@
 import { routing } from "@/i18n/routing";
 
-const SITE_URL = "https://juventudepopular.pt";
+/** Domínio estável do protótipo publicado; não aponta para o domínio oficial da JP. */
+export const SITE_URL = "https://jp-nacional.vercel.app";
+
+/** A demonstração não deve competir nos motores de busca com o site oficial. */
+export const SITE_INDEXABLE = false;
 
 /** Mapeamento código de língua → formato og:locale (xx_XX). */
 export const OG_LOCALES: Record<string, string> = {

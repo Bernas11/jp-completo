@@ -5,6 +5,9 @@
 > visual da JP são usados **com autorização da organização**; pertencem à JP e o uso neste repositório
 > não implica que seja um produto oficial. **Não contém dados reais.** Ver [`docs/ARQUIVO.md`](docs/ARQUIVO.md).
 
+O protótipo explora um ecossistema digital único para a Juventude Popular: informação pública nacional,
+gestão administrativa e participação de militantes e simpatizantes, através de um site, um backoffice e um portal.
+
 ## Demonstração (protótipo)
 
 | Aplicação | URL |
@@ -61,4 +64,3 @@ Scripts comuns a todas: `npm run build`, `npm run lint`, `npm run typecheck`, `n
 ## Licença
 
 Código: todos os direitos reservados, com consulta permitida como portefólio — ver [`LICENSE`](LICENSE). Marca e conteúdos da JP: pertencem à JP.
-

@@ -164,7 +164,7 @@ export default function LoginPage() {
         </div>
 
         <p className="mt-6 text-center text-xs text-white/50">
-          Juventude Popular — plataforma oficial de militantes
+          Protótipo não oficial — não introduzas dados reais
         </p>
         <p className="mt-2 text-center text-xs text-white/40">
           <Link href="/politica-privacidade" className="underline hover:text-white/70">

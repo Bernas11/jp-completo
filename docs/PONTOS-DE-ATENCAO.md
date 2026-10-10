@@ -2,24 +2,15 @@
 
 > Mantidos aqui por transparência: o código é público e estes pontos são visíveis nele. Só o `jp-nacional` está publicado; `jp-admin` e `jp-portal` não estão expostos. Se o projeto for retomado, **resolvê-los antes de ir para produção**.
 
-Itens encontrados ao analisar o código e as bases de dados em produção (2026-10-10), por ordem de importância. Os marcados **[corrigir]** merecem ação; **[verificar]** requerem confirmação no código ou na conta.
+Fotografia histórica da revisão do código e da configuração descrita para as bases de dados (2026-10-10); o estado dos serviços remotos não foi verificado nesta atualização. Não assumir que os valores ou estados abaixo continuam atuais. Os marcados **[corrigir]** merecem ação; **[verificar]** requerem confirmação no código ou na conta.
 
 ## Críticos
 
-1. **[corrigir] O `pg_cron` da sincronização está configurado com valores de substituição.** Na `jp-militancia` existe o job `process-sync-outbox` (a cada minuto), mas o comando guardado tem o texto literal `<PROJECT_REF>` no URL (e, pela migration `0004`, `<CRON_SECRET>` no cabeçalho). Nunca chega a chamar a Edge Function. Hoje a sincronização depende da entrega imediata após ações no admin e do cron diário da Vercel. Para corrigir, num SQL Editor (com os valores reais, **sem os guardar no repositório**):
-   ```sql
-   select cron.unschedule('process-sync-outbox');
-   select cron.schedule('process-sync-outbox', '* * * * *', $$
-     select net.http_post(
-       url := 'https://bcwbhhtsncuriueponuz.functions.supabase.co/sync-outbox-processor',
-       headers := jsonb_build_object('Content-Type','application/json','X-Cron-Secret','<CRON_SECRET_REAL>'),
-       body := '{}'::jsonb);
-   $$);
-   ```
-   Idealmente o segredo vem do Supabase Vault em vez de ficar escrito no comando.
-2. **[corrigir] A tabela `email_templates` está vazia.** A Edge Function `email-queue-processor` marca como `falhado` («Template desconhecido») qualquer email cuja `template_key` não exista. Antes de usar comunicados em massa, regista as chaves e os IDs de template do Brevo. O email de aprovação usa a variável `BREVO_APPROVED_TEMPLATE_ID` da Edge Function `approve-membership`.
-3. **[verificar] Possível *open redirect* no login do portal.** `jp-portal/app/auth/callback/route.ts` faz `new URL(redirect_to, request.url)` com o parâmetro `redirect_to` recebido; um URL absoluto leva o utilizador para outro site. Convém aceitar apenas caminhos relativos (começados por `/` e não por `//`).
-4. **[verificar] O portal permite registo aberto.** O login usa `signInWithOtp`; qualquer email que peça o *magic link* ganha conta `simpatizante` (o trigger força o papel). Se isso não for pretendido, usar `shouldCreateUser: false` ou restringir no Supabase Auth.
+1. **[verificar] O `pg_cron` da sincronização foi descrito com valores de substituição.** A fotografia de 2026-10-10 indica que o job `process-sync-outbox` (a cada minuto) tinha `<PROJECT_REF>` no URL e `<CRON_SECRET>` no cabeçalho. Não foi verificado nesta revisão se continua assim. Antes de depender do cron, confirmar o estado diretamente no painel autorizado; nunca guardar o URL/segredo real neste repositório.
+   Se o problema se confirmar, corrigir a configuração no Supabase autorizado, guardar o segredo no Vault e testar a entrega antes de depender do job.
+2. **[verificar] A tabela `email_templates` foi descrita como vazia.** A fotografia de 2026-10-10 indica que a Edge Function `email-queue-processor` marcava como `falhado` («Template desconhecido») qualquer email cuja `template_key` não existisse. Confirmar a tabela antes de usar comunicados em massa e registar as chaves/IDs do Brevo que estejam em falta.
+3. **[corrigido no código] *Open redirect* no login do portal.** O callback agora só aceita caminhos locais e usa `/` como destino seguro para URLs absolutas, destinos `//host` ou entradas inválidas. Confirmar o deploy do portal antes de considerar o risco encerrado no serviço.
+4. **[decisão de produto] O portal permite registo aberto.** O login usa `signInWithOtp`; um email novo pode criar uma conta `simpatizante`, em linha com o texto atual do portal. Se o acesso tiver de ser só por convite, restringir a criação de contas no Supabase Auth ou usar `shouldCreateUser: false`.
 
 ## Segurança e dados
 
@@ -36,7 +27,8 @@ Itens encontrados ao analisar o código e as bases de dados em produção (2026-
 12. **Migrations incoerentes.** Em `jp-portal/db/` as migrations `0006–0012` não estão no *journal* do Drizzle e a produção foi alterada diretamente. **Não correr `drizzle-kit migrate` contra produção.** Usar `supabase db dump`. No `jp-admin`, `db/migrations/0004` contém os marcadores `<PROJECT_REF>`/`<CRON_SECRET>` (ver ponto 1).
 13. **Emails e crons diários.** Os crons da Vercel (plano gratuito) correm 1×/dia: um comunicado em fila pode demorar até 24 h a sair se não houver outro processador.
 14. **Versões diferentes entre apps.** `jp-nacional` usa Next.js 16 e Zod 4; `jp-admin` e `jp-portal` usam Next.js 15 e Zod 3; o Drizzle também difere (0.45 vs 0.36). Evitar partilhar código sem testar.
-15. **Loja ligada por omissão.** A «Marca JP» está ativa a não ser que `NEXT_PUBLIC_SHOP_ENABLED=false`. Sem Stripe configurado, desligar.
+15. **Loja desligada por omissão no código.** A «Marca JP» só fica ativa com `NEXT_PUBLIC_DEMO_MODE=false` e `NEXT_PUBLIC_SHOP_ENABLED=true`; confirmar que a configuração de produção respeita o estado de demonstração.
 16. **Plano gratuito do Supabase** pausa projetos inativos (ver `docs/OPERACOES.md`); o cron `keepalive` só protege a `jp-portal`.
 17. **Traduções.** O site tem 24 línguas, mas só `pt.json` está traduzido; as outras 23 são cópias do português (ver `jp-nacional/messages/README.md`).
 18. **Testes Playwright** (`tests/e2e`) foram escritos a partir do código e **ainda não foram executados**; o teste de *rate limit* do portal depende do limitador configurado.
+19. **Modo de demonstração no site público.** O código bloqueia por omissão adesões, newsletter e loja; confirmar que a variável Vercel não desativa esse modo até existir autorização e uma revisão operacional/privacidade.
