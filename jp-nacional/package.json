@@ -14,7 +14,7 @@
   "dependencies": {
     "@hookform/resolvers": "^5.4.0",
     "@supabase/supabase-js": "^2.110.7",
-    "@upstash/ratelimit": "^2.0.8",
+    "@upstash/ratelimit": "^2.2.0",
     "@upstash/redis": "^1.38.3",
     "clsx": "^2.1.1",
     "framer-motion": "^12.42.2",
