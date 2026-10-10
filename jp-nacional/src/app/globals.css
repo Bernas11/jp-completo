@@ -1,0 +1,121 @@
+@import "tailwindcss";
+
+@theme {
+  /* Hexadecimal corrigido */
+  --color-jp-blue: #0033c6; 
+  --color-jp-blue-deep: #0e1d6b;
+  --color-jp-blue-mid: #24399e;
+  
+  /* Azul super claro e suave para o fundo da página */
+  --color-jp-blue-tint: #f4f6fd;   
+  --color-jp-blue-tint2: #e8ecf8;  /* Um tom ligeiramente mais escuro para cards */
+  
+  --color-jp-yellow: #fde021;
+  --color-jp-ink: #10173d;         /* Texto principal */
+  --color-jp-ink-soft: #4a5591;    /* Texto secundário */
+  --color-jp-line: #c3cbef;        /* Bordas/Linhas */
+
+  --font-display: var(--font-archivo), sans-serif;
+  --font-body: var(--font-archivo), sans-serif;
+}
+
+body {
+  background-color: var(--color-jp-blue-tint);
+  color: var(--color-jp-ink);
+  font-family: var(--font-body);
+}
+
+.font-display {
+  font-family: var(--font-archivo-italic), var(--font-display);
+  font-style: italic;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: -0.01em;
+}
+
+.font-headline {
+  font-family: var(--font-body);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.05;
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-jp-yellow);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+@keyframes blob-morph {
+  0%, 100% { 
+    border-radius: 42% 58% 65% 35% / 45% 40% 60% 55%; 
+    transform: rotate(0deg) scale(1); 
+  }
+  33% { 
+    border-radius: 62% 38% 45% 55% / 55% 65% 35% 45%; 
+    transform: rotate(8deg) scale(1.05); 
+  }
+  66% { 
+    border-radius: 48% 52% 38% 62% / 40% 55% 45% 60%; 
+    transform: rotate(-6deg) scale(0.97); 
+  }
+}
+
+.blob-morph {
+  animation: blob-morph 14s ease-in-out infinite;
+}
+
+.glass-panel {
+  background: rgba(255, 255, 255, 0.07);
+  backdrop-filter: blur(20px) saturate(160%);
+  -webkit-backdrop-filter: blur(20px) saturate(160%);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.2),
+    inset 0 0 40px rgba(255, 255, 255, 0.02),
+    0 12px 40px rgba(6, 12, 40, 0.35);
+}
+
+/* ---- Performance mobile ---- */
+@keyframes hero-in {
+  from { transform: translateY(14px); }
+  to { transform: translateY(0); }
+}
+@keyframes page-in {
+  from { opacity: 0.6; }
+  to { opacity: 1; }
+}
+/* só transform: o texto do hero é visível desde o primeiro paint (não espera pelo JS) */
+.hero-in { animation: hero-in 0.6s cubic-bezier(0.22, 1, 0.36, 1) both; }
+.hero-in-1 { animation-delay: 0.05s; }
+.hero-in-2 { animation-delay: 0.12s; }
+.hero-in-3 { animation-delay: 0.2s; }
+.hero-in-4 { animation-delay: 0.28s; }
+.page-enter { animation: page-in 0.3s ease-out both; }
+
+/* backdrop-filter + blur grande custam muito em GPUs móveis */
+@media (max-width: 767px) {
+  .glass-panel {
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+    background: rgba(255, 255, 255, 0.12);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15);
+  }
+  .blob-morph { animation: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-in, .page-enter, .blob-morph { animation: none !important; }
+}

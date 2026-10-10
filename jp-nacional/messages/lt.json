@@ -1,0 +1,353 @@
+{
+    "nav": {
+        "causas": "Pilai",
+        "concelhias": "Vietinės organizacijos",
+        "atividades": "Veikla",
+        "orgaos": "Nacionaliniai organai",
+        "documentacao": "Dokumentacija",
+        "contactos": "Kontaktai",
+        "aderir": "Prisijunk",
+        "anteriores_lideres": "Buvę Lyderiai"
+    },
+    "hero": {
+        "eyebrow": "CDS-PP Jaunimas · Nuo 1974 m.",
+        "title": "Prisijunk prie mūsų!",
+        "lede": "Juventude Popular reikia tavo palaikymo. Užpildyk nario anketą ir prisijunk prie tikrosios Dešinės namų.",
+        "cta_primary": "Prisijunk",
+        "cta_secondary": "Susipažink su piloriais",
+        "stat_founded": "Įkurta",
+        "stat_founded_value": "1974 m.",
+        "stat_congress": "Nacionalinis kongresas",
+        "stat_congress_value": "XXVII",
+        "stat_founded_label": "Įkūrimo metai",
+        "stat_concelhias_label": "Aktyvūs vietos skyriai",
+        "stat_congress_label": "Nacionalinis kongresas",
+        "stat_pilares_label": "Ideologiniai ramsčiai"
+    },
+    "pilares": {
+        "eyebrow": "Kas mus apibrėžia",
+        "title": "Trys pilarai, viena praktika",
+        "lede": "Tai nėra trys konkuruojančios srovės, o trys pamatai, kuriais JP remiasi priimdama sprendimus nuo pat pirmos dienos.",
+        "democracia_crista_title": "Krikščioniškoji demokratija",
+        "democracia_crista_body": "Žmogus ir šeima kaip bet kurios viešosios politikos atskaitos taškas, o ne valstybė.",
+        "conservadorismo_title": "Konservatizmas",
+        "conservadorismo_body": "Keisti tai, ką reikia keisti, išsaugant tai, kas jau veikia — reforma su šaknimis, o ne griovimas dėl griovimo.",
+        "liberalismo_title": "Liberalizmas",
+        "liberalismo_body": "Ekonominė laisvė ir individuali atsakomybė: valstybė tarnauja žmonėms, o ne priešingai."
+    },
+    "concelhias": {
+        "eyebrow": "Lauke",
+        "title": "Vietinė organizacija šalia tavęs",
+        "lede": "Daugiau nei 100 aktyvių vietinių skyrių nuo šiaurės iki pietų ir salose. Rask savąjį.",
+        "cta": "Rodyti visas vietines organizacijas"
+    },
+    "atividades": {
+        "eyebrow": "Nesenai vykdyta veikla",
+        "title": "Ką nuveikė JP",
+        "lede": "Skyrių naujienos ir renginiai, kuriuos atnaujina pačios vietinės organizacijos ir nacionalinė vadovybė.",
+        "cta": "Rodyti visą veiklą",
+        "empty_noticias": "Naujienų dar nepaskelbta.",
+        "empty_eventos": "Renginių dar nesuplanuota."
+    },
+    "juntar": {
+        "title": "Portugalijos ateitį sprendžia tie, kurie dalyvauja.",
+        "lede": "Užpildyk išankstinės registracijos formą. Tavo vietinė organizacija drąsiai su tavimi susisieks.",
+        "cta": "Siųsti išankstinę registraciją"
+    },
+    "footer": {
+        "sede": "Nacionalinė būstinė: Largo Adelino Amaro da Costa, 5, 1149-063 Lisabona",
+        "jp_heading": "JP",
+        "historia": "Istorija",
+        "pilares": "Ideologiniai pilarai",
+        "orgaos": "Nacionaliniai organai",
+        "participar_heading": "Dalyvauti",
+        "aderir": "Prisijunk",
+        "atividades": "Veikla",
+        "carta": "Principų chartija",
+        "contactos_heading": "Kontaktai",
+        "rights": "Juventude Popular. CDS-PP jaunimo organizacija.",
+        "portal_label": "Nario Portalas",
+        "admin_label": "Administravimo Sritis"
+    },
+    "concelhias_page": {
+        "eyebrow": "Teritorinė struktūra",
+        "title": "Rask savo vietinę organizaciją",
+        "lede": "Daugiau nei 100 aktyvių vietinių skyrių pagal apskritis. Jie čia pasirodys, kai tik juos pripažins Nacionalinė politinė komisija.",
+        "search_placeholder": "Iškoti pagal savivaldybę ar apskritį...",
+        "search_clear": "Išvalyti paiešką",
+        "search_no_results_title": "Rezultatų nėra",
+        "search_no_results_hint": "Neradome vietinės organizacijos pagal „{query}“. Pabandykite kitą pavadinimą ar apskritį.",
+        "empty_email": "Laukiama el. pašto patvirtinimo",
+        "empty_instagram": "Laukiama Instagram patvirtinimo"
+    },
+    "orgaos_page": {
+        "eyebrow": "Nacionalinė struktūra",
+        "title": "Nacionaliniai organai",
+        "lede": "JP vadovybės ir drausmės struktūra nacionaliniu lygmeniu, kaip apibrėžta Įstatuose.",
+        "cpn_title": "Nacionalinė politinė komisija",
+        "cpn_body": "Aukščiausiasis JP vykdomasis organas tarp Kongresų. Nustato nacionalinę politinę strategiją ir nuolat valdo struktūrą.",
+        "mcn_title": "Nacionalinio kongreso prezidiumas",
+        "mcn_body": "Vadovauja Nacionalinio kongreso — aukščiausiojo JP suvereno organo — darbui.",
+        "disciplina_title": "Drausmės komisija",
+        "disciplina_body": "Atsakinga už vidinius drausmės procesus pagal Įstatus.",
+        "jurisdicao_title": "Jurisdikcijos ir priežiūros taryba",
+        "jurisdicao_body": "Užtikrina Įstatų laikymąsi ir JP veiksmų vidinį teisėtumą.",
+        "mesa_conselho_title": "Nacionalinės tarybos prezidiumas",
+        "mesa_conselho_body": "Vadovauja Nacionalinės tarybos — svarstomojo organo tarp Kongresų — darbui.",
+        "gabinete_title": "Gonçalo Begonha studijų centras",
+        "gabinete_body": "JP politinių įžvalgų ir doktrinos kūrimo struktūra, pavadinta jos įkūrėjo vardu."
+    },
+    "aderir_page": {
+        "eyebrow": "Tavo eilė",
+        "title": "Prisijunk prie mūsų!",
+        "lede": "Juventude Popular reikia tavo palaikymo. Užpildyk nario anketą ir prisijunk prie tikrosios Dešinės namų — įsipareigojame atsakyti per vieną darbo savaitę.",
+        "label_nome": "Vardas ir pavardė",
+        "label_nascimento": "Gimimo data",
+        "label_email": "El. paštas",
+        "label_telemovel": "Mobilusis telefonas",
+        "label_distrito": "Apskritis",
+        "label_morada": "Adresas",
+        "consent": "Perskaičiau ir sutinku su Privatumo politika bei Naudojimo sąlygomis.",
+        "parental_note": "Jei esi jaunesnis nei 16 metų, kitame žingsnyje paprašysime tavo tėvų ar globėjų kontaktinių duomenų.",
+        "submit": "Siųsti išankstinę registraciją"
+    },
+    "carta_page": {
+        "eyebrow": "Steigiamasis dokumentas",
+        "title": "Principų chartija",
+        "lede": "Principai, kuriais vadovaujasi Juventude Popular kaip CDS-PP jaunimo organizacija.",
+        "s1_title": "Vertybių organizacija",
+        "p1": "Juventude Popular apibrėžiama kaip vertybių organizacija, įsišaknijusi Krikščioniškojoje demokratijoje, Konservatizme ir Liberalizme — ne kaip trys konkuruojančios srovės, o kaip trys pilarai, stiprinantys vienas kitą priimant sprendimus.",
+        "s2_title": "Žmogus ir šeima",
+        "p2": "Žmogų, šeimą ir vietos bendruomenes keliame į politinio veikimo centrą kaip alternatyvą valstybei, kuri viską sprendžia už visus. Tikime subsidiarumo principu.",
+        "s3_title": "Ekonominė laisvė ir atsakomybė",
+        "p3": "Giname ekonominę laisvę ir individualią atsakomybę kaip pažangos sąlygas. Valstybė, tarnaujanti žmonėms, renka mažiau, kad išvengtų nereikalingų išlaidų.",
+        "s4_title": "Reforma su šaknimis",
+        "p4": "Keičiame tai, ką reikia keisti, išsaugodami tai, kas veikia. Reforma yra rimta tik tada, kai ji gerbia ankstesnių kartų sukauptą patirtį.",
+        "s5_title": "Portugalija Europoje",
+        "p5": "Aktyviai dalyvaujame Europos kūrime neprarasdami savo nacionalinio identiteto. Europos Sąjunga turi būti laisvų tautų bendradarbiavimo erdvė.",
+        "s6_title": "Nauja karta tarnauja šaliai",
+        "p6": "Nelaukiame savo eilės, kad turėtume balsą. Organizuojamės, diskutuojame ir veikiame daugiau nei 100 vietinių organizacijų visoje šalyje."
+    },
+    "documentacao_page": {
+        "eyebrow": "Buvusi virtuali būstinė",
+        "title": "Dokumentacija",
+        "lede": "Juventude Popular šaukimai, įstatai, reglamentai ir protokolai — viskas, ko jums reikia, vienoje vietoje.",
+        "search_placeholder": "Iškoti dokumento...",
+        "cat_convocatorias": "Šaukimai",
+        "cat_estatutos": "Įstatai ir reglamentai",
+        "cat_minutas": "Protokolai ir dokumentai",
+        "cat_premios": "Apdovanojimai"
+    },
+    "a11y_skip_link": "Pereiti prie pagrindinio turinio",
+    "marquee": [
+        "🇵🇹 Apie Portugaliją sprendžia tie, kurie ateina",
+        "🗳️ Vietinė demokratija",
+        "💼 Darbo vietos jaunimui",
+        "🏠 Prieinamas būstas",
+        "🎓 Kokybiškas švietimas",
+        "🤝 Pilietinis dalyvavimas",
+        "⚡ Politinis atsinaujinimas",
+        "💛 100+ aktyvių vietos skyrių"
+    ],
+    "anteriores_lideres_page": {
+        "eyebrow": "Kas jau vadovavo JP",
+        "title": "Buvę Lyderiai",
+        "lede": "Pirmininkai, kurie per metus suteikė Juventude Popular veidą ir balsą.",
+        "atual": "DABARTINIS",
+        "presente": "dabartis"
+    },
+    "historia_page": {
+        "eyebrow": "Mūsų istorija",
+        "title": "Penki dešimtmečiai tarnaujant Portugalijai",
+        "lede": "Nuo įkūrimo 1974 m. iki šiandienos nacionalinės struktūros — Juventude Popular istorija seka pačios CDS istoriją.",
+        "marcos": [
+            {
+                "titulo": "1974 — Juventude Centrista",
+                "texto": "Tais pačiais metais, kai buvo įkurta CDS, gimsta ir jos jaunimo organizacija, tuomet vadinta Juventude Centrista."
+            },
+            {
+                "titulo": "1998 — Tampa Juventude Popular",
+                "texto": "Organizacija priima Juventude Popular pavadinimą, kurį išlaiko iki šiol."
+            },
+            {
+                "titulo": "Tarptautinis dalyvavimas",
+                "texto": "JP priklauso YEPP (Youth of the European People's Party), DEMYC (Democrat Youth Community of Europe) ir IYDU (International Young Democrat Union)."
+            },
+            {
+                "titulo": "Šiandien",
+                "texto": "Daugiau nei 100 aktyvių vietos skyrių nuo šalies šiaurės iki pietų ir salose, su Nacionaliniu kongresu kas dvejus metus."
+            }
+        ]
+    },
+    "marca_jp_page": {
+        "eyebrow": "Dėvėk savo idėjas",
+        "title": "JP Prekės Ženklas",
+        "lede": "Oficialūs Juventude Popular suvenyrai — dėvėk ženklą, remk struktūrą."
+    },
+    "contactos_page": {
+        "eyebrow": "Kalbėkis su mumis",
+        "title": "Kontaktai",
+        "lede": "Esame pasiekiami bet kokiam klausimui apie nacionalinę struktūrą ar vietos skyrius.",
+        "label_sede": "Nacionalinė Būstinė",
+        "label_email": "El. paštas",
+        "label_telefone": "Telefonas"
+    },
+    "goncalo_begonha_page": {
+        "eyebrow": "Atmintis, kuri gyvuoja toliau",
+        "title": "Gonçalo Begonha",
+        "lede": "1980 — 2003",
+        "meta_description": "Gonçalo Botelho Gomes Begonha, Juventude Popular vadovas, kurio vardu pavadintas Studijų biuras."
+    },
+    "sucesso_page": {
+        "title": "Užsakymas patvirtintas!",
+        "message": "Išsiuntėme jums patvirtinimo el. laišką. Ačiū, kad remiate Juventude Popular.",
+        "cta": "Grįžti į parduotuvę"
+    },
+    "cart": {
+        "adicionar": "Pridėti",
+        "carrinho": "Krepšelis",
+        "vazio": "Tavo krepšelis tuščias.",
+        "total": "Iš viso",
+        "finalizar": "Užbaigti pirkimą",
+        "processando": "Apdorojama...",
+        "pagar": "Mokėti",
+        "remover": "Pašalinti",
+        "erro_pagamento": "Klaida pradedant mokėjimą.",
+        "erro_processar": "Apdorojimo klaida.",
+        "ph_nome": "Vardas ir pavardė",
+        "ph_email": "El. paštas",
+        "ph_morada": "Adresas",
+        "ph_cp": "Pašto kodas",
+        "ph_localidade": "Vietovė"
+    },
+    "aderir_form": {
+        "step1": "Asmens Duomenys",
+        "step2": "Adresas",
+        "step3": "Dokumentas",
+        "erro_ficheiro_tamanho": "Failas negali viršyti 8MB.",
+        "erro_ficheiro_formato": "Netinkamas formatas. Naudok JPG, PNG arba PDF.",
+        "erro_ficheiro_obrigatorio": "Turi pridėti asmens tapatybės kortelės kopiją.",
+        "erro_submeter": "Pateikimo klaida. Bandyk dar kartą.",
+        "erro_enviar": "Siuntimo klaida. Bandyk dar kartą.",
+        "bem_vindo": "Sveikas/sveika atvykęs/atvykusi į JP, {nome}!",
+        "camarada": "drauge",
+        "confirmacao": "Gavome tavo paraišką ir dokumentą. CPN patikrins duomenis ir atsakys per vieną darbo savaitę adresu {email}.",
+        "passos_aria": "Formos žingsniai",
+        "label_nome": "Vardas ir pavardė *",
+        "label_dataNascimento": "Gimimo data *",
+        "label_email": "El. paštas *",
+        "label_telemovel": "Mobilusis telefonas *",
+        "label_estabelecimento": "Švietimo įstaiga",
+        "ph_estabelecimento": "(neprivaloma)",
+        "ph_email": "email@pavyzdys.lt",
+        "ph_telemovel": "+351 9XX XXX XXX",
+        "aviso_parental": "Kadangi tau yra 14–15 metų, mums reikia tavo globėjo duomenų.",
+        "label_encNome": "Globėjo vardas *",
+        "label_encContacto": "Globėjo kontaktas *",
+        "label_morada": "Adresas *",
+        "ph_morada": "Gatvė, vieta...",
+        "label_numero": "Nr.",
+        "label_localidade": "Vietovė *",
+        "ph_localidade": "Pvz., Pena Verde",
+        "label_cp": "Pašto kodas",
+        "ph_cp": "0000-000",
+        "label_distrito": "Apskritis / Autonominis regionas *",
+        "ph_seleciona": "Pasirink...",
+        "label_concelho": "Savivaldybė *",
+        "ph_concelho": "Pvz., Aguiar da Beira",
+        "nota_concelhia": "Tavo vietos skyrius priskiriamas automatiškai pagal nurodytą savivaldybę.",
+        "label_cc": "Asmens tapatybės kortelės numeris *",
+        "ph_cc": "00000000 0 ZZ0",
+        "label_upload": "Įskaitoma asmens tapatybės kortelės kopija (priekinė ir galinė pusė) *",
+        "remover_ficheiro_aria": "Pašalinti failą",
+        "upload_cta": "Spustelėk, kad pridėtum (JPG, PNG arba PDF, maks. 8MB)",
+        "nota_privacidade": "Dokumentas saugomas privačiai ir ištrinamas per 30 dienų nuo sprendimo.",
+        "aceito_pre": "Sutinku su Sąlygomis ir",
+        "politica": "Privatumo politika",
+        "anterior": "Atgal",
+        "proximo": "Toliau",
+        "enviando": "Siunčiama…",
+        "confirmar": "Patvirtinti Narystę"
+    },
+    "aderir_form_errors": {
+        "nome_curto": "Vardas per trumpas",
+        "data_obrigatoria": "Gimimo data yra privaloma",
+        "email_invalido": "Neteisingas el. paštas",
+        "telemovel_invalido": "Neteisingas telefono numeris",
+        "data_invalida": "Neteisinga data",
+        "idade_min": "Minimalus narystės amžius: 14 metų",
+        "idade_max": "Maksimalus narystės amžius: 30 metų",
+        "enc_obrigatorio": "Privaloma jaunesniems nei 16 metų",
+        "morada_obrigatoria": "Adresas yra privalomas",
+        "localidade_obrigatoria": "Vietovė yra privaloma",
+        "distrito_obrigatorio": "Apskritis yra privaloma",
+        "concelho_obrigatorio": "Savivaldybė yra privaloma",
+        "cc_invalido": "Neteisingas asmens tapatybės kortelės numeris",
+        "termos_obrigatorio": "Turi sutikti su sąlygomis ir privatumo politika"
+    },
+    "timeline": {
+        "eyebrow": "Mūsų kelias",
+        "heading": "Penki dešimtmečiai kuriant ateitį",
+        "marcos": [
+            {
+                "ano": "1974",
+                "title": "Juventude Centrista",
+                "text": "Su CDS susijusios jaunimo organizacijos įkūrimas tais pačiais metais, kai buvo įkurta partija."
+            },
+            {
+                "ano": "1998",
+                "title": "Tampa Juventude Popular",
+                "text": "Organizacija priima pavadinimą ir tapatybę, kurią išlaiko iki šiol."
+            },
+            {
+                "ano": "2020",
+                "title": "Vadovybės atsinaujinimas",
+                "text": "Po Francisco Rodrigueso iškilimo CDS-PP, Francisco Mota tampa laikinuoju pirmininku."
+            },
+            {
+                "ano": "2021",
+                "title": "Išrinktas Francisco Camacho",
+                "text": "Buvęs Lisabonos skyriaus pirmininkas Nacionaliniame kongrese išrenkamas JP pirmininku."
+            },
+            {
+                "ano": "2025",
+                "title": "Catarina Marinho perima vadovavimą",
+                "text": "Dabartinės kadencijos pradžia, su šūkiu \"Nuo Žodžių prie Darbų. Portugalijos labui!\""
+            },
+            {
+                "ano": "2026",
+                "title": "XXVII Nacionalinis kongresas",
+                "text": "Vyko balandį, su statuto peržiūra ir nacionalinės skaitmeninės struktūros atnaujinimo pradžia."
+            },
+            {
+                "ano": "Šiandien",
+                "title": "Daugiau nei 100 vietos skyrių",
+                "text": "Aktyvi struktūra nuo šalies šiaurės iki pietų ir salose, auganti kiekvienoje apskrityje."
+            }
+        ]
+    },
+    "trust": {
+        "eyebrow": "Skaidrumas",
+        "heading": "Pasitikėjimas pelnomas aiškumu",
+        "lede": "Prieš patikėdamas(-a) mums savo duomenis, teisinga žinoti, ko iš mūsų gali tikėtis.",
+        "items": [
+            {
+                "title": "Savanoriška struktūra",
+                "text": "JP yra nepelno siekianti politinė jaunimo organizacija. Nacionalinę vadovybę ir vietos skyrius valdo savanoriai."
+            },
+            {
+                "title": "Duomenys tikrai apsaugoti",
+                "text": "Tavo narystės duomenys saugomi izoliuotoje duomenų bazėje, prieiga ribota tik CPN; asmens tapatybės dokumentas ištrinamas per 30 dienų nuo sprendimo."
+            },
+            {
+                "title": "Nacionalinis statutas",
+                "text": "Visa struktūra vadovaujasi Nacionaliniame kongrese patvirtintu Statutu, prieinamu bet kurio vietos skyriaus vadovybėje."
+            }
+        ]
+    },
+    "vozes_da_casa": {
+        "label": "Namų Balsai",
+        "aria_ver": "Peržiūrėti citatą {n}",
+        "cargo_fundador": "CDS įkūrėjas"
+    }
+}

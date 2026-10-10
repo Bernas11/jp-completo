@@ -1,0 +1,62 @@
+name: CI
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  pull_request:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  qualidade:
+    name: ${{ matrix.app }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        app: [jp-nacional, jp-admin, jp-portal]
+    defaults:
+      run:
+        working-directory: ${{ matrix.app }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: ${{ matrix.app }}/package-lock.json
+
+      - run: npm ci
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Testes unitários
+        run: npm test
+
+      - name: Build
+        run: npm run build
+        env:
+          # valores fictícios só para o build não falhar; nenhum segredo real é usado no CI
+          NEXT_PUBLIC_SUPABASE_URL: https://exemplo.supabase.co
+          NEXT_PUBLIC_SUPABASE_ANON_KEY: anon-fictica
+          SUPABASE_MILITANCIA_URL: https://exemplo.supabase.co
+          SUPABASE_MILITANCIA_SERVICE_ROLE_KEY: fictica
+          SUPABASE_PORTAL_URL: https://exemplo.supabase.co
+          SUPABASE_PORTAL_SERVICE_ROLE_KEY: fictica
+          NEXT_PUBLIC_SITE_URL: http://localhost:3000
+          NEXT_PUBLIC_SHOP_ENABLED: "false"
+
+  # Playwright só corre quando pedido manualmente (workflow_dispatch) — precisa de ambiente de teste
+  e2e:
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Configurar E2E_BASE_URL e segredos de teste antes de ativar. Ver docs/TESTES.md"

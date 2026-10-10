@@ -1,0 +1,353 @@
+{
+    "nav": {
+        "causas": "Pilastri",
+        "concelhias": "Fergħat Lokali",
+        "atividades": "Attivitajiet",
+        "orgaos": "Organi Nazzjonali",
+        "documentacao": "Dokumentazzjoni",
+        "contactos": "Kuntatti",
+        "aderir": "Ingħaqad Magħna",
+        "anteriores_lideres": "Mexxejja Preċedenti"
+    },
+    "hero": {
+        "eyebrow": "Żgħażagħ tas-CDS-PP · Mill-1974",
+        "title": "Ingħaqad magħna!",
+        "lede": "Il-Juventude Popular għandha bżonn is-sostenn tiegħek. Imla l-formola ta' sħubija tagħna u ssir parti mid-dar tal-Lemin veru.",
+        "cta_primary": "Ingħaqad Magħna",
+        "cta_secondary": "Ssir af il-pilastri",
+        "stat_founded": "Imwaqqfa fl-ibgħat",
+        "stat_founded_value": "1974",
+        "stat_congress": "Kongress Nazzjonali",
+        "stat_congress_value": "XXVII",
+        "stat_founded_label": "Sena tat-twaqqif",
+        "stat_concelhias_label": "Fergħat lokali attivi",
+        "stat_congress_label": "Kungress Nazzjonali",
+        "stat_pilares_label": "Pilastri ideoloġiċi"
+    },
+    "pilares": {
+        "eyebrow": "Dak li jiddefinixxina",
+        "title": "Tliet pilastri, prattika waħda",
+        "lede": "Mhumiex tliet kurrenti f'kompetizzjoni ma' xulxin, iżda t-tliet pedamenti li fuqhom il-JP tieħu d-deċiżjonijiet tagħha mill-ewwel jum.",
+        "democracia_crista_title": "Demokrazija Kristjana",
+        "democracia_crista_body": "Il-bniedem u l-familja bħala l-punt tat-tluq ta' kull politika pubblika, mhux l-Istat.",
+        "conservadorismo_title": "Konservatiżmu",
+        "conservadorismo_body": "Inbidlu dak li jeħtieġ jinbidel, billi nippreservaw dak li diġà jaħdem — riforma bl-għeruq, mhux ksur għall-stess ksur.",
+        "liberalismo_title": "Liberaliżmu",
+        "liberalismo_body": "Libertà ekonomika u responsabbiltà individwali: l-Istat għas-servizz tan-nies, mhux il-kuntrarju."
+    },
+    "concelhias": {
+        "eyebrow": "Fuq il-post",
+        "title": "Friegħi lokali qrib tiegħek",
+        "lede": "Aktar minn 100 fergħa lokali attiva, mit-tramuntana tan-nofsinhar u fuq il-gżejjer. Sib tiegħek.",
+        "cta": "Arahom il-friegħi lokali kollha"
+    },
+    "atividades": {
+        "eyebrow": "Attività reċenti",
+        "title": "Dak li għamlet il-JP",
+        "lede": "Aħbarijiet u avvenimenti mill-friegħi, aġġornati mill-friegħi stess u mit-tmexxija nazzjonali.",
+        "cta": "Ara l-attivitajiet kollha",
+        "empty_noticias": "Għadha ma ġiet ippubblikata l-ebda aħbar.",
+        "empty_eventos": "Għadu ma ġie skedat l-ebda avveniment."
+    },
+    "juntar": {
+        "title": "Il-futur tal-Portugall huwa deċiż minn dawk li jipparteċipaw.",
+        "lede": "Imla l-formola ta' pre-reġistrazzjoni tiegħek. Il-fergħa lokali tiegħek tikkuntattjak dalwaqt.",
+        "cta": "Ibgħat il-pre-reġistrazzjoni"
+    },
+    "footer": {
+        "sede": "Sede Nazzjonali: Largo Adelino Amaro da Costa, 5, 1149-063 Liżbona",
+        "jp_heading": "JP",
+        "historia": "Storja",
+        "pilares": "Pilastri Ideoloġiċi",
+        "orgaos": "Organi Nazzjonali",
+        "participar_heading": "Ipparteċipa",
+        "aderir": "Ingħaqad Magħna",
+        "atividades": "Attivitajiet",
+        "carta": "Karta tal-Prinċipji",
+        "contactos_heading": "Kuntatti",
+        "rights": "Juventude Popular. Organizzazzjoni ta' żgħażagħ tas-CDS-PP.",
+        "portal_label": "Portal tal-Membru",
+        "admin_label": "Żona ta' Amministrazzjoni"
+    },
+    "concelhias_page": {
+        "eyebrow": "Struttura territorjali",
+        "title": "Sib il-fergħa lokali tiegħek",
+        "lede": "Aktar minn 100 fergħa lokali attiva, organizzati skont id-distrett. Jidhru hawnhekk malli jiġu rikonoxxuti mill-Kummissjoni Politika Nazzjonali.",
+        "search_placeholder": "Fittex skont il-muniċipalità jew id-distrett...",
+        "search_clear": "Ħassar it-tfittxija",
+        "search_no_results_title": "L-ebda rižultat",
+        "search_no_results_hint": "Ma sibna l-ebda ferħa lokali għal “{query}”. Ipprova isem jew distrett ieħor.",
+        "empty_email": "Email pendenti għall-konferma",
+        "empty_instagram": "Instagram pendenti għall-konferma"
+    },
+    "orgaos_page": {
+        "eyebrow": "Struttura nazzjonali",
+        "title": "Organi Nazzjonali",
+        "lede": "L-istruttura ta' tmexxija u dixxiplina tal-JP fuq livell nazzjonali, kif definit fl-Istatut.",
+        "cpn_title": "Kummissjoni Politika Nazzjonali",
+        "cpn_body": "L-ogħla organu eżekuttiv tal-JP bejn il-Kongressi. Tiddefinixxi l-istrateġija politika nazzjonali u tmexxi l-istruttura b'mod permanenti.",
+        "mcn_title": "Meda tal-Kongress Nazzjonali",
+        "mcn_body": "Tmexxi x-xogħol tal-Kongress Nazzjonali, l-ogħla organu sovran tal-JP.",
+        "disciplina_title": "Kummissjoni tad-Dixxiplina",
+        "disciplina_body": "Responsabbli għall-proċeduri dixxiplinari interni, skont it-termini previsti fl-Istatut.",
+        "jurisdicao_title": "Kunsill ta' Ġurisdizzjoni u Superviżjoni",
+        "jurisdicao_body": "Jiżgura l-konformità mal-Istatut u l-legalità interna tal-atti tal-JP.",
+        "mesa_conselho_title": "Meda tal-Kunsill Nazzjonali",
+        "mesa_conselho_body": "Tmexxi x-xogħol tal-Kunsill Nazzjonali, l-organu deliberattiv bejn il-Kongressi.",
+        "gabinete_title": "Ċentru ta' Studji Gonçalo Begonha",
+        "gabinete_body": "Struttura ta' riflessjoni politika u produzzjoni dottrinali tal-JP, bl-isem tal-fundatur tagħha."
+    },
+    "aderir_page": {
+        "eyebrow": "Dawk tiegħek",
+        "title": "Ingħaqad magħna!",
+        "lede": "Il-Juventude Popular għandha bżonn is-sostenn tiegħek. Imla l-formola ta' sħubija tagħna u ssir parti mid-dar tal-Lemin veru — nimpenjaw ruħna li nirrisponduk fi żmien ġimgħa tax-xogħol.",
+        "label_nome": "Isem sħiħ",
+        "label_nascimento": "Data tat-twelid",
+        "label_email": "Email",
+        "label_telemovel": "Numru tal-mowbajl",
+        "label_distrito": "Distrett",
+        "label_morada": "Indirizz",
+        "consent": "Qrajt u naċċetta l-Politika ta' Privatezza u t-Termini u l-Kondizzjonijiet.",
+        "parental_note": "Jekk għandek inqas minn 16-il sena, fil-pass li jmiss nitolbuk il-dettalji ta' kuntatt tal-ġenitur jew kustodju legali tiegħek.",
+        "submit": "Ibgħat il-pre-reġistrazzjoni"
+    },
+    "carta_page": {
+        "eyebrow": "Dokument fundatur",
+        "title": "Karta tal-Prinċipji",
+        "lede": "Il-prinċipji li jiggwidaw l-azzjoni politika ta' Juventude Popular bħala organizzazzjoni ta' żgħażagħ tas-CDS-PP.",
+        "s1_title": "Organizzazzjoni ta' valuri",
+        "p1": "Juventude Popular tiddefinixxi lilha nnifisha bħala organizzazzjoni ta' valuri, ankrata fid-Demokrazija Kristjana, il-Konservatiżmu u l-Liberaliżmu — mhux bħala tliet kurrenti f'kompetizzjoni, iżda bħala tliet pilastri li jsaħħu lil xulxin fid-deċiżjonijiet tagħna.",
+        "s2_title": "Il-bniedem u il-familja",
+        "p2": "Inpoġġu l-bniedem, il-familja u l-komunitajiet lokali fiċ-ċentru tal-azzjoni politika bħala alternattiva għal Stat li jiddeċiedi kollox f'isem kulħadd. Nemmnu fil-prinċipju tas-sussidjarjetà.",
+        "s3_title": "Libertà ekonomika u responsabbiltà",
+        "p3": "Niddefendu l-libertà ekonomika u l-responsabbiltà individwali bħala kundizzjonijiet għall-progress. Stat għas-servizz tan-nies jiġbor inqas biex jevita nefqa mhux meħtieġa.",
+        "s4_title": "Riforma bl-għeruq",
+        "p4": "Ninbidlu dak li jeħtieġ jinbidel, billi nippreservaw dak li diġà jaħdem. Riforma hija serja biss meta tirrispetta l-esperjenza akkumulata tal-ġenerazzjonijiet ta' qabel.",
+        "s5_title": "Il-Portugall fl-Ewropa",
+        "p5": "Nipparteċipaw b'mod attiv fil-kostruzzjoni Ewropea mingħajr ma nitilfu l-identità nazzjonali tagħna. L-Unjoni Ewropea għandha tkun spazju ta' kooperazzjoni bejn nazzjonijiet liberi.",
+        "s6_title": "Ġenerazzjoni ġdida għas-servizz tal-pajjiż",
+        "p6": "Mhumiex nistennew imbagħad li jkun imissna biex ikollna leħen. Norganizzaw, niddibattu, nipproponu u naġixxu f'aktar minn 100 fergħa lokali madwar il-pajjiż kollu."
+    },
+    "documentacao_page": {
+        "eyebrow": "Sede Virtwali preċedenti",
+        "title": "Dokumentazzjoni",
+        "lede": "Sejħiet, statuti, regolamenti u minuti ta' Juventude Popular — kulma għandek bżonn tikkonsulta f'post wieħed.",
+        "search_placeholder": "Fittex dokument...",
+        "cat_convocatorias": "Sejħiet",
+        "cat_estatutos": "Statuti u Regolamenti",
+        "cat_minutas": "Minuti u Dokumenti",
+        "cat_premios": "Unuri"
+    },
+    "a11y_skip_link": "Aqbeż għall-kontenut ewlieni",
+    "marquee": [
+        "🇵🇹 Il-Portugall jiddeċiedu min jidher",
+        "🗳️ Demokrazija lokali",
+        "💼 Impjiegi għaż-żgħażagħ",
+        "🏠 Akkomodazzjoni affordabbli",
+        "🎓 Edukazzjoni ta' kwalità",
+        "🤝 Parteċipazzjoni ċivika",
+        "⚡ Tiġdid politiku",
+        "💛 100+ fergħat lokali attivi"
+    ],
+    "anteriores_lideres_page": {
+        "eyebrow": "Min diġà mexxa lill-JP",
+        "title": "Mexxejja Preċedenti",
+        "lede": "Il-presidenti li, tul is-snin, taw wiċċ u leħen lill-Juventude Popular.",
+        "atual": "ATTWALI",
+        "presente": "preżent"
+    },
+    "historia_page": {
+        "eyebrow": "L-istorja tagħna",
+        "title": "Ħames deċennji fis-servizz tal-Portugall",
+        "lede": "Mit-twaqqif fl-1974 sal-istruttura nazzjonali tal-lum — l-istorja tal-Juventude Popular ssegwi dik tas-CDS innifsu.",
+        "marcos": [
+            {
+                "titulo": "1974 — Juventude Centrista",
+                "texto": "Fl-istess sena tat-twaqqif tas-CDS, titwieled l-organizzazzjoni żagħżugħa tiegħu, dak iż-żmien bl-isem Juventude Centrista."
+            },
+            {
+                "titulo": "1998 — Issir Juventude Popular",
+                "texto": "L-organizzazzjoni tadotta l-isem Juventude Popular, identità li żżomm sal-lum."
+            },
+            {
+                "titulo": "Preżenza internazzjonali",
+                "texto": "Il-JP hija membru tal-YEPP (Youth of the European People's Party), tad-DEMYC (Democrat Youth Community of Europe) u tal-IYDU (International Young Democrat Union)."
+            },
+            {
+                "titulo": "Illum",
+                "texto": "Aktar minn 100 fergħa lokali attiva mit-tramuntana san-nofsinhar tal-pajjiż u l-gżejjer, b'Kungress Nazzjonali kull sentejn."
+            }
+        ]
+    },
+    "marca_jp_page": {
+        "eyebrow": "Ilbes il-kawżi tiegħek",
+        "title": "Marka JP",
+        "lede": "Merkanzija uffiċjali tal-Juventude Popular — ilbes il-marka, appoġġja l-istruttura."
+    },
+    "contactos_page": {
+        "eyebrow": "Kellimna",
+        "title": "Kuntatti",
+        "lede": "Aħna disponibbli għal kwalunkwe mistoqsija dwar l-istruttura nazzjonali jew il-fergħat lokali.",
+        "label_sede": "Sede Nazzjonali",
+        "label_email": "Email",
+        "label_telefone": "Telefon"
+    },
+    "goncalo_begonha_page": {
+        "eyebrow": "Tifkira li għadha ħajja",
+        "title": "Gonçalo Begonha",
+        "lede": "1980 — 2003",
+        "meta_description": "Gonçalo Botelho Gomes Begonha, mexxej tal-Juventude Popular li jismu jissejjaħ l-Uffiċċju tal-Istudji."
+    },
+    "sucesso_page": {
+        "title": "Ordni kkonfermat!",
+        "message": "Bgħatnielek email ta' konferma. Grazzi talli qed tappoġġja lill-Juventude Popular.",
+        "cta": "Lura għall-ħanut"
+    },
+    "cart": {
+        "adicionar": "Żid",
+        "carrinho": "Karrettun",
+        "vazio": "Il-karrettun tiegħek vojt.",
+        "total": "Total",
+        "finalizar": "Lesta x-xiri",
+        "processando": "Qed jiġi pproċessat...",
+        "pagar": "Ħallas",
+        "remover": "Neħħi",
+        "erro_pagamento": "Żball fil-bidu tal-ħlas.",
+        "erro_processar": "Żball fl-ipproċessar.",
+        "ph_nome": "Isem sħiħ",
+        "ph_email": "Email",
+        "ph_morada": "Indirizz",
+        "ph_cp": "Kodiċi Postali",
+        "ph_localidade": "Lokalità"
+    },
+    "aderir_form": {
+        "step1": "Dettalji Personali",
+        "step2": "Indirizz",
+        "step3": "Dokument",
+        "erro_ficheiro_tamanho": "Il-fajl ma jistax jaqbeż it-8MB.",
+        "erro_ficheiro_formato": "Format invalidu. Uża JPG, PNG jew PDF.",
+        "erro_ficheiro_obrigatorio": "Trid tehmeż kopja tal-Karta tal-Identità tiegħek.",
+        "erro_submeter": "Żball fis-sottomissjoni. Erġa' pprova.",
+        "erro_enviar": "Żball fil-mibgħut. Erġa' pprova.",
+        "bem_vindo": "Merħba fil-JP, {nome}!",
+        "camarada": "sieħeb",
+        "confirmacao": "Irċevejna l-applikazzjoni u d-dokument tiegħek. Is-CPN se jivvalida d-dettalji u jwieġbek fi żmien ġimgħa tax-xogħol fuq {email}.",
+        "passos_aria": "Passi tal-formola",
+        "label_nome": "Isem sħiħ *",
+        "label_dataNascimento": "Data tat-twelid *",
+        "label_email": "Email *",
+        "label_telemovel": "Mowbajl *",
+        "label_estabelecimento": "Istituzzjoni Edukattiva",
+        "ph_estabelecimento": "(mhux obbligatorju)",
+        "ph_email": "email@ezempju.mt",
+        "ph_telemovel": "+351 9XX XXX XXX",
+        "aviso_parental": "Peress li għandek bejn 14 u 15-il sena, għandna bżonn id-dettalji tal-ġenitur/kustodju tiegħek.",
+        "label_encNome": "Isem il-ġenitur/kustodju *",
+        "label_encContacto": "Kuntatt tal-ġenitur/kustodju *",
+        "label_morada": "Indirizz *",
+        "ph_morada": "Triq, post...",
+        "label_numero": "Nru.",
+        "label_localidade": "Lokalità *",
+        "ph_localidade": "Eż. Pena Verde",
+        "label_cp": "Kodiċi Postali",
+        "ph_cp": "0000-000",
+        "label_distrito": "Distrett / Reġjun Awtonomu *",
+        "ph_seleciona": "Agħżel...",
+        "label_concelho": "Muniċipalità *",
+        "ph_concelho": "Eż. Aguiar da Beira",
+        "nota_concelhia": "Il-fergħa lokali tiegħek tiġi assenjata awtomatikament skont il-muniċipalità indikata.",
+        "label_cc": "Numru tal-Karta tal-Identità *",
+        "ph_cc": "00000000 0 ZZ0",
+        "label_upload": "Kopja li tinqara tal-Karta tal-Identità (quddiem u wara) *",
+        "remover_ficheiro_aria": "Neħħi l-fajl",
+        "upload_cta": "Ikklikkja biex tehmeż (JPG, PNG jew PDF, massimu 8MB)",
+        "nota_privacidade": "Id-dokument jinżamm privatament u jitħassar fi żmien 30 jum wara d-deċiżjoni.",
+        "aceito_pre": "Naċċetta t-Termini u l-Kundizzjonijiet u l-",
+        "politica": "Politika tal-Privatezza",
+        "anterior": "Ta' qabel",
+        "proximo": "Li jmiss",
+        "enviando": "Qed jintbagħat…",
+        "confirmar": "Ikkonferma s-Sħubija"
+    },
+    "aderir_form_errors": {
+        "nome_curto": "Isem qasir wisq",
+        "data_obrigatoria": "Id-data tat-twelid hija obbligatorja",
+        "email_invalido": "Email invalidu",
+        "telemovel_invalido": "Numru tat-telefon invalidu",
+        "data_invalida": "Data invalida",
+        "idade_min": "Età minima għas-sħubija: 14-il sena",
+        "idade_max": "Età massima għas-sħubija: 30 sena",
+        "enc_obrigatorio": "Obbligatorju għal taħt is-16-il sena",
+        "morada_obrigatoria": "L-indirizz huwa obbligatorju",
+        "localidade_obrigatoria": "Il-lokalità hija obbligatorja",
+        "distrito_obrigatorio": "Id-distrett huwa obbligatorju",
+        "concelho_obrigatorio": "Il-muniċipalità hija obbligatorja",
+        "cc_invalido": "Numru tal-Karta tal-Identità invalidu",
+        "termos_obrigatorio": "Trid taċċetta t-termini u l-politika tal-privatezza"
+    },
+    "timeline": {
+        "eyebrow": "Il-vjaġġ tagħna",
+        "heading": "Ħames deċennji jibnu l-futur",
+        "marcos": [
+            {
+                "ano": "1974",
+                "title": "Juventude Centrista",
+                "text": "Twaqqif tal-organizzazzjoni żagħżugħa marbuta mas-CDS, fl-istess sena tat-twaqqif tal-partit."
+            },
+            {
+                "ano": "1998",
+                "title": "Issir Juventude Popular",
+                "text": "L-organizzazzjoni tadotta l-isem u l-identità li żżomm sal-lum."
+            },
+            {
+                "ano": "2020",
+                "title": "Tiġdid tat-tmexxija",
+                "text": "Wara t-tlugħ ta' Francisco Rodrigues fis-CDS-PP, Francisco Mota jsir president interim."
+            },
+            {
+                "ano": "2021",
+                "title": "Francisco Camacho elett",
+                "text": "L-eks president tad-distrett ta' Lisbona jiġi elett president tal-JP fil-Kungress Nazzjonali."
+            },
+            {
+                "ano": "2025",
+                "title": "Catarina Marinho tieħu t-tmexxija",
+                "text": "Bidu tal-mandat attwali, bil-motto \"Mid-Diskors għall-Azzjoni. Għall-Portugall!\""
+            },
+            {
+                "ano": "2026",
+                "title": "XXVII Kungress Nazzjonali",
+                "text": "Sar f'April, b'reviżjoni tal-istatuti u t-tnedija tat-tiġdid tal-istruttura diġitali nazzjonali."
+            },
+            {
+                "ano": "Illum",
+                "title": "Aktar minn 100 fergħa lokali",
+                "text": "Struttura attiva mit-tramuntana san-nofsinhar tal-pajjiż u l-gżejjer, li qed tikber f'kull distrett."
+            }
+        ]
+    },
+    "trust": {
+        "eyebrow": "Trasparenza",
+        "heading": "Il-fiduċja tinkiseb bil-klarità",
+        "lede": "Qabel ma tagħtina d-dettalji tiegħek, huwa ġust li tkun taf x'tista' tistenna minna.",
+        "items": [
+            {
+                "title": "Struttura ta' voluntarjat",
+                "text": "Il-JP hija organizzazzjoni żagħżugħa politika mingħajr skop ta' qligħ. It-tmexxija nazzjonali u l-fergħat lokali huma mmexxija minn voluntiera."
+            },
+            {
+                "title": "Dejta protetta bis-serjetà",
+                "text": "Id-dettalji tas-sħubija tiegħek jinsabu f'bażi tad-dejta iżolata, b'aċċess ristrett għas-CPN; id-dokument tal-identità jitħassar 30 jum wara d-deċiżjoni."
+            },
+            {
+                "title": "Statuti nazzjonali",
+                "text": "L-istruttura kollha ssegwi l-Istatuti approvati fil-Kungress Nazzjonali, disponibbli mingħand it-tmexxija ta' kwalunkwe fergħa lokali."
+            }
+        ]
+    },
+    "vozes_da_casa": {
+        "label": "Leħen id-Dar",
+        "aria_ver": "Ara l-kwotazzjoni {n}",
+        "cargo_fundador": "Fundatur tas-CDS"
+    }
+}

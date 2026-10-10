@@ -1,0 +1,353 @@
+{
+    "nav": {
+        "causas": "Pilares",
+        "concelhias": "Concelhias",
+        "atividades": "Atividades",
+        "orgaos": "Órgãos Nacionais",
+        "documentacao": "Documentação",
+        "contactos": "Contactos",
+        "aderir": "Quero Juntar-me",
+        "anteriores_lideres": "Anteriores Líderes"
+    },
+    "hero": {
+        "eyebrow": "Juventude do CDS-PP · Desde 1974",
+        "title": "Junta-te a nós!",
+        "lede": "A Juventude Popular precisa do teu apoio. Preenche os dados da nossa ficha de militância e junta-te à casa da verdadeira Direita.",
+        "cta_primary": "Quero Juntar-me",
+        "cta_secondary": "Conhecer os pilares",
+        "stat_founded": "Fundada em",
+        "stat_founded_value": "1974",
+        "stat_congress": "Congresso Nacional",
+        "stat_congress_value": "XXVII",
+        "stat_founded_label": "Ano de fundação",
+        "stat_concelhias_label": "Concelhias ativas",
+        "stat_congress_label": "Congresso Nacional",
+        "stat_pilares_label": "Pilares ideológicos"
+    },
+    "pilares": {
+        "eyebrow": "O que nos define",
+        "title": "Três pilares, uma prática",
+        "lede": "Não são três correntes a competir, mas sim as três bases sobre as quais a JP decide, desde o primeiro dia.",
+        "democracia_crista_title": "Democracia-Cristã",
+        "democracia_crista_body": "A pessoa humana e a família como ponto de partida de qualquer política pública, não o Estado.",
+        "conservadorismo_title": "Conservadorismo",
+        "conservadorismo_body": "Mudar o que precisa de mudar, preservando o que já funciona — reforma com raízes, não rutura por rutura.",
+        "liberalismo_title": "Liberalismo",
+        "liberalismo_body": "Liberdade económica e responsabilidade individual: o Estado ao serviço das pessoas, não o contrário."
+    },
+    "concelhias": {
+        "eyebrow": "No terreno",
+        "title": "Uma concelhia perto de ti",
+        "lede": "Mais de 100 núcleos concelhios ativos, de norte a sul e ilhas. Encontra o teu.",
+        "cta": "Ver todas as concelhias"
+    },
+    "atividades": {
+        "eyebrow": "Atividade recente",
+        "title": "O que a JP tem feito",
+        "lede": "Notícias e eventos dos núcleos, atualizados pelas próprias concelhias e pela direção nacional.",
+        "cta": "Ver todas as atividades",
+        "empty_noticias": "Ainda não há notícias publicadas.",
+        "empty_eventos": "Ainda não há eventos agendados."
+    },
+    "juntar": {
+        "title": "Portugal decide-se com quem aparece.",
+        "lede": "Preenche a tua ficha de pré-inscrição. A tua concelhia entra em contacto contigo em breve.",
+        "cta": "Enviar pré-inscrição"
+    },
+    "footer": {
+        "sede": "Sede Nacional: Largo Adelino Amaro da Costa, 5, 1149-063 Lisboa",
+        "jp_heading": "JP",
+        "historia": "História",
+        "pilares": "Pilares Ideológicos",
+        "orgaos": "Órgãos Nacionais",
+        "participar_heading": "Participar",
+        "aderir": "Quero Juntar-me",
+        "atividades": "Atividades",
+        "carta": "Carta de Princípios",
+        "contactos_heading": "Contactos",
+        "rights": "Juventude Popular. Organização de juventude do CDS-PP.",
+        "portal_label": "Portal do Militante",
+        "admin_label": "Área de Administração"
+    },
+    "concelhias_page": {
+        "eyebrow": "Estrutura territorial",
+        "title": "Encontra a tua concelhia",
+        "lede": "Mais de 100 núcleos concelhios ativos, organizados por distrito. Aparecem aqui assim que a Comissão Política Nacional os reconhece.",
+        "search_placeholder": "Procurar por concelho ou distrito...",
+        "search_clear": "Limpar pesquisa",
+        "search_no_results_title": "Sem resultados",
+        "search_no_results_hint": "Não encontrámos nenhuma concelhia para \"{query}\". Tenta outro nome ou distrito.",
+        "empty_email": "Email por confirmar",
+        "empty_instagram": "Instagram por confirmar"
+    },
+    "orgaos_page": {
+        "eyebrow": "Estrutura nacional",
+        "title": "Órgãos Nacionais",
+        "lede": "A estrutura de direção e disciplina da JP a nível nacional, tal como definida nos Estatutos.",
+        "cpn_title": "Comissão Política Nacional",
+        "cpn_body": "Órgão executivo máximo da JP entre Congressos. Define a estratégia política nacional e gere a estrutura em permanência.",
+        "mcn_title": "Mesa do Congresso Nacional",
+        "mcn_body": "Dirige os trabalhos do Congresso Nacional, o órgão soberano máximo da JP.",
+        "disciplina_title": "Comissão de Disciplina",
+        "disciplina_body": "Responsável pelos processos disciplinares internos, nos termos previstos nos Estatutos.",
+        "jurisdicao_title": "Conselho de Jurisdição e Fiscalização",
+        "jurisdicao_body": "Vela pelo cumprimento dos Estatutos e pela legalidade interna dos atos da JP.",
+        "mesa_conselho_title": "Mesa do Conselho Nacional",
+        "mesa_conselho_body": "Dirige os trabalhos do Conselho Nacional, órgão deliberativo entre Congressos.",
+        "gabinete_title": "Gabinete de Estudos Gonçalo Begonha",
+        "gabinete_body": "Estrutura de reflexão política e produção doutrinária da JP, com o nome do seu fundador."
+    },
+    "aderir_page": {
+        "eyebrow": "A tua vez",
+        "title": "Junta-te a nós!",
+        "lede": "A Juventude Popular precisa do teu apoio. Preenche os dados da nossa ficha de militância e junta-te à casa da verdadeira Direita. O compromisso é responder-te no prazo de uma semana útil.",
+        "label_nome": "Nome completo",
+        "label_nascimento": "Data de nascimento",
+        "label_email": "Email",
+        "label_telemovel": "Telemóvel",
+        "label_distrito": "Distrito",
+        "label_morada": "Morada",
+        "consent": "Li e aceito a Política de Privacidade e os Termos e Condições.",
+        "parental_note": "Se tiveres menos de 16 anos, vamos pedir-te de seguida o contacto do teu encarregado de educação.",
+        "submit": "Enviar pré-inscrição"
+    },
+    "carta_page": {
+        "eyebrow": "Documento fundador",
+        "title": "Carta de Princípios",
+        "lede": "Os princípios que orientam a ação política da Juventude Popular, enquanto organização de juventude do CDS-PP.",
+        "s1_title": "Uma organização de causas",
+        "p1": "A Juventude Popular é uma organização de causas, ancorada em três correntes — Democracia-Cristã, Conservadorismo e Liberalismo — que não competem entre si. Decidimos sempre a partir das três em conjunto, nunca escolhendo uma consoante a conveniência do momento.",
+        "s2_title": "A pessoa humana e a família",
+        "p2": "Colocamos a pessoa humana, a família e as comunidades locais no centro da ação política — não um Estado que decide tudo em nome de todos. Seguimos o princípio da subsidiariedade: o que a família, a comunidade ou o poder local conseguem resolver não deve subir a um nível de decisão mais distante.",
+        "s3_title": "Liberdade económica e responsabilidade",
+        "p3": "Defendemos a liberdade económica e a responsabilidade individual como condições de progresso. Hoje o Estado cobra a mais e gasta pior do que devia; queremos inverter essa lógica, sem deixar de lado a solidariedade para com quem mais precisa.",
+        "s4_title": "Reforma com raízes",
+        "p4": "Mudamos o que precisa de mudar e preservamos o que já funciona. Uma reforma só é séria quando respeita a experiência de quem veio antes — progresso não é o mesmo que rutura só porque sim, movida apenas pela urgência de quem decide hoje.",
+        "s5_title": "Portugal na Europa",
+        "p5": "Participamos ativamente na construção europeia, sem perder por isso a nossa identidade nacional. Para nós, a União Europeia deve ser um espaço de cooperação entre nações livres — não um substituto da soberania de cada uma delas.",
+        "s6_title": "Uma nova geração ao serviço do país",
+        "p6": "Já temos voz, sem esperar pela nossa vez: discutimos, propomos e agimos em mais de 100 concelhias. A política de causas não se faz só em Lisboa — faz-se em cada município do país."
+    },
+    "documentacao_page": {
+        "eyebrow": "Ex-Sede Virtual",
+        "title": "Documentação",
+        "lede": "Convocatórias, estatutos, regulamentos e minutas da Juventude Popular — tudo o que precisas de consultar, num só lugar.",
+        "search_placeholder": "Procurar documento...",
+        "cat_convocatorias": "Convocatórias",
+        "cat_estatutos": "Estatutos e Regulamentos",
+        "cat_minutas": "Minutas e Documentos",
+        "cat_premios": "Prémios"
+    },
+    "a11y_skip_link": "Saltar para o conteúdo principal",
+    "marquee": [
+        "🇵🇹 Portugal decide-se com quem aparece",
+        "🗳️ Democracia local",
+        "💼 Emprego para jovens",
+        "🏠 Habitação acessível",
+        "🎓 Educação de qualidade",
+        "🤝 Participação cívica",
+        "⚡ Renovação política",
+        "💛 100+ concelhias ativas"
+    ],
+    "anteriores_lideres_page": {
+        "eyebrow": "Quem já liderou a JP",
+        "title": "Anteriores Líderes",
+        "lede": "Os presidentes que, ao longo dos anos, deram rosto e voz à Juventude Popular.",
+        "atual": "ATUAL",
+        "presente": "presente"
+    },
+    "historia_page": {
+        "eyebrow": "A nossa história",
+        "title": "Cinco décadas ao serviço de Portugal",
+        "lede": "Da fundação em 1974 à estrutura nacional de hoje — a história da Juventude Popular acompanha a do próprio CDS.",
+        "marcos": [
+            {
+                "titulo": "1974 — Juventude Centrista",
+                "texto": "No mesmo ano da fundação do CDS, nasce a sua organização de juventude, então com o nome de Juventude Centrista."
+            },
+            {
+                "titulo": "1998 — Passa a Juventude Popular",
+                "texto": "A organização adota o nome de Juventude Popular, identidade que mantém até hoje."
+            },
+            {
+                "titulo": "Presença internacional",
+                "texto": "A JP é membro da YEPP (Youth of the European People's Party), da DEMYC (Democrat Youth Community of Europe) e da IYDU (International Young Democrat Union)."
+            },
+            {
+                "titulo": "Hoje",
+                "texto": "Mais de 100 concelhias ativas de norte a sul do país e ilhas, com um Congresso Nacional a cada dois anos."
+            }
+        ]
+    },
+    "marca_jp_page": {
+        "eyebrow": "Veste as tuas causas",
+        "title": "Marca JP",
+        "lede": "Merchandise oficial da Juventude Popular — usa a marca, apoia a estrutura."
+    },
+    "contactos_page": {
+        "eyebrow": "Fala connosco",
+        "title": "Contactos",
+        "lede": "Estamos disponíveis para qualquer questão sobre a estrutura nacional ou as concelhias.",
+        "label_sede": "Sede Nacional",
+        "label_email": "Email",
+        "label_telefone": "Telefone"
+    },
+    "goncalo_begonha_page": {
+        "eyebrow": "Uma memória que continua viva",
+        "title": "Gonçalo Begonha",
+        "lede": "1980 — 2003",
+        "meta_description": "Gonçalo Botelho Gomes Begonha, dirigente da Juventude Popular que dá nome ao Gabinete de Estudos."
+    },
+    "sucesso_page": {
+        "title": "Encomenda confirmada!",
+        "message": "Enviámos um email de confirmação. Obrigado por apoiares a Juventude Popular.",
+        "cta": "Voltar à loja"
+    },
+    "cart": {
+        "adicionar": "Adicionar",
+        "carrinho": "Carrinho",
+        "vazio": "O carrinho está vazio.",
+        "total": "Total",
+        "finalizar": "Finalizar compra",
+        "processando": "A processar...",
+        "pagar": "Pagar",
+        "remover": "Remover",
+        "erro_pagamento": "Erro ao iniciar pagamento.",
+        "erro_processar": "Erro ao processar.",
+        "ph_nome": "Nome completo",
+        "ph_email": "Email",
+        "ph_morada": "Morada",
+        "ph_cp": "Código Postal",
+        "ph_localidade": "Localidade"
+    },
+    "aderir_form": {
+        "step1": "Dados Pessoais",
+        "step2": "Morada",
+        "step3": "Documento",
+        "erro_ficheiro_tamanho": "O ficheiro não pode exceder 8MB.",
+        "erro_ficheiro_formato": "Formato inválido. Usa JPG, PNG ou PDF.",
+        "erro_ficheiro_obrigatorio": "É obrigatório anexar a fotocópia do Cartão de Cidadão.",
+        "erro_submeter": "Erro ao submeter. Tenta novamente.",
+        "erro_enviar": "Erro ao enviar. Tenta novamente.",
+        "bem_vindo": "Bem-vindo/a à JP, {nome}!",
+        "camarada": "camarada",
+        "confirmacao": "Recebemos a tua adesão e o teu documento. A CPN vai validar os dados e responde-te em até uma semana útil, através de {email}.",
+        "passos_aria": "Passos do formulário",
+        "label_nome": "Nome completo *",
+        "label_dataNascimento": "Data de nascimento *",
+        "label_email": "Email *",
+        "label_telemovel": "Telemóvel *",
+        "label_estabelecimento": "Estabelecimento de Ensino",
+        "ph_estabelecimento": "(opcional)",
+        "ph_email": "email@exemplo.pt",
+        "ph_telemovel": "+351 9XX XXX XXX",
+        "aviso_parental": "Como tens entre 14 e 15 anos, precisamos do encarregado de educação.",
+        "label_encNome": "Nome do encarregado de educação *",
+        "label_encContacto": "Contacto do encarregado de educação *",
+        "label_morada": "Morada *",
+        "ph_morada": "Rua, lugar...",
+        "label_numero": "Nº",
+        "label_localidade": "Localidade *",
+        "ph_localidade": "Ex: Pena Verde",
+        "label_cp": "Código Postal",
+        "ph_cp": "0000-000",
+        "label_distrito": "Distrito / Região Autónoma *",
+        "ph_seleciona": "Seleciona...",
+        "label_concelho": "Concelho *",
+        "ph_concelho": "Ex: Aguiar da Beira",
+        "nota_concelhia": "A tua concelhia é atribuída automaticamente a partir do concelho indicado.",
+        "label_cc": "Número do Cartão de Cidadão *",
+        "ph_cc": "00000000 0 ZZ0",
+        "label_upload": "Fotocópia legível do CC (frente e verso) *",
+        "remover_ficheiro_aria": "Remover ficheiro",
+        "upload_cta": "Clica para anexar (JPG, PNG ou PDF, máx. 8MB)",
+        "nota_privacidade": "O documento fica guardado de forma privada e é eliminado até 30 dias após a decisão sobre o pedido.",
+        "aceito_pre": "Aceito os Termos e Condições e a",
+        "politica": "Política de Privacidade",
+        "anterior": "Anterior",
+        "proximo": "Próximo",
+        "enviando": "A enviar…",
+        "confirmar": "Confirmar Adesão"
+    },
+    "aderir_form_errors": {
+        "nome_curto": "Nome demasiado curto",
+        "data_obrigatoria": "Data de nascimento é obrigatória",
+        "email_invalido": "Email inválido",
+        "telemovel_invalido": "Telemóvel inválido",
+        "data_invalida": "Data inválida",
+        "idade_min": "Idade mínima de filiação: 14 anos",
+        "idade_max": "Idade máxima de filiação: 30 anos",
+        "enc_obrigatorio": "Obrigatório para menores de 16 anos",
+        "morada_obrigatoria": "Morada é obrigatória",
+        "localidade_obrigatoria": "Localidade é obrigatória",
+        "distrito_obrigatorio": "Distrito é obrigatório",
+        "concelho_obrigatorio": "Concelho é obrigatório",
+        "cc_invalido": "Número de CC inválido",
+        "termos_obrigatorio": "Tens de aceitar os termos e a política de privacidade"
+    },
+    "timeline": {
+        "eyebrow": "O nosso percurso",
+        "heading": "Cinco décadas a construir o futuro",
+        "marcos": [
+            {
+                "ano": "1974",
+                "title": "Juventude Centrista",
+                "text": "Fundação da organização de juventude ligada ao CDS, no mesmo ano da fundação do partido."
+            },
+            {
+                "ano": "1998",
+                "title": "Passa a Juventude Popular",
+                "text": "A organização adota o nome e a identidade que mantém até hoje."
+            },
+            {
+                "ano": "2020",
+                "title": "Renovação de liderança",
+                "text": "Após a ascensão de Francisco Rodrigues ao CDS-PP, Francisco Mota torna-se presidente interino."
+            },
+            {
+                "ano": "2021",
+                "title": "Francisco Camacho eleito",
+                "text": "Ex-presidente da distrital de Lisboa é eleito presidente da JP em Congresso Nacional."
+            },
+            {
+                "ano": "2025",
+                "title": "Catarina Marinho assume a liderança",
+                "text": "Início do mandato atual, com o mote \"Do Dizer ao Fazer. Por Portugal!\""
+            },
+            {
+                "ano": "2026",
+                "title": "XXVII Congresso Nacional",
+                "text": "Realizado em abril, com revisão estatutária e o arranque da renovação da estrutura digital nacional."
+            },
+            {
+                "ano": "Hoje",
+                "title": "Mais de 100 concelhias",
+                "text": "Uma estrutura ativa de norte a sul do país e ilhas, a crescer em cada distrito."
+            }
+        ]
+    },
+    "trust": {
+        "eyebrow": "Transparência",
+        "heading": "Confiança ganha-se com clareza",
+        "lede": "Antes de nos dares os teus dados, é justo saberes o que podes esperar de nós.",
+        "items": [
+            {
+                "title": "Estrutura de voluntariado",
+                "text": "A JP é uma organização política de jovens sem fins lucrativos. A direção nacional e as concelhias são geridas por voluntários."
+            },
+            {
+                "title": "Dados protegidos a sério",
+                "text": "Os teus dados de filiação vivem numa base isolada, com acesso restrito à CPN, documento de identificação eliminado 30 dias após a decisão."
+            },
+            {
+                "title": "Estatutos nacionais",
+                "text": "Toda a estrutura segue os Estatutos aprovados em Congresso Nacional, disponíveis junto da direção de qualquer concelhia."
+            }
+        ]
+    },
+    "vozes_da_casa": {
+        "label": "Vozes da Casa",
+        "aria_ver": "Ver citação {n}",
+        "cargo_fundador": "Fundador do CDS"
+    }
+}

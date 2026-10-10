@@ -1,0 +1,14 @@
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /jp-nacional
+    schedule: { interval: weekly }
+  - package-ecosystem: npm
+    directory: /jp-admin
+    schedule: { interval: weekly }
+  - package-ecosystem: npm
+    directory: /jp-portal
+    schedule: { interval: weekly }
+  - package-ecosystem: github-actions
+    directory: /
+    schedule: { interval: monthly }

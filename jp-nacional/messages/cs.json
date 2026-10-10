@@ -1,0 +1,353 @@
+{
+    "nav": {
+        "causas": "Pilíře",
+        "concelhias": "Místní organizace",
+        "atividades": "Aktivity",
+        "orgaos": "Národní orgány",
+        "documentacao": "Dokumentace",
+        "contactos": "Kontakty",
+        "aderir": "Přidat se",
+        "anteriores_lideres": "Bývalí Vedoucí"
+    },
+    "hero": {
+        "eyebrow": "Mládež CDS-PP · Od roku 1974",
+        "title": "Přidej se k nám!",
+        "lede": "Juventude Popular potřebuje tvoji podporu. Vyplň údaje v naší přihlášce a přidej se k domovu skutečné Pravice.",
+        "cta_primary": "Přidat se",
+        "cta_secondary": "Poznat pilíře",
+        "stat_founded": "Založeno v roce",
+        "stat_founded_value": "1974",
+        "stat_congress": "Národní kongres",
+        "stat_congress_value": "XXVII",
+        "stat_founded_label": "Rok založení",
+        "stat_concelhias_label": "Aktivní místní pobočky",
+        "stat_congress_label": "Národní kongres",
+        "stat_pilares_label": "Ideologické pilíře"
+    },
+    "pilares": {
+        "eyebrow": "Co nás definuje",
+        "title": "Tři pilíře, jedna praxe",
+        "lede": "Nejedná se o tři soupeřící proudy, ale o tři základy, na kterých JP rozhoduje již od prvního dne.",
+        "democracia_crista_title": "Křesťanská demokracie",
+        "democracia_crista_body": "Lidská bytost a rodina jako výchozí bod jakékoli veřejné politiky, nikoli stát.",
+        "conservadorismo_title": "Konzervatismus",
+        "conservadorismo_body": "Měnit to, co je třeba změnit, a zachovávat to, co již funguje – reformy s kořeny, ne rozchod pro rozchod.",
+        "liberalismo_title": "Liberalismus",
+        "liberalismo_body": "Ekonomická svoboda a individuální odpovědnost: stát ve službách lidí, nikoli naopak."
+    },
+    "concelhias": {
+        "eyebrow": "V terénu",
+        "title": "Místní organizace blízko tebe",
+        "lede": "Více než 100 aktivních místních buněk od severu k jihu i na ostrovech. Najdi tu svoji.",
+        "cta": "Zobrazit všechny místní organizace"
+    },
+    "atividades": {
+        "eyebrow": "Nedávná činnost",
+        "title": "Co JP udělala",
+        "lede": "Novinky a akce buněk, aktualizované samotnými místními organizacemi i národním vedením.",
+        "cta": "Zobrazit všechny aktivity",
+        "empty_noticias": "Zatím nebyly zveřejněny žádné novinky.",
+        "empty_eventos": "Zatím nejsou naplánovány žádné akce."
+    },
+    "juntar": {
+        "title": "O Portugalsku rozhodují ti, kteří se zapojí.",
+        "lede": "Vyplň svůj předběžný registrační formulář. Tvoje místní organizace tě bude brzy kontaktovat.",
+        "cta": "Odeslat předběžnou registraci"
+    },
+    "footer": {
+        "sede": "Národní centrála: Largo Adelino Amaro da Costa, 5, 1149-063 Lisabon",
+        "jp_heading": "JP",
+        "historia": "Historie",
+        "pilares": "Ideologické pilíře",
+        "orgaos": "Národní orgány",
+        "participar_heading": "Zapojit se",
+        "aderir": "Přidat se",
+        "atividades": "Aktivity",
+        "carta": "Charta principů",
+        "contactos_heading": "Kontakty",
+        "rights": "Juventude Popular. Mládežnická organizace CDS-PP.",
+        "portal_label": "Portál Člena",
+        "admin_label": "Administrace"
+    },
+    "concelhias_page": {
+        "eyebrow": "Územní struktura",
+        "title": "Najdi svou místní organizaci",
+        "lede": "Více než 100 aktivních místních buněk organizovaných podle okresů. Zobrazí se zde, jakmile je uzná Národní politická komise.",
+        "search_placeholder": "Hledat podle obce nebo okresu...",
+        "search_clear": "Vymazat hledání",
+        "search_no_results_title": "Žádné výsledky",
+        "search_no_results_hint": "Nenašli jsme žádnou místní organizaci pro „{query}“. Zkuste jiný název nebo okres.",
+        "empty_email": "E-mail čeká na potvrzení",
+        "empty_instagram": "Instagram čeká na potvrzení"
+    },
+    "orgaos_page": {
+        "eyebrow": "Národní struktura",
+        "title": "Národní orgány",
+        "lede": "Rídící a disciplinární struktura JP na národní úrovni, jak je definována ve stanovách.",
+        "cpn_title": "Národní politická komise",
+        "cpn_body": "Nejvyšší výkonný orgán JP mezi kongresy. Určuje národní politickou strategii a trvale řídí strukturu.",
+        "mcn_title": "Předsednictvo Národního kongresu",
+        "mcn_body": "Řídí práce Národního kongresu, nejvyššího suverénního orgánu JP.",
+        "disciplina_title": "Disciplinární komise",
+        "disciplina_body": "Odpovídá za vnitřní disciplinární řízení v souladu se stanovami.",
+        "jurisdicao_title": "Rada pro jurisdikci a dohled",
+        "jurisdicao_body": "Dohlíží na dodržování stanov a vnitřní zákonnost aktů JP.",
+        "mesa_conselho_title": "Předsednictvo Národní rady",
+        "mesa_conselho_body": "Řídí práce Národní rady, rozhodovacího orgánu mezi kongresy.",
+        "gabinete_title": "Kabinet studií Gonçala Begonhy",
+        "gabinete_body": "Struktura pro politickou reflexi a doktrinální tvorbu JP, pojmenovaná po svém zakladateli."
+    },
+    "aderir_page": {
+        "eyebrow": "Řada je na tobě",
+        "title": "Přidej se k nám!",
+        "lede": "Juventude Popular potřebuje tvoji podporu. Vyplň údaje v naší přihlášce a přidej se k domovu skutečné Pravice – zavazujeme se odpovědět do jednoho pracovního týdne.",
+        "label_nome": "Celé jméno",
+        "label_nascimento": "Datum narození",
+        "label_email": "E-mail",
+        "label_telemovel": "Mobilní telefon",
+        "label_distrito": "Okres",
+        "label_morada": "Adresa",
+        "consent": "Přečetl/a jsem si a souhlasím s Zásadami ochrany osobních údajů a Obchodními podmínkami.",
+        "parental_note": "Pokud je ti méně než 16 let, požádáme tě v dalším kroku o kontakt na tvého zákonného zástupce.",
+        "submit": "Odeslat předběžnou registraci"
+    },
+    "carta_page": {
+        "eyebrow": "Zakládající dokument",
+        "title": "Charta principů",
+        "lede": "Principy, kterými se řídí politické jednání Juventude Popular jako mládežnické organizace CDS-PP.",
+        "s1_title": "Organizace hodnot a cílů",
+        "p1": "Juventude Popular se profiluje jako organizace hodnot a cílů, zakotvená v křesťanské demokracii, konzervatismu a liberalismu – nikoli jako tři soupeřící proudy, ale jako tři základy, které se vzájemně posilují při našem rozhodování. Nevybíráme si mezi nimi podle momentální výhodnosti: uplatňujeme je společně jako metodu.",
+        "s2_title": "Lidská bytost a rodina",
+        "p2": "Lidskou bytost, rodinu a místní komunity stavíme do středu politického jednání jako alternativu ke státu, který rozhoduje o všem za všechny. Věříme v princip subsidiarity: to, co může vyřešit rodina, komunita nebo místní samospráva, by nemělo stoupat na vzdálenější úroveň rozhodování.",
+        "s3_title": "Ekonomická svoboda a odpovědnost",
+        "p3": "Obhajujeme ekonomickou svobodu a individuální odpovědnost jako podmínky pokroku. Stát ve službách lidí vybírá méně, než potřebuje, aby utrácel více, než by měl, a právě tento vztah chceme obrátit, aniž bychom se vzdali solidarity s těmi, kteří to nejvíce potřebují.",
+        "s4_title": "Reforma s kořeny",
+        "p4": "Měníme to, co je třeba změnit, a zachováváme to, co již funguje. Nezaměňujeme pokrok s rozchodem pro rozchod: reforma je vážná pouze tehdy, když respektuje nahromaděné zkušenosti těch, kteří přišli před námi, a ne pouze naléhavost těch, kteří rozhodují dnes.",
+        "s5_title": "Portugalsko v Evropě",
+        "p5": "Aktivně se podílíme na evropské integraci, aniž bychom tím ztráceli svou národní identitu. Evropská unie musí být prostorem spolupráce mezi svobodnými národy, nikoli náhradou národní suverenity.",
+        "s6_title": "Nová generace ve službách země",
+        "p6": "Nečekáme, až na nás přijde řada, abychom měli hlas. Organizujeme se, diskutujeme, navrhujeme a jednáme ve více než 100 místních organizacích, protože hodnotová politika se nedělá jen v Lisabonu, ale v každé obci a městě v zemi."
+    },
+    "documentacao_page": {
+        "eyebrow": "Bývalá virtuální centrála",
+        "title": "Dokumentace",
+        "lede": "Svolání, stanovy, předpisy a zápisy Juventude Popular – vše, co potřebujete konzultovat, na jednom místě.",
+        "search_placeholder": "Hledat dokument...",
+        "cat_convocatorias": "Svolání",
+        "cat_estatutos": "Stanovy a předpisy",
+        "cat_minutas": "Zápisy a dokumenty",
+        "cat_premios": "Ocenění"
+    },
+    "a11y_skip_link": "Přejít na hlavní obsah",
+    "marquee": [
+        "🇵🇹 O Portugalsku rozhodují ti, kdo přijdou",
+        "🗳️ Místní demokracie",
+        "💼 Práce pro mladé",
+        "🏠 Dostupné bydlení",
+        "🎓 Kvalitní vzdělání",
+        "🤝 Občanská participace",
+        "⚡ Politická obnova",
+        "💛 100+ aktivních místních poboček"
+    ],
+    "anteriores_lideres_page": {
+        "eyebrow": "Kdo už vedl JP",
+        "title": "Bývalí Vedoucí",
+        "lede": "Předsedové, kteří v průběhu let dali Juventude Popular tvář a hlas.",
+        "atual": "SOUČASNÝ",
+        "presente": "současnost"
+    },
+    "historia_page": {
+        "eyebrow": "Naše historie",
+        "title": "Pět desetiletí ve službách Portugalska",
+        "lede": "Od založení v roce 1974 po dnešní národní strukturu — historie Juventude Popular sleduje historii samotného CDS.",
+        "marcos": [
+            {
+                "titulo": "1974 — Juventude Centrista",
+                "texto": "Ve stejném roce jako založení CDS vzniká jeho mládežnická organizace, tehdy nazvaná Juventude Centrista."
+            },
+            {
+                "titulo": "1998 — Stává se Juventude Popular",
+                "texto": "Organizace přijímá název Juventude Popular, identitu, kterou si zachovává dodnes."
+            },
+            {
+                "titulo": "Mezinárodní přítomnost",
+                "texto": "JP je členem YEPP (Youth of the European People's Party), DEMYC (Democrat Youth Community of Europe) a IYDU (International Young Democrat Union)."
+            },
+            {
+                "titulo": "Dnes",
+                "texto": "Přes 100 aktivních místních poboček od severu po jih země a na ostrovech, s Národním kongresem každé dva roky."
+            }
+        ]
+    },
+    "marca_jp_page": {
+        "eyebrow": "Nos své hodnoty",
+        "title": "Značka JP",
+        "lede": "Oficiální merchandising Juventude Popular — nos značku, podpoř strukturu."
+    },
+    "contactos_page": {
+        "eyebrow": "Promluvte si s námi",
+        "title": "Kontakty",
+        "lede": "Jsme k dispozici pro jakýkoli dotaz ohledně národní struktury nebo místních poboček.",
+        "label_sede": "Národní sídlo",
+        "label_email": "Email",
+        "label_telefone": "Telefon"
+    },
+    "goncalo_begonha_page": {
+        "eyebrow": "Vzpomínka, která žije dál",
+        "title": "Gonçalo Begonha",
+        "lede": "1980 — 2003",
+        "meta_description": "Gonçalo Botelho Gomes Begonha, funkcionář Juventude Popular, po němž je pojmenována Studijní kancelář."
+    },
+    "sucesso_page": {
+        "title": "Objednávka potvrzena!",
+        "message": "Poslali jsme vám potvrzovací e-mail. Děkujeme, že podporujete Juventude Popular.",
+        "cta": "Zpět do obchodu"
+    },
+    "cart": {
+        "adicionar": "Přidat",
+        "carrinho": "Košík",
+        "vazio": "Váš košík je prázdný.",
+        "total": "Celkem",
+        "finalizar": "Dokončit nákup",
+        "processando": "Zpracovává se...",
+        "pagar": "Zaplatit",
+        "remover": "Odebrat",
+        "erro_pagamento": "Chyba při zahájení platby.",
+        "erro_processar": "Chyba při zpracování.",
+        "ph_nome": "Celé jméno",
+        "ph_email": "Email",
+        "ph_morada": "Adresa",
+        "ph_cp": "PSČ",
+        "ph_localidade": "Obec"
+    },
+    "aderir_form": {
+        "step1": "Osobní Údaje",
+        "step2": "Adresa",
+        "step3": "Dokument",
+        "erro_ficheiro_tamanho": "Soubor nesmí přesáhnout 8MB.",
+        "erro_ficheiro_formato": "Neplatný formát. Použij JPG, PNG nebo PDF.",
+        "erro_ficheiro_obrigatorio": "Musíš přiložit kopii svého občanského průkazu.",
+        "erro_submeter": "Chyba při odesílání. Zkus to znovu.",
+        "erro_enviar": "Chyba při odesílání. Zkus to znovu.",
+        "bem_vindo": "Vítej v JP, {nome}!",
+        "camarada": "soudruhu",
+        "confirmacao": "Přihlášku a dokument jsme obdrželi. CPN ověří údaje a odpoví do jednoho pracovního týdne na {email}.",
+        "passos_aria": "Kroky formuláře",
+        "label_nome": "Celé jméno *",
+        "label_dataNascimento": "Datum narození *",
+        "label_email": "Email *",
+        "label_telemovel": "Mobilní telefon *",
+        "label_estabelecimento": "Vzdělávací instituce",
+        "ph_estabelecimento": "(volitelné)",
+        "ph_email": "email@priklad.cz",
+        "ph_telemovel": "+351 9XX XXX XXX",
+        "aviso_parental": "Vzhledem k tomu, že je ti 14–15 let, potřebujeme údaje tvého zákonného zástupce.",
+        "label_encNome": "Jméno zákonného zástupce *",
+        "label_encContacto": "Kontakt na zákonného zástupce *",
+        "label_morada": "Adresa *",
+        "ph_morada": "Ulice, místo...",
+        "label_numero": "Č.",
+        "label_localidade": "Obec *",
+        "ph_localidade": "Např. Pena Verde",
+        "label_cp": "PSČ",
+        "ph_cp": "0000-000",
+        "label_distrito": "Okres / Autonomní region *",
+        "ph_seleciona": "Vyber...",
+        "label_concelho": "Obec (concelho) *",
+        "ph_concelho": "Např. Aguiar da Beira",
+        "nota_concelhia": "Tvá místní pobočka je přiřazena automaticky podle uvedené obce.",
+        "label_cc": "Číslo občanského průkazu *",
+        "ph_cc": "00000000 0 ZZ0",
+        "label_upload": "Čitelná kopie občanského průkazu (přední a zadní strana) *",
+        "remover_ficheiro_aria": "Odebrat soubor",
+        "upload_cta": "Klikni pro přiložení (JPG, PNG nebo PDF, max. 8MB)",
+        "nota_privacidade": "Dokument je uložen soukromě a smazán do 30 dnů po rozhodnutí.",
+        "aceito_pre": "Souhlasím s Podmínkami a se",
+        "politica": "Zásadami ochrany osobních údajů",
+        "anterior": "Zpět",
+        "proximo": "Další",
+        "enviando": "Odesílá se…",
+        "confirmar": "Potvrdit Členství"
+    },
+    "aderir_form_errors": {
+        "nome_curto": "Jméno je příliš krátké",
+        "data_obrigatoria": "Datum narození je povinné",
+        "email_invalido": "Neplatný email",
+        "telemovel_invalido": "Neplatné telefonní číslo",
+        "data_invalida": "Neplatné datum",
+        "idade_min": "Minimální věk pro členství: 14 let",
+        "idade_max": "Maximální věk pro členství: 30 let",
+        "enc_obrigatorio": "Povinné pro osoby mladší 16 let",
+        "morada_obrigatoria": "Adresa je povinná",
+        "localidade_obrigatoria": "Obec je povinná",
+        "distrito_obrigatorio": "Okres je povinný",
+        "concelho_obrigatorio": "Obec (concelho) je povinná",
+        "cc_invalido": "Neplatné číslo občanského průkazu",
+        "termos_obrigatorio": "Musíš souhlasit s podmínkami a zásadami ochrany osobních údajů"
+    },
+    "timeline": {
+        "eyebrow": "Naše cesta",
+        "heading": "Pět desetiletí budování budoucnosti",
+        "marcos": [
+            {
+                "ano": "1974",
+                "title": "Juventude Centrista",
+                "text": "Založení mládežnické organizace spojené s CDS, ve stejném roce jako založení strany."
+            },
+            {
+                "ano": "1998",
+                "title": "Stává se Juventude Popular",
+                "text": "Organizace přijímá název a identitu, kterou si zachovává dodnes."
+            },
+            {
+                "ano": "2020",
+                "title": "Obnova vedení",
+                "text": "Po vzestupu Francisca Rodriguese v CDS-PP se Francisco Mota stává prozatímním předsedou."
+            },
+            {
+                "ano": "2021",
+                "title": "Zvolen Francisco Camacho",
+                "text": "Bývalý předseda lisabonské oblastní organizace je zvolen předsedou JP na Národním kongresu."
+            },
+            {
+                "ano": "2025",
+                "title": "Catarina Marinho přebírá vedení",
+                "text": "Začátek současného mandátu, s heslem \"Od slov k činům. Pro Portugalsko!\""
+            },
+            {
+                "ano": "2026",
+                "title": "XXVII. Národní kongres",
+                "text": "Konal se v dubnu, se statutární revizí a zahájením obnovy národní digitální struktury."
+            },
+            {
+                "ano": "Dnes",
+                "title": "Přes 100 místních poboček",
+                "text": "Aktivní struktura od severu po jih země a na ostrovech, rostoucí v každém okrese."
+            }
+        ]
+    },
+    "trust": {
+        "eyebrow": "Transparentnost",
+        "heading": "Důvěra se získává jasností",
+        "lede": "Než nám svěříš své údaje, je fér, abys věděl/a, co od nás můžeš očekávat.",
+        "items": [
+            {
+                "title": "Dobrovolnická struktura",
+                "text": "JP je nezisková politická mládežnická organizace. Národní vedení i místní pobočky řídí dobrovolníci."
+            },
+            {
+                "title": "Data opravdu chráněná",
+                "text": "Tvé členské údaje jsou uloženy v izolované databázi s přístupem omezeným na CPN; doklad totožnosti je smazán do 30 dnů po rozhodnutí."
+            },
+            {
+                "title": "Národní stanovy",
+                "text": "Celá struktura se řídí Stanovami schválenými na Národním kongresu, dostupnými u vedení kterékoli místní pobočky."
+            }
+        ]
+    },
+    "vozes_da_casa": {
+        "label": "Hlasy z Domova",
+        "aria_ver": "Zobrazit citát {n}",
+        "cargo_fundador": "Zakladatel CDS"
+    }
+}

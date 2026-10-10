@@ -1,0 +1,353 @@
+{
+    "nav": {
+        "causas": "Sammaste",
+        "concelhias": "Piirkonnaorganisatsioonid",
+        "atividades": "Tegevused",
+        "orgaos": "Rรักษา organid",
+        "documentacao": "Dokumentatsioon",
+        "contactos": "Kontaktid",
+        "aderir": "Liitu meiega",
+        "anteriores_lideres": "Endised Juhid"
+    },
+    "hero": {
+        "eyebrow": "CDS-PP Noored · Alates 1974",
+        "title": "Liitu meiega!",
+        "lede": "Juventude Popular vajab sinu tuge. Täida meie liikmeavaldus ja liitu tõelise parempoolsuse koduga.",
+        "cta_primary": "Liitu meiega",
+        "cta_secondary": "Tutvu sammastega",
+        "stat_founded": "Asutamisaasta",
+        "stat_founded_value": "1974",
+        "stat_congress": "Rrahvuslik kongress",
+        "stat_congress_value": "XXVII",
+        "stat_founded_label": "Asutamisaasta",
+        "stat_concelhias_label": "Aktiivsed kohalikud osakonnad",
+        "stat_congress_label": "Riiklik kongress",
+        "stat_pilares_label": "Ideoloogilised sambad"
+    },
+    "pilares": {
+        "eyebrow": "Mis meid määratleb",
+        "title": "Kolm sammast, üks praktika",
+        "lede": "Need ei ole kolm võistlevat voolu, vaid kolm alust, millele JP tugineb oma otsustes esimest päevast peale.",
+        "democracia_crista_title": "Kristlik demokraatia",
+        "democracia_crista_body": "Inimene ja perekond kui mis tahes avaliku poliitika alguspunkt, mitte riik.",
+        "conservadorismo_title": "Konservatism",
+        "conservadorismo_body": "Muuta seda, mis vajab muutmist, säilitades seda, mis juba töötab — juurtega reform, mitte murrang murrangu pärast.",
+        "liberalismo_title": "Liberalism",
+        "liberalismo_body": "Majanduslik vabadus ja individuaalne vastutus: riik inimeste teenistuses, mitte vastupidi."
+    },
+    "concelhias": {
+        "eyebrow": "Kohapeal",
+        "title": "Piirkonnaorganisatsioon sinu lähedal",
+        "lede": "Rohkem kui 100 aktiivset piirkondlikku osakonda põhjast lõunani ja saartel. Leia enda oma.",
+        "cta": "Vaata kõiki piirkonnaorganisatsioone"
+    },
+    "atividades": {
+        "eyebrow": "Hiljutised tegevused",
+        "title": "Mida JP on teinud",
+        "lede": "Uudised ja sündmused piirkondadest, mida värskendavad kohalikud osakonnad ja juhatus.",
+        "cta": "Vaata kõiki tegevusi",
+        "empty_noticias": "Uudiseid pole veel avaldatud.",
+        "empty_eventos": "Üritusi pole veel kavandatud."
+    },
+    "juntar": {
+        "title": "Portugali tuleviku otsustavad need, kes kohale tulevad.",
+        "lede": "Täida eelregistreerimisvorm. Sinu kohalik piirkonnaorganisatsioon võtab sinuga peagi ühendust.",
+        "cta": "Saada eelregistreerimine"
+    },
+    "footer": {
+        "sede": "Peakorter: Largo Adelino Amaro da Costa, 5, 1149-063 Lissabon",
+        "jp_heading": "JP",
+        "historia": "Ajalugu",
+        "pilares": "Ideoloogilised sambad",
+        "orgaos": "Rahvuslikud organid",
+        "participar_heading": "Osale",
+        "aderir": "Liitu meiega",
+        "atividades": "Tegevused",
+        "carta": "Põhimõtete harta",
+        "contactos_heading": "Kontaktid",
+        "rights": "Juventude Popular. CDS-PP noorteorganisatsioon.",
+        "portal_label": "Liikmeportaal",
+        "admin_label": "Halduspiirkond"
+    },
+    "concelhias_page": {
+        "eyebrow": "Territoriaalne struktuur",
+        "title": "Leia oma piirkonnaorganisatsioon",
+        "lede": "Rohkem kui 100 aktiivset piirkondlikku osakonda maakondade kaupa. Need ilmuvad siia niipea, kui juhatus on need kinnitanud.",
+        "search_placeholder": "Otsi omavalitsuse või maakonna järgi...",
+        "search_clear": "Tühjenda otsing",
+        "search_no_results_title": "Tulemused puuduvad",
+        "search_no_results_hint": "Me ei leidnud piirkonnaorganisatsiooni otsingule „{query}“. Proovi teist nime või maakonda.",
+        "empty_email": "E-post kinnitamisel",
+        "empty_instagram": "Instagram kinnitamisel"
+    },
+    "orgaos_page": {
+        "eyebrow": "Rahvuslik struktuur",
+        "title": "Rahvuslikud organid",
+        "lede": "JP juhtimis- ja distsiplinaarstruktuur riiklikul tasandil vastavalt põhikirjale.",
+        "cpn_title": "Rahvuslik poliitiline komisjon",
+        "cpn_body": "JP kõrgeim täitevorgan kongresside vahelisel ajal. Määrab riikliku poliitilise strateegia ja juhib organisatsiooni igapäevaselt.",
+        "mcn_title": "Rahvusliku kongressi juhatus",
+        "mcn_body": "Juhib JP kõrgeima suveräänse organi, rahvusliku kongressi tööd.",
+        "disciplina_title": "Distsiplinaarkomisjon",
+        "disciplina_body": "Vastutab sisemiste distsiplinaarmenetluste eest vastavalt põhikirjale.",
+        "jurisdicao_title": "Jurisdiktsiooni- ja järelevalvenõukogu",
+        "jurisdicao_body": "Tagab põhikirja täitmise ja JP tegevuse sise-eeskirjadele vastavuse.",
+        "mesa_conselho_title": "Rahvusliku nõukogu juhatus",
+        "mesa_conselho_body": "Juhib rahvusliku nõukogu tööd kongresside vahelisel ajal.",
+        "gabinete_title": "Gonçalo Begonha uuringukeskus",
+        "gabinete_body": "JP poliitilise mõtte- ja doktriiniarenduse keskus, mis kannab oma asutaja nime."
+    },
+    "aderir_page": {
+        "eyebrow": "Sinu kord",
+        "title": "Liitu meiega!",
+        "lede": "Juventude Popular vajab sinu tuge. Täida meie liikmeavaldus ja liitu tõelise parempoolsuse koduga — vastame sulle ühe töönädala jooksul.",
+        "label_nome": "Täielik nimi",
+        "label_nascimento": "Sünniaeg",
+        "label_email": "E-post",
+        "label_telemovel": "Mobiiltelefon",
+        "label_distrito": "Maakond",
+        "label_morada": "Aadress",
+        "consent": "Olen tutvunud privaatsuspoliitika ning tingimustega ja nõustun nendega.",
+        "parental_note": "Kui oled alla 16-aastane, küsime järgmises sammus sinu lapsevanema või eestkostja kontaktandmeid.",
+        "submit": "Saada eelregistreerimine"
+    },
+    "carta_page": {
+        "eyebrow": "Asutamisdokument",
+        "title": "Põhimõtete harta",
+        "lede": "Põhimõtted, mis suunavad Juventude Populari poliitilist tegevust CDS-PP noorteorganisatsioonina.",
+        "s1_title": "Aateorganisatsioon",
+        "p1": "Juventude Popular on aateorganisatsioon, mille juured on kristlikus demokraatias, konservatismis ja liberalismis — mitte kolme võistleva vooluna, vaid kolme alusena, mis üksteist täiendavad.",
+        "s2_title": "Inimene ja perekond",
+        "p2": "Seame inimese, perekonna ja kohaliku kogukonna poliitilise tegevuse keskmesse, pakkudes alternatiivi riigile, mis otsustab kõik kõigi eest.",
+        "s3_title": "Majanduslik vabadus ja vastutus",
+        "p3": "Kaitsme majanduslikku vabadust ja individuaalset vastutust kui edmineku eeldusi.",
+        "s4_title": "Juurtega reform",
+        "p4": "Muudame seda, mis vajab muutmist, säilitades seda, mis juba töötab. Reform on tõsine vaid siis, kui see austab varasemaid kogemusi.",
+        "s5_title": "Portugal Euroopas",
+        "p5": "Osaleme aktiivselt Euroopa lõimimises, kaotamata seejuures oma rahvuslikku identiteeti.",
+        "s6_title": "Uus põlvkond riigi teenistuses",
+        "p6": "Me ei oota oma järjekorda. Korraldame, arutame ja tegutseme rohkem kui 100 piirkondlikus osakonnas üle kogu riigi."
+    },
+    "documentacao_page": {
+        "eyebrow": "Endine virtuaalne peakorter",
+        "title": "Dokumentatsioon",
+        "lede": "Kutsed, põhikirjad, eeskirjad ja koosolekute protokollid ühes kohas.",
+        "search_placeholder": "Otsi dokumenti...",
+        "cat_convocatorias": "Kutsed",
+        "cat_estatutos": "Põhikirjad ja eeskirjad",
+        "cat_minutas": "Protokollid ja dokumendid",
+        "cat_premios": "Auhinnad"
+    },
+    "a11y_skip_link": "Liigu põhisisu juurde",
+    "marquee": [
+        "🇵🇹 Portugali üle otsustavad need, kes kohale ilmuvad",
+        "🗳️ Kohalik demokraatia",
+        "💼 Töökohad noortele",
+        "🏠 Taskukohane eluase",
+        "🎓 Kvaliteetne haridus",
+        "🤝 Kodanikuosalus",
+        "⚡ Poliitiline uuenemine",
+        "💛 100+ aktiivset kohalikku osakonda"
+    ],
+    "anteriores_lideres_page": {
+        "eyebrow": "Kes on JP-d varem juhtinud",
+        "title": "Endised Juhid",
+        "lede": "Esimehed, kes on aastate jooksul andnud Juventude Popularile näo ja hääle.",
+        "atual": "PRAEGUNE",
+        "presente": "praegu"
+    },
+    "historia_page": {
+        "eyebrow": "Meie ajalugu",
+        "title": "Viis aastakümmet Portugali teenistuses",
+        "lede": "1974. aasta asutamisest tänase riikliku struktuurini — Juventude Populari ajalugu järgib CDS-i enda oma.",
+        "marcos": [
+            {
+                "titulo": "1974 — Juventude Centrista",
+                "texto": "Samal aastal, kui asutati CDS, sünnib selle noorteorganisatsioon, siis nimega Juventude Centrista."
+            },
+            {
+                "titulo": "1998 — Saab nimeks Juventude Popular",
+                "texto": "Organisatsioon võtab kasutusele nime Juventude Popular, mille säilitab tänaseni."
+            },
+            {
+                "titulo": "Rahvusvaheline kohalolek",
+                "texto": "JP kuulub YEPP-i (Youth of the European People's Party), DEMYC-i (Democrat Youth Community of Europe) ja IYDU-sse (International Young Democrat Union)."
+            },
+            {
+                "titulo": "Täna",
+                "texto": "Üle 100 aktiivse kohaliku osakonna riigi põhjast lõunani ja saartel, riikliku kongressiga iga kahe aasta tagant."
+            }
+        ]
+    },
+    "marca_jp_page": {
+        "eyebrow": "Kanna oma põhimõtteid",
+        "title": "JP Kaubamärk",
+        "lede": "Juventude Populari ametlikud meened — kanna kaubamärki, toeta struktuuri."
+    },
+    "contactos_page": {
+        "eyebrow": "Räägi meiega",
+        "title": "Kontaktid",
+        "lede": "Oleme kättesaadavad kõikideks küsimusteks riikliku struktuuri või kohalike osakondade kohta.",
+        "label_sede": "Riiklik Peakorter",
+        "label_email": "E-post",
+        "label_telefone": "Telefon"
+    },
+    "goncalo_begonha_page": {
+        "eyebrow": "Mälestus, mis elab edasi",
+        "title": "Gonçalo Begonha",
+        "lede": "1980 — 2003",
+        "meta_description": "Gonçalo Botelho Gomes Begonha, Juventude Populari juht, kelle järgi on nime saanud uurimisbüroo."
+    },
+    "sucesso_page": {
+        "title": "Tellimus kinnitatud!",
+        "message": "Saatsime sulle kinnitusmeili. Täname, et toetad Juventude Populari.",
+        "cta": "Tagasi poodi"
+    },
+    "cart": {
+        "adicionar": "Lisa",
+        "carrinho": "Ostukorv",
+        "vazio": "Sinu ostukorv on tühi.",
+        "total": "Kokku",
+        "finalizar": "Vormista tellimus",
+        "processando": "Töötlemine...",
+        "pagar": "Maksa",
+        "remover": "Eemalda",
+        "erro_pagamento": "Viga makse alustamisel.",
+        "erro_processar": "Viga töötlemisel.",
+        "ph_nome": "Täisnimi",
+        "ph_email": "E-post",
+        "ph_morada": "Aadress",
+        "ph_cp": "Sihtnumber",
+        "ph_localidade": "Asula"
+    },
+    "aderir_form": {
+        "step1": "Isikuandmed",
+        "step2": "Aadress",
+        "step3": "Dokument",
+        "erro_ficheiro_tamanho": "Fail ei tohi ületada 8MB.",
+        "erro_ficheiro_formato": "Vale formaat. Kasuta JPG, PNG või PDF.",
+        "erro_ficheiro_obrigatorio": "Pead lisama koopia oma isikutunnistusest.",
+        "erro_submeter": "Viga esitamisel. Proovi uuesti.",
+        "erro_enviar": "Viga saatmisel. Proovi uuesti.",
+        "bem_vindo": "Tere tulemast JP-sse, {nome}!",
+        "camarada": "seltsimees",
+        "confirmacao": "Saime kätte sinu avalduse ja dokumendi. CPN kontrollib andmeid ja vastab ühe tööneädala jooksul aadressil {email}.",
+        "passos_aria": "Vormi sammud",
+        "label_nome": "Täisnimi *",
+        "label_dataNascimento": "Sünniaeg *",
+        "label_email": "E-post *",
+        "label_telemovel": "Mobiiltelefon *",
+        "label_estabelecimento": "Õppeasutus",
+        "ph_estabelecimento": "(valikuline)",
+        "ph_email": "email@naide.ee",
+        "ph_telemovel": "+351 9XX XXX XXX",
+        "aviso_parental": "Kuna oled 14–15-aastane, vajame sinu seadusliku esindaja andmeid.",
+        "label_encNome": "Seadusliku esindaja nimi *",
+        "label_encContacto": "Seadusliku esindaja kontakt *",
+        "label_morada": "Aadress *",
+        "ph_morada": "Tänav, koht...",
+        "label_numero": "Nr",
+        "label_localidade": "Asula *",
+        "ph_localidade": "Nt Pena Verde",
+        "label_cp": "Sihtnumber",
+        "ph_cp": "0000-000",
+        "label_distrito": "Piirkond / Autonoomne piirkond *",
+        "ph_seleciona": "Vali...",
+        "label_concelho": "Vald *",
+        "ph_concelho": "Nt Aguiar da Beira",
+        "nota_concelhia": "Sinu kohalik osakond määratakse automaatselt märgitud valla põhjal.",
+        "label_cc": "Isikutunnistuse number *",
+        "ph_cc": "00000000 0 ZZ0",
+        "label_upload": "Loetav koopia isikutunnistusest (esi- ja tagakülg) *",
+        "remover_ficheiro_aria": "Eemalda fail",
+        "upload_cta": "Kliki lisamiseks (JPG, PNG või PDF, max. 8MB)",
+        "nota_privacidade": "Dokumenti hoitakse privaatselt ja see kustutatakse 30 päeva jooksul pärast otsust.",
+        "aceito_pre": "Nõustun Tingimustega ja",
+        "politica": "Privaatsuspoliitikaga",
+        "anterior": "Eelmine",
+        "proximo": "Järgmine",
+        "enviando": "Saadan…",
+        "confirmar": "Kinnita Liikmesus"
+    },
+    "aderir_form_errors": {
+        "nome_curto": "Nimi liiga lühike",
+        "data_obrigatoria": "Sünniaeg on kohustuslik",
+        "email_invalido": "Vale e-post",
+        "telemovel_invalido": "Vale telefoninumber",
+        "data_invalida": "Vale kuupäev",
+        "idade_min": "Minimaalne liitumisvanus: 14 aastat",
+        "idade_max": "Maksimaalne liitumisvanus: 30 aastat",
+        "enc_obrigatorio": "Kohustuslik alla 16-aastastele",
+        "morada_obrigatoria": "Aadress on kohustuslik",
+        "localidade_obrigatoria": "Asula on kohustuslik",
+        "distrito_obrigatorio": "Piirkond on kohustuslik",
+        "concelho_obrigatorio": "Vald on kohustuslik",
+        "cc_invalido": "Vale isikutunnistuse number",
+        "termos_obrigatorio": "Pead nõustuma tingimuste ja privaatsuspoliitikaga"
+    },
+    "timeline": {
+        "eyebrow": "Meie teekond",
+        "heading": "Viis aastakümmet tuleviku ehitamist",
+        "marcos": [
+            {
+                "ano": "1974",
+                "title": "Juventude Centrista",
+                "text": "CDS-iga seotud noorteorganisatsiooni asutamine, samal aastal kui partei asutamine."
+            },
+            {
+                "ano": "1998",
+                "title": "Saab nimeks Juventude Popular",
+                "text": "Organisatsioon võtab kasutusele nime ja identiteedi, mille säilitab tänaseni."
+            },
+            {
+                "ano": "2020",
+                "title": "Juhtkonna uuenemine",
+                "text": "Pärast Francisco Rodriguesi tõusu CDS-PP juhiks saab Francisco Mota ajutiseks esimeheks."
+            },
+            {
+                "ano": "2021",
+                "title": "Francisco Camacho valitud",
+                "text": "Lissaboni piirkonna endine esimees valitakse riiklikul kongressil JP esimeheks."
+            },
+            {
+                "ano": "2025",
+                "title": "Catarina Marinho võtab juhtimise üle",
+                "text": "Praeguse ametiaja algus, moto \"Sõnadest tegudeni. Portugali eest!\" all."
+            },
+            {
+                "ano": "2026",
+                "title": "XXVII riiklik kongress",
+                "text": "Toimus aprillis, koos põhikirja läbivaatamise ja riikliku digitaalse struktuuri uuendamise käivitamisega."
+            },
+            {
+                "ano": "Täna",
+                "title": "Üle 100 kohaliku osakonna",
+                "text": "Aktiivne struktuur riigi põhjast lõunani ja saartel, kasvab igas piirkonnas."
+            }
+        ]
+    },
+    "trust": {
+        "eyebrow": "Läbipaistvus",
+        "heading": "Usaldus võidetakse selgusega",
+        "lede": "Enne kui usaldad meile oma andmed, on õiglane, et teaksid, mida meilt oodata.",
+        "items": [
+            {
+                "title": "Vabatahtlikkusel põhinev struktuur",
+                "text": "JP on mittetulunduslik poliitiline noorteorganisatsioon. Riiklikku juhtkonda ja kohalikke osakondi juhivad vabatahtlikud."
+            },
+            {
+                "title": "Andmed tõeliselt kaitstud",
+                "text": "Sinu liikmeandmed asuvad eraldatud andmebaasis, juurdepääs on piiratud CPN-iga; isikutunnistuse dokument kustutatakse 30 päeva pärast otsust."
+            },
+            {
+                "title": "Riiklik põhikiri",
+                "text": "Kogu struktuur järgib riiklikul kongressil heaks kiidetud põhikirja, mis on saadaval iga kohaliku osakonna juhtkonnalt."
+            }
+        ]
+    },
+    "vozes_da_casa": {
+        "label": "Maja Hääled",
+        "aria_ver": "Vaata tsitaati {n}",
+        "cargo_fundador": "CDS asutaja"
+    }
+}

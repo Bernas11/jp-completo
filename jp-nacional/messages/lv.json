@@ -1,0 +1,353 @@
+{
+    "nav": {
+        "causas": "Pīlāri",
+        "concelhias": "Vietējās organizācijas",
+        "atividades": "Aktivitātes",
+        "orgaos": "Nacionālās institūcijas",
+        "documentacao": "Dokumentācija",
+        "contactos": "Kontakti",
+        "aderir": "Pievienojies",
+        "anteriores_lideres": "Bijušie Vadītāji"
+    },
+    "hero": {
+        "eyebrow": "CDS-PP Jaunatne · Kopš 1974. gada",
+        "title": "Pievienojies mums!",
+        "lede": "Juventude Popular ir nepieciešams tavs atbalsts. Aizpildi mūsu pieteikuma anketu un kļūsti par daļu no īsto Labējo mājvietas.",
+        "cta_primary": "Pievienojies",
+        "cta_secondary": "Iepazīsti pīlārus",
+        "stat_founded": "Dibināšanas gads",
+        "stat_founded_value": "1974",
+        "stat_congress": "Nacionālais kongress",
+        "stat_congress_value": "XXVII",
+        "stat_founded_label": "Dibināšanas gads",
+        "stat_concelhias_label": "Aktīvās vietējās nodaļas",
+        "stat_congress_label": "Nacionālais kongress",
+        "stat_pilares_label": "Ideoloģiskie pīlāri"
+    },
+    "pilares": {
+        "eyebrow": "Kas mūs raksturo",
+        "title": "Trīs pīlāri, viena prakse",
+        "lede": "Tās nav trīs konkurējošas straumes, bet gan trīs pamati, uz kuriem JP pieņem lēmumus kopš pirmās dienas.",
+        "democracia_crista_title": "Kristīgā demokrātija",
+        "democracia_crista_body": "Cilvēks un ģimene kā jebkuras valsts politikas sākumpunkts, nevis valsts.",
+        "conservadorismo_title": "Konservatīvisms",
+        "conservadorismo_body": "Mainīt to, kas jāmaina, saglabājot to, kas jau darbojas — reforma ar saknēm, nevis laušana laušanas dēļ.",
+        "liberalismo_title": "Liberālisms",
+        "liberalismo_body": "Ekonomiskā brīvība un indivīda atbildība: valsts cilvēku dienestā, nevis otrādi."
+    },
+    "concelhias": {
+        "eyebrow": "Praksē",
+        "title": "Vietējā organizācija tev tuvumā",
+        "lede": "Vairāk nekā 100 aktīvu vietējo nodaļu no ziemeļiem līdz dienvidiem un salās. Atrodi savējo.",
+        "cta": "Skatīt visas vietējās organizācijas"
+    },
+    "atividades": {
+        "eyebrow": "Nesenās aktivitātes",
+        "title": "Ko JP ir paveikusi",
+        "lede": "Nodaļu jaunumi un pasākumi, ko atjaunina pašas vietējās organizācijas un nacionālā vadība.",
+        "cta": "Skatīt visas aktivitātes",
+        "empty_noticias": "Vēl nav publicētas ziņas.",
+        "empty_eventos": "Vēl nav ieplānotu pasākumu."
+    },
+    "juntar": {
+        "title": "Portugāles nākotni izlemj tie, kuri piedalās.",
+        "lede": "Aizpildi savu iepriekšējās reģistrācijas anketu. Tava vietējā organizācija drīzumā ar tevi sazināsies.",
+        "cta": "Nosūtīt pieteikumu"
+    },
+    "footer": {
+        "sede": "Galvenā mītne: Largo Adelino Amaro da Costa, 5, 1149-063 Lisabona",
+        "jp_heading": "JP",
+        "historia": "Vēsture",
+        "pilares": "Ideoloģiskie pīlāri",
+        "orgaos": "Nacionālās institūcijas",
+        "participar_heading": "Iesaisties",
+        "aderir": "Pievienojies",
+        "atividades": "Aktivitātes",
+        "carta": "Principju harta",
+        "contactos_heading": "Kontakti",
+        "rights": "Juventude Popular. CDS-PP jaunatnes organizācija.",
+        "portal_label": "Biedra Portāls",
+        "admin_label": "Administrēšanas Zona"
+    },
+    "concelhias_page": {
+        "eyebrow": "Teritoriālā struktūra",
+        "title": "Atrodi savu vietējo organizāciju",
+        "lede": "Vairāk nekā 100 aktīvu vietējo nodaļu pa novadiem. Tās parādīsies šeit, tiklīdz Nacionālā politiskā komisija tās būs apstiprinājusi.",
+        "search_placeholder": "Meklēt pēc pašvaldības vai novada...",
+        "search_clear": "Notīrīt meklēšanu",
+        "search_no_results_title": "Nav rezultātu",
+        "search_no_results_hint": "Neatradām vietējo organizāciju vaicājumam “{query}”. Mēģini citu nosaukumu vai novadu.",
+        "empty_email": "E-pasts gaida apstiprinājumu",
+        "empty_instagram": "Instagram gaida apstiprinājumu"
+    },
+    "orgaos_page": {
+        "eyebrow": "Nacionālā struktūra",
+        "title": "Nacionālās institūcijas",
+        "lede": "JP vadības un disciplinārā struktūra nacionālajā līmenī, kā noteikts Statūtos.",
+        "cpn_title": "Nacionālā politiskā komisija",
+        "cpn_body": "JP augstākā izpildinstitūcija starp Kongresiem. Nosaka nacionālo politisko stratēģiju un pastāvīgi vada struktūru.",
+        "mcn_title": "Nacionālā kongresa prezidijs",
+        "mcn_body": "Vada Nacionālā kongresa — JP augstākās suverēnās institūcijas — darbu.",
+        "disciplina_title": "Disciplinārā komisija",
+        "disciplina_body": "Atbildīga par iekšējām disciplinārlietām saskaņā ar Statūtiem.",
+        "jurisdicao_title": "Jurisdikcijas un pārraudzības padome",
+        "jurisdicao_body": "Nodrošina Statūtu ievērošanu un JP darbību iekšējo likumību.",
+        "mesa_conselho_title": "Nacionālās padomes prezidijs",
+        "mesa_conselho_body": "Vada Nacionālās padomes — lēmējinstitūcijas starp Kongresiem — darbu.",
+        "gabinete_title": "Gonsalo Begonjas pētniecības centrs",
+        "gabinete_body": "JP politiskās domas un doktrīnas izstrādes struktūra, kas nosaukta tās dibinātāja vārdā."
+    },
+    "aderir_page": {
+        "eyebrow": "Tava kārta",
+        "title": "Pievienojies mums!",
+        "lede": "Juventude Popular ir nepieciešams tavs atbalsts. Aizpildi mūsu pieteikuma anketu un kļūsti par daļu no īsto Labējo mājvietas — mēs apņemamies atbildēt vienas darba nedēļas laikā.",
+        "label_nome": "Vārds un uzvārds",
+        "label_nascimento": "Dzimšanas datums",
+        "label_email": "E-pasts",
+        "label_telemovel": "Mobilā tālruņa numurs",
+        "label_distrito": "Novads / Reģions",
+        "label_morada": "Adrese",
+        "consent": "Esmu izlasījis(-usi) un piekrītu Privātuma politikai un Noteikumiem.",
+        "parental_note": "Ja esi jaunāks(-a) par 16 gadiem, nākamajā solī mēs lūgsim tava vecāka vai aizbildņa kontaktinformāciju.",
+        "submit": "Nosūtīt pieteikumu"
+    },
+    "carta_page": {
+        "eyebrow": "Dibināšanas dokuments",
+        "title": "Principju harta",
+        "lede": "Principi, kas vada Juventude Popular politisko darbību kā CDS-PP jaunatnes organizācijai.",
+        "s1_title": "Vērtību organizācija",
+        "p1": "Juventude Popular tiek definēta kā vērtību organizācija, kas balstās kristīgajā demokrātijā, konservatīvismā un liberālismā — nevis kā trīs konkurējošas straumes, bet gan kā trīs pīlāri, kas savstarpēji stiprina viens otru mūsu lēmumu pieņemšanā.",
+        "s2_title": "Cilvēks un ģimene",
+        "p2": "Mēs izvirzām cilvēku, ģimeni un vietējās kopienas politiskās darbības centrā kā alternatīvu valstij, kas izlemj visu visu vārdā. Mēs ticam subsidiaritātes principam.",
+        "s3_title": "Ekonomiskā brīvība un atbildība",
+        "p3": "Mēs aizstāvam ekonomisko brīvību un indivīda atbildību kā progresa priekšnoteikumus. Valsts cilvēku dienestā iekasē mazāk, lai izvairītos no nevajadzīgiem izdevumiem.",
+        "s4_title": "Reforma ar saknēm",
+        "p4": "Mēs mainām to, kas jāmaina, saglabājot to, kas jau darbojas. Reforma ir nopietna tikai tad, ja tā ciena iepriekšējo paaudžu uzkrāto pieredzi.",
+        "s5_title": "Portugāle Eiropā",
+        "p5": "Mēs aktīvi piedalāmies Eiropas veidošanā, nezaudējot savu nacionālo identitāti. Eiropas Savienībai jābūt brīvu nāciju sadarbības telpai.",
+        "s6_title": "Jauna paaudze valsts dienestā",
+        "p6": "Mēs negaidām savu kārtu, lai tiktu uzklausīti. Mēs organizējamies, debatējam un rīkojamies vairāk nekā 100 vietējās nodaļās visā valstī."
+    },
+    "documentacao_page": {
+        "eyebrow": "Bijušā virtuālā galvenā mītne",
+        "title": "Dokumentācija",
+        "lede": "Juventude Popular sasaukumi, statūti, nolikumi un protokoli — viss nepieciešamais vienuviet.",
+        "search_placeholder": "Meklēt dokumentu...",
+        "cat_convocatorias": "Sasaukumi",
+        "cat_estatutos": "Statūti un nolikumi",
+        "cat_minutas": "Protokoli un dokumenti",
+        "cat_premios": "Apbalvojumi"
+    },
+    "a11y_skip_link": "Pāriet uz galveno saturu",
+    "marquee": [
+        "🇵🇹 Par Portugāli lemj tie, kas ierodas",
+        "🗳️ Vietējā demokrātija",
+        "💼 Darbs jauniešiem",
+        "🏠 Pieejami mājokļi",
+        "🎓 Kvalitatīva izglītība",
+        "🤝 Pilsoniskā līdzdalība",
+        "⚡ Politiskā atjaunotne",
+        "💛 100+ aktīvas vietējās nodaļas"
+    ],
+    "anteriores_lideres_page": {
+        "eyebrow": "Kas iepriekš vadījis JP",
+        "title": "Bijušie Vadītāji",
+        "lede": "Priekšsēdētāji, kuri gadu gaitā deva Juventude Popular seju un balsi.",
+        "atual": "PAŠREIZĒJAIS",
+        "presente": "tagadne"
+    },
+    "historia_page": {
+        "eyebrow": "Mūsu vēsture",
+        "title": "Piecas desmitgades Portugāles labā",
+        "lede": "No dibināšanas 1974. gadā līdz šodienas nacionālajai struktūrai — Juventude Popular vēsture seko CDS pašas vēsturei.",
+        "marcos": [
+            {
+                "titulo": "1974 — Juventude Centrista",
+                "texto": "Tajā pašā gadā, kad tika dibināta CDS, rodas tās jauniešu organizācija, toreiz saukta Juventude Centrista."
+            },
+            {
+                "titulo": "1998 — Kļūst par Juventude Popular",
+                "texto": "Organizācija pieņem nosaukumu Juventude Popular, identitāti, ko saglabā līdz šai dienai."
+            },
+            {
+                "titulo": "Starptautiska klātbūtne",
+                "texto": "JP ir YEPP (Youth of the European People's Party), DEMYC (Democrat Youth Community of Europe) un IYDU (International Young Democrat Union) biedre."
+            },
+            {
+                "titulo": "Šodien",
+                "texto": "Vairāk nekā 100 aktīvas vietējās nodaļas no valsts ziemeļiem līdz dienvidiem un salās, ar Nacionālo kongresu ik pēc diviem gadiem."
+            }
+        ]
+    },
+    "marca_jp_page": {
+        "eyebrow": "Valkā savus mērķus",
+        "title": "JP Zīmols",
+        "lede": "Oficiālie Juventude Popular suvenīri — valkā zīmolu, atbalsti struktūru."
+    },
+    "contactos_page": {
+        "eyebrow": "Runā ar mums",
+        "title": "Kontakti",
+        "lede": "Esam pieejami jebkuram jautājumam par nacionālo struktūru vai vietējām nodaļām.",
+        "label_sede": "Nacionālā Mītne",
+        "label_email": "E-pasts",
+        "label_telefone": "Tālrunis"
+    },
+    "goncalo_begonha_page": {
+        "eyebrow": "Atmiņa, kas turpina dzīvot",
+        "title": "Gonçalo Begonha",
+        "lede": "1980 — 2003",
+        "meta_description": "Gonçalo Botelho Gomes Begonha, Juventude Popular vadītājs, kura vārdā nosaukts Studiju birojs."
+    },
+    "sucesso_page": {
+        "title": "Pasūtījums apstiprināts!",
+        "message": "Nosūtījām jums apstiprinājuma e-pastu. Paldies, ka atbalstāt Juventude Popular.",
+        "cta": "Atpakaļ uz veikalu"
+    },
+    "cart": {
+        "adicionar": "Pievienot",
+        "carrinho": "Grozs",
+        "vazio": "Tavs grozs ir tukšs.",
+        "total": "Kopā",
+        "finalizar": "Noformēt pirkumu",
+        "processando": "Apstrādā...",
+        "pagar": "Maksāt",
+        "remover": "Noņemt",
+        "erro_pagamento": "Kļūda uzsākot maksājumu.",
+        "erro_processar": "Apstrādes kļūda.",
+        "ph_nome": "Pilns vārds",
+        "ph_email": "E-pasts",
+        "ph_morada": "Adrese",
+        "ph_cp": "Pasta indekss",
+        "ph_localidade": "Apdzīvota vieta"
+    },
+    "aderir_form": {
+        "step1": "Personas Dati",
+        "step2": "Adrese",
+        "step3": "Dokuments",
+        "erro_ficheiro_tamanho": "Fails nedrīkst pārsniegt 8MB.",
+        "erro_ficheiro_formato": "Nederīgs formāts. Izmanto JPG, PNG vai PDF.",
+        "erro_ficheiro_obrigatorio": "Jāpievieno personas apliecības kopija.",
+        "erro_submeter": "Kļūda iesniedzot. Mēģini vēlreiz.",
+        "erro_enviar": "Kļūda sūtot. Mēģini vēlreiz.",
+        "bem_vindo": "Laipni lūdzam JP, {nome}!",
+        "camarada": "biedri",
+        "confirmacao": "Saņēmām tavu pieteikumu un dokumentu. CPN pārbaudīs datus un atbildēs vienas darba nedēļas laikā uz {email}.",
+        "passos_aria": "Veidlapas soļi",
+        "label_nome": "Pilns vārds *",
+        "label_dataNascimento": "Dzimšanas datums *",
+        "label_email": "E-pasts *",
+        "label_telemovel": "Mobilais tālrunis *",
+        "label_estabelecimento": "Izglītības iestāde",
+        "ph_estabelecimento": "(nav obligāts)",
+        "ph_email": "email@piemers.lv",
+        "ph_telemovel": "+351 9XX XXX XXX",
+        "aviso_parental": "Tā kā tev ir no 14 līdz 15 gadiem, mums vajadzīgi tava aizbildņa dati.",
+        "label_encNome": "Aizbildņa vārds *",
+        "label_encContacto": "Aizbildņa kontakti *",
+        "label_morada": "Adrese *",
+        "ph_morada": "Iela, vieta...",
+        "label_numero": "Nr.",
+        "label_localidade": "Apdzīvota vieta *",
+        "ph_localidade": "Piem., Pena Verde",
+        "label_cp": "Pasta indekss",
+        "ph_cp": "0000-000",
+        "label_distrito": "Rajons / Autonomais reģions *",
+        "ph_seleciona": "Izvēlies...",
+        "label_concelho": "Pašvaldība *",
+        "ph_concelho": "Piem., Aguiar da Beira",
+        "nota_concelhia": "Tava vietējā nodaļa tiek piešķirta automātiski, pamatojoties uz norādīto pašvaldību.",
+        "label_cc": "Personas apliecības numurs *",
+        "ph_cc": "00000000 0 ZZ0",
+        "label_upload": "Salasāma personas apliecības kopija (priekšpuse un aizmugure) *",
+        "remover_ficheiro_aria": "Noņemt failu",
+        "upload_cta": "Klikšķini, lai pievienotu (JPG, PNG vai PDF, maks. 8MB)",
+        "nota_privacidade": "Dokuments tiek glabāts privāti un dzēsts 30 dienu laikā pēc lēmuma.",
+        "aceito_pre": "Piekrītu Noteikumiem un",
+        "politica": "Privātuma politikai",
+        "anterior": "Iepriekšējais",
+        "proximo": "Nākamais",
+        "enviando": "Sūta…",
+        "confirmar": "Apstiprināt Dalību"
+    },
+    "aderir_form_errors": {
+        "nome_curto": "Vārds pārāk īss",
+        "data_obrigatoria": "Dzimšanas datums ir obligāts",
+        "email_invalido": "Nederīgs e-pasts",
+        "telemovel_invalido": "Nederīgs tālruņa numurs",
+        "data_invalida": "Nederīgs datums",
+        "idade_min": "Minimālais dalības vecums: 14 gadi",
+        "idade_max": "Maksimālais dalības vecums: 30 gadi",
+        "enc_obrigatorio": "Obligāts personām līdz 16 gadiem",
+        "morada_obrigatoria": "Adrese ir obligāta",
+        "localidade_obrigatoria": "Apdzīvota vieta ir obligāta",
+        "distrito_obrigatorio": "Rajons ir obligāts",
+        "concelho_obrigatorio": "Pašvaldība ir obligāta",
+        "cc_invalido": "Nederīgs personas apliecības numurs",
+        "termos_obrigatorio": "Jāpiekrīt noteikumiem un privātuma politikai"
+    },
+    "timeline": {
+        "eyebrow": "Mūsu ceļš",
+        "heading": "Piecas desmitgades nākotnes veidošanā",
+        "marcos": [
+            {
+                "ano": "1974",
+                "title": "Juventude Centrista",
+                "text": "Ar CDS saistītās jauniešu organizācijas dibināšana tajā pašā gadā, kad tika dibināta partija."
+            },
+            {
+                "ano": "1998",
+                "title": "Kļūst par Juventude Popular",
+                "text": "Organizācija pieņem nosaukumu un identitāti, ko saglabā līdz šai dienai."
+            },
+            {
+                "ano": "2020",
+                "title": "Vadības atjaunotne",
+                "text": "Pēc Francisco Rodrigues pieauguma CDS-PP, Francisco Mota kļūst par pagaidu priekšsēdētāju."
+            },
+            {
+                "ano": "2021",
+                "title": "Ievēlēts Francisco Camacho",
+                "text": "Bijušais Lisabonas nodaļas priekšsēdētājs tiek ievēlēts par JP priekšsēdētāju Nacionālajā kongresā."
+            },
+            {
+                "ano": "2025",
+                "title": "Catarina Marinho pārņem vadību",
+                "text": "Pašreizējā pilnvaru termiņa sākums, ar moto \"No Vārdiem pie Darbiem. Portugāles labā!\""
+            },
+            {
+                "ano": "2026",
+                "title": "XXVII Nacionālais kongress",
+                "text": "Notika aprīlī, ar statūtu pārskatīšanu un nacionālās digitālās struktūras atjaunošanas uzsākšanu."
+            },
+            {
+                "ano": "Šodien",
+                "title": "Vairāk nekā 100 vietējo nodaļu",
+                "text": "Aktīva struktūra no valsts ziemeļiem līdz dienvidiem un salās, augoša katrā rajonā."
+            }
+        ]
+    },
+    "trust": {
+        "eyebrow": "Pārredzamība",
+        "heading": "Uzticību iegūst ar skaidrību",
+        "lede": "Pirms mums uzticies savus datus, ir godīgi, ka zini, ko vari no mums sagaidīt.",
+        "items": [
+            {
+                "title": "Brīvprātīgo struktūra",
+                "text": "JP ir bezpeļņas politiska jauniešu organizācija. Nacionālo vadību un vietējās nodaļas vada brīvprātīgie."
+            },
+            {
+                "title": "Dati patiešām aizsargāti",
+                "text": "Tavi dalības dati atrodas izolētā datubāzē ar piekļuvi, kas ierobežota tikai CPN; personas apliecības dokuments tiek dzēsts 30 dienas pēc lēmuma."
+            },
+            {
+                "title": "Nacionālie statūti",
+                "text": "Visa struktūra ievēro Nacionālajā kongresā apstiprinātos statūtus, kas pieejami jebkuras vietējās nodaļas vadībā."
+            }
+        ]
+    },
+    "vozes_da_casa": {
+        "label": "Mājas Balsis",
+        "aria_ver": "Skatīt citātu {n}",
+        "cargo_fundador": "CDS dibinātājs"
+    }
+}

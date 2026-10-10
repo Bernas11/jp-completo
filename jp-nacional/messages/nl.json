@@ -1,0 +1,353 @@
+{
+    "nav": {
+        "causas": "Pijlers",
+        "concelhias": "Lokale Afdelingen",
+        "atividades": "Activiteiten",
+        "orgaos": "Nationale Organen",
+        "documentacao": "Documentatie",
+        "contactos": "Contact",
+        "aderir": "Word Lid",
+        "anteriores_lideres": "Voormalige Leiders"
+    },
+    "hero": {
+        "eyebrow": "Jongeren van de CDS-PP · Sinds 1974",
+        "title": "Sluit je bij ons aan!",
+        "lede": "Juventude Popular heeft jouw steun nodig. Vul het lidmaatschapsformulier in en word onderdeel van het thuis van echt Rechts.",
+        "cta_primary": "Word Lid",
+        "cta_secondary": "Ontdek de pijlers",
+        "stat_founded": "Opgericht in",
+        "stat_founded_value": "1974",
+        "stat_congress": "Nationaal Congres",
+        "stat_congress_value": "XXVII",
+        "stat_founded_label": "Oprichtingsjaar",
+        "stat_concelhias_label": "Actieve lokale afdelingen",
+        "stat_congress_label": "Nationaal Congres",
+        "stat_pilares_label": "Ideologische pijlers"
+    },
+    "pilares": {
+        "eyebrow": "Wat ons definieert",
+        "title": "Drie pijlers, één praktijk",
+        "lede": "Dit zijn geen drie strijdende stromingen, maar de drie fundamenten waarop JP vanaf dag één haar beslissingen baseert.",
+        "democracia_crista_title": "Christendemocratie",
+        "democracia_crista_body": "De mens en het gezin als uitgangspunt voor elk publiek beleid, niet de Staat.",
+        "conservadorismo_title": "Conservatisme",
+        "conservadorismo_body": "Veranderen wat veranderd moet worden, behouden wat al werkt: hervorming met wortels, geen breuk om de breuk.",
+        "liberalismo_title": "Liberalisme",
+        "liberalismo_body": "Economische vrijheid en individuele verantwoordelijkheid: de Staat ten dienste van de burger, niet andersom."
+    },
+    "concelhias": {
+        "eyebrow": "Lokaal actief",
+        "title": "Een lokale afdeling bij jou in de buurt",
+        "lede": "Meer dan 100 actieve lokale afdelingen, van noord tot zuid en op de eilanden. Vind de jouwe.",
+        "cta": "Bekijk alle lokale afdelingen"
+    },
+    "atividades": {
+        "eyebrow": "Recente activiteiten",
+        "title": "Wat JP heeft gedaan",
+        "lede": "Nieuws en evenementen van de afdelingen, bijgewerkt door de lokale afdelingen zelf en het nationale bestuur.",
+        "cta": "Bekijk alle activiteiten",
+        "empty_noticias": "Nog geen nieuws gepubliceerd.",
+        "empty_eventos": "Nog geen evenementen gepland."
+    },
+    "juntar": {
+        "title": "De toekomst van Portugal wordt bepaald door wie meedoet.",
+        "lede": "Vul het voorinschrijvingsformulier in. Je lokale afdeling neemt snel contact met je op.",
+        "cta": "Voorinschrijving verzenden"
+    },
+    "footer": {
+        "sede": "Nationaal Hoofdkantoor: Largo Adelino Amaro da Costa, 5, 1149-063 Lissabon",
+        "jp_heading": "JP",
+        "historia": "Geschiedenis",
+        "pilares": "Ideologische Pijlers",
+        "orgaos": "Nationale Organen",
+        "participar_heading": "Meedoen",
+        "aderir": "Word Lid",
+        "atividades": "Activiteiten",
+        "carta": "Beginselverklaring",
+        "contactos_heading": "Contact",
+        "rights": "Juventude Popular. Jongerenorganisatie van de CDS-PP.",
+        "portal_label": "Ledenportaal",
+        "admin_label": "Beheergebied"
+    },
+    "concelhias_page": {
+        "eyebrow": "Territoriale structuur",
+        "title": "Vind je lokale afdeling",
+        "lede": "Meer dan 100 actieve lokale afdelingen, georganiseerd per district. Ze verschijnen hier zodra ze zijn erkend door de Nationale Politieke Commissie.",
+        "search_placeholder": "Zoek op gemeente of district...",
+        "search_clear": "Zoekopdracht wissen",
+        "search_no_results_title": "Geen resultaten",
+        "search_no_results_hint": "We hebben geen lokale afdeling gevonden voor “{query}”. Probeer een andere naam of district.",
+        "empty_email": "E-mailadres in afwachting van bevestiging",
+        "empty_instagram": "Instagram in afwachting van bevestiging"
+    },
+    "orgaos_page": {
+        "eyebrow": "Nationale structuur",
+        "title": "Nationale Organen",
+        "lede": "De bestuurs- en tuchtstructuur van JP op nationaal niveau, zoals vastgelegd in de Statuten.",
+        "cpn_title": "Nationale Politieke Commissie",
+        "cpn_body": "Het hoogste uitvoerende orgaan van JP tussen de Congressen. Bepaalt de nationale politieke strategie en leidt de organisatie op permanente basis.",
+        "mcn_title": "Bureau van het Nationaal Congres",
+        "mcn_body": "Leidt de werkzaamheden van het Nationaal Congres, het hoogste soevereine orgaan van JP.",
+        "disciplina_title": "Tuchtcommissie",
+        "disciplina_body": "Verantwoordelijk voor interne tuchtprocedures, conform de voorwaarden in de Statuten.",
+        "jurisdicao_title": "Raad van Jurisdictie en Toezicht",
+        "jurisdicao_body": "Ziet toe op de naleving van de Statuten en de interne rechtmatigheid van de besluiten van JP.",
+        "mesa_conselho_title": "Bureau van de Nationale Raad",
+        "mesa_conselho_body": "Leidt de werkzaamheden van de Nationale Raad, het besluitvormende orgaan tussen de Congressen.",
+        "gabinete_title": "Studiecentrum Gonçalo Begonha",
+        "gabinete_body": "Denktank en centrum voor doctrineontwikkeling van JP, vernoemd naar de oprichter."
+    },
+    "aderir_page": {
+        "eyebrow": "Jouw beurt",
+        "title": "Sluit je bij ons aan!",
+        "lede": "Juventude Popular heeft jouw steun nodig. Vul het lidmaatschapsformulier in en word onderdeel van het thuis van echt Rechts — we reageren binnen één werkweek.",
+        "label_nome": "Volledige naam",
+        "label_nascimento": "Geboortedatum",
+        "label_email": "E-mailadres",
+        "label_telemovel": "Mobiel telefoonnummer",
+        "label_distrito": "District",
+        "label_morada": "Adres",
+        "consent": "Ik heb het Privacybeleid en de Algemene Voorwaarden gelezen en ga hiermee akkoord.",
+        "parental_note": "Ben je jonger dan 16 jaar? Dan vragen we in de volgende stap om de contactgegevens van je ouder of voogd.",
+        "submit": "Voorinschrijving verzenden"
+    },
+    "carta_page": {
+        "eyebrow": "Oprichtingsdocument",
+        "title": "Beginselverklaring",
+        "lede": "De beginselen die de politieke actie van Juventude Popular als jongerenorganisatie van de CDS-PP sturen.",
+        "s1_title": "Een organisatie van waarden",
+        "p1": "Juventude Popular definieert zichzelf als een organisatie van waarden, verankerd in de Christendemocratie, het Conservatisme en het Liberalisme — niet als drie strijdende stromingen, maar als drie pijlers die elkaar versterken in onze besluitvorming.",
+        "s2_title": "De mens en het gezin",
+        "p2": "Wij plaatsen de mens, het gezin en lokale gemeenschappen centraal in het politieke handelen, als alternatief voor een Staat die alles beslist voor iedereen. Wij geloven in het subsidiariteitsbeginsel.",
+        "s3_title": "Economische vrijheid en verantwoordelijkheid",
+        "p3": "Wij verdedigen economische vrijheid en individuele verantwoordelijkheid als voorwaarden voor vooruitgang. Een Staat ten dienste van de burger int minder om onnodige uitgaven te vermijden.",
+        "s4_title": "Hervorming met wortels",
+        "p4": "We veranderen wat veranderd moet worden, met behoud van wat al werkt. Een hervorming is pas serieus als deze de opgebouwde ervaring van eerdere generaties respecteert.",
+        "s5_title": "Portugal in Europa",
+        "p5": "We nemen actief deel aan de Europese opbouw zonder onze nationale identiteit te verliezen. De Europese Unie moet een ruimte van samenwerking tussen vrije naties zijn.",
+        "s6_title": "Een nieuwe generatie ten dienste van het land",
+        "p6": "We wachten niet af tot we aan de beurt zijn om gehoord te worden. We organiseren, debatteren, stellen voor en handelen in meer dan 100 lokale afdelingen door het hele land."
+    },
+    "documentacao_page": {
+        "eyebrow": "Voormalig Virtueel Hoofdkantoor",
+        "title": "Documentatie",
+        "lede": "Oproepen, statuten, reglementen en notulen van Juventude Popular — alles wat je moet raadplegen op één plek.",
+        "search_placeholder": "Zoek document...",
+        "cat_convocatorias": "Oproepen",
+        "cat_estatutos": "Statuten & Reglementen",
+        "cat_minutas": "Notulen & Documenten",
+        "cat_premios": "Prijzen"
+    },
+    "a11y_skip_link": "Naar de hoofdinhoud",
+    "marquee": [
+        "🇵🇹 Portugal wordt beslist door wie opdaagt",
+        "🗳️ Lokale democratie",
+        "💼 Banen voor jongeren",
+        "🏠 Betaalbaar wonen",
+        "🎓 Kwaliteitsonderwijs",
+        "🤝 Burgerparticipatie",
+        "⚡ Politieke vernieuwing",
+        "💛 100+ actieve lokale afdelingen"
+    ],
+    "anteriores_lideres_page": {
+        "eyebrow": "Wie de JP eerder heeft geleid",
+        "title": "Voormalige Leiders",
+        "lede": "De voorzitters die door de jaren heen een gezicht en een stem gaven aan Juventude Popular.",
+        "atual": "HUIDIG",
+        "presente": "heden"
+    },
+    "historia_page": {
+        "eyebrow": "Onze geschiedenis",
+        "title": "Vijf decennia in dienst van Portugal",
+        "lede": "Van de oprichting in 1974 tot de nationale structuur van vandaag — de geschiedenis van Juventude Popular volgt die van de CDS zelf.",
+        "marcos": [
+            {
+                "titulo": "1974 — Juventude Centrista",
+                "texto": "In hetzelfde jaar als de oprichting van de CDS ontstaat haar jongerenorganisatie, toen genaamd Juventude Centrista."
+            },
+            {
+                "titulo": "1998 — Wordt Juventude Popular",
+                "texto": "De organisatie neemt de naam Juventude Popular aan, een identiteit die ze tot op vandaag behoudt."
+            },
+            {
+                "titulo": "Internationale aanwezigheid",
+                "texto": "JP is lid van YEPP (Youth of the European People's Party), DEMYC (Democrat Youth Community of Europe) en IYDU (International Young Democrat Union)."
+            },
+            {
+                "titulo": "Vandaag",
+                "texto": "Meer dan 100 actieve lokale afdelingen van noord tot zuid en op de eilanden, met om de twee jaar een Nationaal Congres."
+            }
+        ]
+    },
+    "marca_jp_page": {
+        "eyebrow": "Draag je zaak uit",
+        "title": "JP-merk",
+        "lede": "Officiële merchandise van Juventude Popular — draag het merk, steun de structuur."
+    },
+    "contactos_page": {
+        "eyebrow": "Praat met ons",
+        "title": "Contact",
+        "lede": "We staan klaar voor elke vraag over de nationale structuur of de lokale afdelingen.",
+        "label_sede": "Nationaal Hoofdkantoor",
+        "label_email": "E-mail",
+        "label_telefone": "Telefoon"
+    },
+    "goncalo_begonha_page": {
+        "eyebrow": "Een herinnering die voortleeft",
+        "title": "Gonçalo Begonha",
+        "lede": "1980 — 2003",
+        "meta_description": "Gonçalo Botelho Gomes Begonha, leider van Juventude Popular naar wie het Studiebureau is vernoemd."
+    },
+    "sucesso_page": {
+        "title": "Bestelling bevestigd!",
+        "message": "We hebben je een bevestigingsmail gestuurd. Bedankt voor je steun aan Juventude Popular.",
+        "cta": "Terug naar de winkel"
+    },
+    "cart": {
+        "adicionar": "Toevoegen",
+        "carrinho": "Winkelwagen",
+        "vazio": "Je winkelwagen is leeg.",
+        "total": "Totaal",
+        "finalizar": "Afrekenen",
+        "processando": "Verwerken...",
+        "pagar": "Betalen",
+        "remover": "Verwijderen",
+        "erro_pagamento": "Fout bij het starten van de betaling.",
+        "erro_processar": "Fout bij verwerken.",
+        "ph_nome": "Volledige naam",
+        "ph_email": "E-mail",
+        "ph_morada": "Adres",
+        "ph_cp": "Postcode",
+        "ph_localidade": "Plaats"
+    },
+    "aderir_form": {
+        "step1": "Persoonlijke Gegevens",
+        "step2": "Adres",
+        "step3": "Document",
+        "erro_ficheiro_tamanho": "Het bestand mag niet groter zijn dan 8MB.",
+        "erro_ficheiro_formato": "Ongeldig formaat. Gebruik JPG, PNG of PDF.",
+        "erro_ficheiro_obrigatorio": "Je moet een kopie van je identiteitskaart bijvoegen.",
+        "erro_submeter": "Fout bij verzenden. Probeer opnieuw.",
+        "erro_enviar": "Fout bij verzenden. Probeer opnieuw.",
+        "bem_vindo": "Welkom bij JP, {nome}!",
+        "camarada": "kameraad",
+        "confirmacao": "We hebben je aanmelding en document ontvangen. De CPN controleert de gegevens en reageert binnen een werkweek via {email}.",
+        "passos_aria": "Formulierstappen",
+        "label_nome": "Volledige naam *",
+        "label_dataNascimento": "Geboortedatum *",
+        "label_email": "E-mail *",
+        "label_telemovel": "Mobiel nummer *",
+        "label_estabelecimento": "Onderwijsinstelling",
+        "ph_estabelecimento": "(optioneel)",
+        "ph_email": "email@voorbeeld.nl",
+        "ph_telemovel": "+351 9XX XXX XXX",
+        "aviso_parental": "Omdat je tussen 14 en 15 jaar oud bent, hebben we de gegevens van je ouder/voogd nodig.",
+        "label_encNome": "Naam ouder/voogd *",
+        "label_encContacto": "Contact ouder/voogd *",
+        "label_morada": "Adres *",
+        "ph_morada": "Straat, plaats...",
+        "label_numero": "Nr.",
+        "label_localidade": "Plaats *",
+        "ph_localidade": "Bijv. Pena Verde",
+        "label_cp": "Postcode",
+        "ph_cp": "0000-000",
+        "label_distrito": "District / Autonome Regio *",
+        "ph_seleciona": "Selecteer...",
+        "label_concelho": "Gemeente *",
+        "ph_concelho": "Bijv. Aguiar da Beira",
+        "nota_concelhia": "Je lokale afdeling wordt automatisch toegewezen op basis van de opgegeven gemeente.",
+        "label_cc": "Nummer identiteitskaart *",
+        "ph_cc": "00000000 0 ZZ0",
+        "label_upload": "Leesbare kopie van ID (voor- en achterkant) *",
+        "remover_ficheiro_aria": "Bestand verwijderen",
+        "upload_cta": "Klik om bij te voegen (JPG, PNG of PDF, max. 8MB)",
+        "nota_privacidade": "Het document wordt privé bewaard en binnen 30 dagen na de beslissing verwijderd.",
+        "aceito_pre": "Ik accepteer de Algemene Voorwaarden en het",
+        "politica": "Privacybeleid",
+        "anterior": "Vorige",
+        "proximo": "Volgende",
+        "enviando": "Verzenden…",
+        "confirmar": "Lidmaatschap Bevestigen"
+    },
+    "aderir_form_errors": {
+        "nome_curto": "Naam te kort",
+        "data_obrigatoria": "Geboortedatum is verplicht",
+        "email_invalido": "Ongeldige e-mail",
+        "telemovel_invalido": "Ongeldig telefoonnummer",
+        "data_invalida": "Ongeldige datum",
+        "idade_min": "Minimumleeftijd voor lidmaatschap: 14 jaar",
+        "idade_max": "Maximumleeftijd voor lidmaatschap: 30 jaar",
+        "enc_obrigatorio": "Verplicht voor jongeren onder 16",
+        "morada_obrigatoria": "Adres is verplicht",
+        "localidade_obrigatoria": "Plaats is verplicht",
+        "distrito_obrigatorio": "District is verplicht",
+        "concelho_obrigatorio": "Gemeente is verplicht",
+        "cc_invalido": "Ongeldig identiteitskaartnummer",
+        "termos_obrigatorio": "Je moet de voorwaarden en het privacybeleid accepteren"
+    },
+    "timeline": {
+        "eyebrow": "Onze weg",
+        "heading": "Vijf decennia bouwen aan de toekomst",
+        "marcos": [
+            {
+                "ano": "1974",
+                "title": "Juventude Centrista",
+                "text": "Oprichting van de jongerenorganisatie van de CDS, in hetzelfde jaar als de oprichting van de partij."
+            },
+            {
+                "ano": "1998",
+                "title": "Wordt Juventude Popular",
+                "text": "De organisatie neemt de naam en identiteit aan die ze tot op vandaag behoudt."
+            },
+            {
+                "ano": "2020",
+                "title": "Vernieuwing van het leiderschap",
+                "text": "Na de opkomst van Francisco Rodrigues bij de CDS-PP wordt Francisco Mota interim-voorzitter."
+            },
+            {
+                "ano": "2021",
+                "title": "Francisco Camacho gekozen",
+                "text": "De voormalige voorzitter van de afdeling Lissabon wordt op het Nationaal Congres verkozen tot voorzitter van JP."
+            },
+            {
+                "ano": "2025",
+                "title": "Catarina Marinho neemt de leiding",
+                "text": "Start van de huidige ambtstermijn, met het motto \"Van Woord naar Daad. Voor Portugal!\""
+            },
+            {
+                "ano": "2026",
+                "title": "XXVIIe Nationaal Congres",
+                "text": "Gehouden in april, met een statutaire herziening en de start van de vernieuwing van de nationale digitale structuur."
+            },
+            {
+                "ano": "Vandaag",
+                "title": "Meer dan 100 lokale afdelingen",
+                "text": "Een actieve structuur van noord tot zuid en op de eilanden, groeiend in elk district."
+            }
+        ]
+    },
+    "trust": {
+        "eyebrow": "Transparantie",
+        "heading": "Vertrouwen wordt verdiend met duidelijkheid",
+        "lede": "Voordat je ons je gegevens toevertrouwt, is het eerlijk dat je weet wat je van ons kunt verwachten.",
+        "items": [
+            {
+                "title": "Vrijwilligersstructuur",
+                "text": "JP is een non-profit politieke jongerenorganisatie. Het nationale bestuur en de lokale afdelingen worden geleid door vrijwilligers."
+            },
+            {
+                "title": "Gegevens serieus beschermd",
+                "text": "Je lidmaatschapsgegevens staan in een geïsoleerde database, met beperkte toegang voor de CPN; je identiteitsdocument wordt 30 dagen na de beslissing verwijderd."
+            },
+            {
+                "title": "Nationale statuten",
+                "text": "De hele structuur volgt de statuten die op het Nationaal Congres zijn goedgekeurd, verkrijgbaar bij het bestuur van elke lokale afdeling."
+            }
+        ]
+    },
+    "vozes_da_casa": {
+        "label": "Stemmen van het Huis",
+        "aria_ver": "Bekijk citaat {n}",
+        "cargo_fundador": "Oprichter van de CDS"
+    }
+}

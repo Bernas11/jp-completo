@@ -1,0 +1,353 @@
+{
+    "nav": {
+        "causas": "Piloni",
+        "concelhias": "Filiale Locale",
+        "atividades": "Activități",
+        "orgaos": "Organe Naționale",
+        "documentacao": "Documentație",
+        "contactos": "Contact",
+        "aderir": "Vreau să mă alătur",
+        "anteriores_lideres": "Foști Lideri"
+    },
+    "hero": {
+        "eyebrow": "Tineretul CDS-PP · Din 1974",
+        "title": "Alătură-te nouă!",
+        "lede": "Juventude Popular are nevoie de sprijinul tău. Completează fișa de înscriere și alătură-te casei adevăratei Dreapte.",
+        "cta_primary": "Vreau să mă alătur",
+        "cta_secondary": "Descoperă pilonii",
+        "stat_founded": "Fondată în",
+        "stat_founded_value": "1974",
+        "stat_congress": "Congresul Național",
+        "stat_congress_value": "XXVII",
+        "stat_founded_label": "Anul înființării",
+        "stat_concelhias_label": "Filiale locale active",
+        "stat_congress_label": "Congresul Național",
+        "stat_pilares_label": "Piloni ideologici"
+    },
+    "pilares": {
+        "eyebrow": "Ce ne definește",
+        "title": "Trei piloni, o singură practică",
+        "lede": "Nu sunt trei curente aflate în competiție, ci cele trei baze pe care JP decide, din prima zi.",
+        "democracia_crista_title": "Democrație Creștină",
+        "democracia_crista_body": "Persoana umană și familia ca punct de plecare al oricărei politici publice, nu Statul.",
+        "conservadorismo_title": "Conservatorism",
+        "conservadorismo_body": "Să schimbăm ce trebuie schimbat, păstrând ce funcționează deja — reformă cu rădăcini, nu ruptură de dragul rupturii.",
+        "liberalismo_title": "Liberalism",
+        "liberalismo_body": "Libertate economică și responsabilitate individuală: Statul în slujba oamenilor, nu invers."
+    },
+    "concelhias": {
+        "eyebrow": "Pe teren",
+        "title": "O filială lângă tine",
+        "lede": "Peste 100 de filiale locale active, de la nord la sud și în insule. Găsește-o pe a ta.",
+        "cta": "Vezi toate filialele"
+    },
+    "atividades": {
+        "eyebrow": "Activitate recentă",
+        "title": "Ce a făcut JP",
+        "lede": "Știri și evenimente ale filialelor, actualizate chiar de acestea și de conducerea națională.",
+        "cta": "Vezi toate activitățile",
+        "empty_noticias": "Încă nu a fost publicată nicio știre.",
+        "empty_eventos": "Încă nu este programat niciun eveniment."
+    },
+    "juntar": {
+        "title": "Portugalia se decide prin cei care se implică.",
+        "lede": "Completează fișa de preînscriere. Filiala ta te va contacta în curând.",
+        "cta": "Trimite preînscrierea"
+    },
+    "footer": {
+        "sede": "Sediul Național: Largo Adelino Amaro da Costa, 5, 1149-063 Lisabona",
+        "jp_heading": "JP",
+        "historia": "Istorie",
+        "pilares": "Piloni Ideologici",
+        "orgaos": "Organe Naționale",
+        "participar_heading": "Implică-te",
+        "aderir": "Vreau să mă alătur",
+        "atividades": "Activități",
+        "carta": "Carta de Principii",
+        "contactos_heading": "Contact",
+        "rights": "Juventude Popular. Organizația de tineret a CDS-PP.",
+        "portal_label": "Portalul Membrului",
+        "admin_label": "Zonă de Administrare"
+    },
+    "concelhias_page": {
+        "eyebrow": "Structură teritorială",
+        "title": "Găsește-ți filiala",
+        "lede": "Peste 100 de filiale locale active, organizate pe districte. Apar aici de îndată ce sunt recunoscute de Comisia Politică Națională.",
+        "search_placeholder": "Caută după localitate sau district...",
+        "search_clear": "Șterge căutarea",
+        "search_no_results_title": "Niciun rezultat",
+        "search_no_results_hint": "Nu am găsit nicio filială pentru „{query}”. Încearcă alt nume sau district.",
+        "empty_email": "Email de confirmat",
+        "empty_instagram": "Instagram de confirmat"
+    },
+    "orgaos_page": {
+        "eyebrow": "Structură națională",
+        "title": "Organe Naționale",
+        "lede": "Structura de conducere și disciplină a JP la nivel național, așa cum este definită în Statut.",
+        "cpn_title": "Comisia Politică Națională",
+        "cpn_body": "Organul executiv suprem al JP între Congrese. Definește strategia politică națională și conduce structura permanent.",
+        "mcn_title": "Biroul Congresului Național",
+        "mcn_body": "Conduce lucrările Congresului Național, organul suveran suprem al JP.",
+        "disciplina_title": "Comisia de Disciplină",
+        "disciplina_body": "Responsabilă pentru procesele disciplinare interne, conform Statutului.",
+        "jurisdicao_title": "Consiliul de Jurisdicție și Control",
+        "jurisdicao_body": "Veghează la respectarea Statutului și la legalitatea internă a actelor JP.",
+        "mesa_conselho_title": "Biroul Consiliului Național",
+        "mesa_conselho_body": "Conduce lucrările Consiliului Național, organ deliberativ între Congrese.",
+        "gabinete_title": "Biroul de Studii Gonçalo Begonha",
+        "gabinete_body": "Structura de reflecție politică și producție doctrinară a JP, purtând numele fondatorului său."
+    },
+    "aderir_page": {
+        "eyebrow": "Rândul tău",
+        "title": "Alătură-te nouă!",
+        "lede": "Juventude Popular are nevoie de sprijinul tău. Completează fișa de înscriere și alătură-te casei adevăratei Dreapte — ne angajăm să răspundem în termen de o săptămână lucrătoare.",
+        "label_nome": "Nume complet",
+        "label_nascimento": "Data nașterii",
+        "label_email": "Email",
+        "label_telemovel": "Telefon mobil",
+        "label_distrito": "District",
+        "label_morada": "Adresă",
+        "consent": "Am citit și accept Politica de Confidențialitate și Termenii și Condițiile.",
+        "parental_note": "Dacă ai sub 16 ani, îți vom cere apoi contactul reprezentantului tău legal.",
+        "submit": "Trimite preînscrierea"
+    },
+    "carta_page": {
+        "eyebrow": "Document fondator",
+        "title": "Carta de Principii",
+        "lede": "Principiile care ghidează acțiunea politică a Juventude Popular, ca organizație de tineret a CDS-PP.",
+        "s1_title": "O organizație de cauze",
+        "p1": "Juventude Popular se afirmă ca o organizație de cauze, ancorată în Democrația Creștină, Conservatorism și Liberalism, nu ca trei curente aflate în competiție, ci ca trei baze care se întăresc reciproc în modul în care decidem. Nu alegem între ele în funcție de conveniența momentului: le aplicăm împreună, ca metodă.",
+        "s2_title": "Persoana umană și familia",
+        "p2": "Punem persoana umană, familia și comunitățile locale în centrul acțiunii politice, ca alternativă la un Stat care decide totul în numele tuturor. Credem în principiul subsidiarității: ce poate fi rezolvat de familie, de comunitate sau de puterea locală, nu trebuie să urce la un nivel de decizie mai îndepărtat.",
+        "s3_title": "Libertate economică și responsabilitate",
+        "p3": "Susținem libertatea economică și responsabilitatea individuală ca și condiții ale progresului. Un Stat în slujba oamenilor colectează mai puțin decât are nevoie pentru a cheltui mai mult decât ar trebui, iar această relație vrem să o inversăm, fără a renunța la solidaritatea față de cei mai nevoiași.",
+        "s4_title": "Reformă cu rădăcini",
+        "p4": "Schimbăm ce trebuie schimbat, păstrând ce funcționează deja. Nu confundăm progresul cu ruptura de dragul rupturii: o reformă este serioasă doar atunci când respectă experiența acumulată a celor de dinainte, nu doar urgența celor care decid astăzi.",
+        "s5_title": "Portugalia în Europa",
+        "p5": "Participăm activ la construcția europeană, fără a ne pierde identitatea națională. Uniunea Europeană trebuie să fie un spațiu de cooperare între națiuni libere, nu un înlocuitor al suveranității fiecăreia dintre ele.",
+        "s6_title": "O nouă generație în slujba țării",
+        "p6": "Nu așteptăm rândul nostru pentru a avea o voce. Ne organizăm, dezbatem, propunem și acționăm — în peste 100 de filiale locale, pentru că politica de cauze nu se face doar la Lisabona, ci în fiecare municipiu al țării."
+    },
+    "documentacao_page": {
+        "eyebrow": "Fost Sediu Virtual",
+        "title": "Documentație",
+        "lede": "Convocări, statute, regulamente și minute ale Juventude Popular — tot ce trebuie să consulți, într-un singur loc.",
+        "search_placeholder": "Caută document...",
+        "cat_convocatorias": "Convocări",
+        "cat_estatutos": "Statute și Regulamente",
+        "cat_minutas": "Minute și Documente",
+        "cat_premios": "Premii"
+    },
+    "a11y_skip_link": "Sări la conținutul principal",
+    "marquee": [
+        "🇵🇹 Portugalia este decisă de cei care se implică",
+        "🗳️ Democrație locală",
+        "💼 Locuri de muncă pentru tineri",
+        "🏠 Locuințe accesibile",
+        "🎓 Educație de calitate",
+        "🤝 Participare civică",
+        "⚡ Reînnoire politică",
+        "💛 100+ filiale locale active"
+    ],
+    "anteriores_lideres_page": {
+        "eyebrow": "Cine a condus deja JP",
+        "title": "Foști Lideri",
+        "lede": "Președinții care, de-a lungul anilor, au dat un chip și o voce Juventude Popular.",
+        "atual": "ACTUAL",
+        "presente": "prezent"
+    },
+    "historia_page": {
+        "eyebrow": "Istoria noastră",
+        "title": "Cinci decenii în slujba Portugaliei",
+        "lede": "De la înființarea din 1974 până la structura națională de astăzi — istoria Juventude Popular urmează istoria CDS-ului însuși.",
+        "marcos": [
+            {
+                "titulo": "1974 — Juventude Centrista",
+                "texto": "În același an al înființării CDS, se naște organizația sa de tineret, numită atunci Juventude Centrista."
+            },
+            {
+                "titulo": "1998 — Devine Juventude Popular",
+                "texto": "Organizația adoptă numele Juventude Popular, identitate pe care o păstrează până astăzi."
+            },
+            {
+                "titulo": "Prezență internațională",
+                "texto": "JP este membră a YEPP (Youth of the European People's Party), DEMYC (Democrat Youth Community of Europe) și IYDU (International Young Democrat Union)."
+            },
+            {
+                "titulo": "Astăzi",
+                "texto": "Peste 100 de filiale locale active de la nord la sud și în insule, cu un Congres Național la fiecare doi ani."
+            }
+        ]
+    },
+    "marca_jp_page": {
+        "eyebrow": "Poartă-ți cauzele",
+        "title": "Marca JP",
+        "lede": "Produse oficiale Juventude Popular — poartă marca, susține structura."
+    },
+    "contactos_page": {
+        "eyebrow": "Vorbește cu noi",
+        "title": "Contact",
+        "lede": "Suntem disponibili pentru orice întrebare despre structura națională sau filialele locale.",
+        "label_sede": "Sediul Național",
+        "label_email": "Email",
+        "label_telefone": "Telefon"
+    },
+    "goncalo_begonha_page": {
+        "eyebrow": "O amintire care rămâne vie",
+        "title": "Gonçalo Begonha",
+        "lede": "1980 — 2003",
+        "meta_description": "Gonçalo Botelho Gomes Begonha, lider al Juventude Popular, al cărui nume îl poartă Biroul de Studii."
+    },
+    "sucesso_page": {
+        "title": "Comandă confirmată!",
+        "message": "Ți-am trimis un email de confirmare. Îți mulțumim că susții Juventude Popular.",
+        "cta": "Înapoi la magazin"
+    },
+    "cart": {
+        "adicionar": "Adaugă",
+        "carrinho": "Coș",
+        "vazio": "Coșul tău este gol.",
+        "total": "Total",
+        "finalizar": "Finalizează comanda",
+        "processando": "Se procesează...",
+        "pagar": "Plătește",
+        "remover": "Elimină",
+        "erro_pagamento": "Eroare la inițierea plății.",
+        "erro_processar": "Eroare la procesare.",
+        "ph_nome": "Nume complet",
+        "ph_email": "Email",
+        "ph_morada": "Adresă",
+        "ph_cp": "Cod Poștal",
+        "ph_localidade": "Localitate"
+    },
+    "aderir_form": {
+        "step1": "Date Personale",
+        "step2": "Adresă",
+        "step3": "Document",
+        "erro_ficheiro_tamanho": "Fișierul nu poate depăși 8MB.",
+        "erro_ficheiro_formato": "Format invalid. Folosește JPG, PNG sau PDF.",
+        "erro_ficheiro_obrigatorio": "Trebuie să atașezi o copie a cărții de identitate.",
+        "erro_submeter": "Eroare la trimitere. Încearcă din nou.",
+        "erro_enviar": "Eroare la trimitere. Încearcă din nou.",
+        "bem_vindo": "Bine ai venit în JP, {nome}!",
+        "camarada": "camarade",
+        "confirmacao": "Am primit cererea și documentul tău. CPN va valida datele și îți va răspunde în cel mult o săptămână lucrătoare la {email}.",
+        "passos_aria": "Pașii formularului",
+        "label_nome": "Nume complet *",
+        "label_dataNascimento": "Data nașterii *",
+        "label_email": "Email *",
+        "label_telemovel": "Telefon mobil *",
+        "label_estabelecimento": "Instituție de învățământ",
+        "ph_estabelecimento": "(opțional)",
+        "ph_email": "email@exemplu.ro",
+        "ph_telemovel": "+351 9XX XXX XXX",
+        "aviso_parental": "Deoarece ai între 14 și 15 ani, avem nevoie de datele reprezentantului tău legal.",
+        "label_encNome": "Numele reprezentantului legal *",
+        "label_encContacto": "Contactul reprezentantului legal *",
+        "label_morada": "Adresă *",
+        "ph_morada": "Stradă, loc...",
+        "label_numero": "Nr.",
+        "label_localidade": "Localitate *",
+        "ph_localidade": "Ex: Pena Verde",
+        "label_cp": "Cod Poștal",
+        "ph_cp": "0000-000",
+        "label_distrito": "Județ / Regiune Autonomă *",
+        "ph_seleciona": "Selectează...",
+        "label_concelho": "Municipiu *",
+        "ph_concelho": "Ex: Aguiar da Beira",
+        "nota_concelhia": "Filiala ta locală este atribuită automat pe baza municipiului indicat.",
+        "label_cc": "Numărul cărții de identitate *",
+        "ph_cc": "00000000 0 ZZ0",
+        "label_upload": "Copie lizibilă a cărții de identitate (față și verso) *",
+        "remover_ficheiro_aria": "Elimină fișierul",
+        "upload_cta": "Apasă pentru a atașa (JPG, PNG sau PDF, max. 8MB)",
+        "nota_privacidade": "Documentul este păstrat privat și șters în termen de 30 de zile de la decizie.",
+        "aceito_pre": "Accept Termenii și Condițiile și",
+        "politica": "Politica de Confidențialitate",
+        "anterior": "Anterior",
+        "proximo": "Următor",
+        "enviando": "Se trimite…",
+        "confirmar": "Confirmă Aderarea"
+    },
+    "aderir_form_errors": {
+        "nome_curto": "Nume prea scurt",
+        "data_obrigatoria": "Data nașterii este obligatorie",
+        "email_invalido": "Email invalid",
+        "telemovel_invalido": "Număr de telefon invalid",
+        "data_invalida": "Dată invalidă",
+        "idade_min": "Vârsta minimă de aderare: 14 ani",
+        "idade_max": "Vârsta maximă de aderare: 30 ani",
+        "enc_obrigatorio": "Obligatoriu pentru minorii sub 16 ani",
+        "morada_obrigatoria": "Adresa este obligatorie",
+        "localidade_obrigatoria": "Localitatea este obligatorie",
+        "distrito_obrigatorio": "Județul este obligatoriu",
+        "concelho_obrigatorio": "Municipiul este obligatoriu",
+        "cc_invalido": "Număr de carte de identitate invalid",
+        "termos_obrigatorio": "Trebuie să accepți termenii și politica de confidențialitate"
+    },
+    "timeline": {
+        "eyebrow": "Parcursul nostru",
+        "heading": "Cinci decenii construind viitorul",
+        "marcos": [
+            {
+                "ano": "1974",
+                "title": "Juventude Centrista",
+                "text": "Înființarea organizației de tineret legată de CDS, în același an cu înființarea partidului."
+            },
+            {
+                "ano": "1998",
+                "title": "Devine Juventude Popular",
+                "text": "Organizația adoptă numele și identitatea pe care le păstrează până astăzi."
+            },
+            {
+                "ano": "2020",
+                "title": "Reînnoirea conducerii",
+                "text": "După ascensiunea lui Francisco Rodrigues în CDS-PP, Francisco Mota devine președinte interimar."
+            },
+            {
+                "ano": "2021",
+                "title": "Francisco Camacho ales",
+                "text": "Fostul președinte al filialei Lisabona este ales președinte al JP în Congresul Național."
+            },
+            {
+                "ano": "2025",
+                "title": "Catarina Marinho preia conducerea",
+                "text": "Începutul mandatului actual, cu deviza \"De la Vorbe la Fapte. Pentru Portugalia!\""
+            },
+            {
+                "ano": "2026",
+                "title": "Al XXVII-lea Congres Național",
+                "text": "Desfășurat în aprilie, cu revizuirea statutului și lansarea reînnoirii structurii digitale naționale."
+            },
+            {
+                "ano": "Astăzi",
+                "title": "Peste 100 de filiale locale",
+                "text": "O structură activă de la nord la sud și în insule, în creștere în fiecare județ."
+            }
+        ]
+    },
+    "trust": {
+        "eyebrow": "Transparență",
+        "heading": "Încrederea se câștigă prin claritate",
+        "lede": "Înainte de a ne oferi datele tale, este corect să știi la ce te poți aștepta din partea noastră.",
+        "items": [
+            {
+                "title": "Structură bazată pe voluntariat",
+                "text": "JP este o organizație politică de tineret nonprofit. Conducerea națională și filialele locale sunt gestionate de voluntari."
+            },
+            {
+                "title": "Date protejate cu adevărat",
+                "text": "Datele tale de aderare se află într-o bază izolată, cu acces restricționat la CPN; documentul de identitate este șters la 30 de zile după decizie."
+            },
+            {
+                "title": "Statutul național",
+                "text": "Întreaga structură respectă Statutul aprobat în Congresul Național, disponibil la conducerea oricărei filiale locale."
+            }
+        ]
+    },
+    "vozes_da_casa": {
+        "label": "Vocile Casei",
+        "aria_ver": "Vezi citatul {n}",
+        "cargo_fundador": "Fondator al CDS"
+    }
+}

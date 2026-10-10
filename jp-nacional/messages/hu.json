@@ -1,0 +1,353 @@
+{
+    "nav": {
+        "causas": "Pillérek",
+        "concelhias": "Helyi szervezetek",
+        "atividades": "Tevékenységek",
+        "orgaos": "Országos szervek",
+        "documentacao": "Dokumentáció",
+        "contactos": "Kapcsolat",
+        "aderir": "Csatlakozz",
+        "anteriores_lideres": "Korábbi Vezetők"
+    },
+    "hero": {
+        "eyebrow": "CDS-PP Ifjúsága · 1974 óta",
+        "title": "Csatlakozz hozzánk!",
+        "lede": "A Juventude Popularnak szüksége van a támogatásodra. Töltsd ki a tagsági űrlapot, és csatlakozz az igazi Jobboldal otthonához.",
+        "cta_primary": "Csatlakozz",
+        "cta_secondary": "Ismerd meg a pilléreket",
+        "stat_founded": "Alapítva",
+        "stat_founded_value": "1974",
+        "stat_congress": "Országos Kongresszus",
+        "stat_congress_value": "XXVII",
+        "stat_founded_label": "Alapítás éve",
+        "stat_concelhias_label": "Aktív helyi szervezetek",
+        "stat_congress_label": "Nemzeti Kongresszus",
+        "stat_pilares_label": "Ideológiai pillérek"
+    },
+    "pilares": {
+        "eyebrow": "Ami meghatároz minket",
+        "title": "Három pillér, egy gyakorlat",
+        "lede": "Nem három egymással versengő irányzatról van szó, hanem arról a három alapról, amelyre támaszkodva a JP az első nap óta meghozza döntéseit.",
+        "democracia_crista_title": "Kereszténydemokrácia",
+        "democracia_crista_body": "Az ember és a család minden közpolitika kiindulópontja, nem az Állam.",
+        "conservadorismo_title": "Konzervativizmus",
+        "conservadorismo_body": "Megváltoztatni azt, amit meg kell változtatni, megőrizve azt, ami működik — gyökerekkel rendelkező reform, nem szakítás a szakítás kedvéért.",
+        "liberalismo_title": "Liberalizmus",
+        "liberalismo_body": "Gazdasági szabadság és egyéni felelősség: az Állam az emberek szolgálatában, nem pedig fordítva."
+    },
+    "concelhias": {
+        "eyebrow": "A terepen",
+        "title": "Helyi szervezet a közeledben",
+        "lede": "Több mint 100 aktív helyi szervezet északról délre és a szigeteken. Találd meg a tiédet.",
+        "cta": "Összes helyi szervezet megtekintése"
+    },
+    "atividades": {
+        "eyebrow": "Legutóbbi tevékenységek",
+        "title": "Mit tett a JP",
+        "lede": "Hírek és események a helyi alapszervezetektől, amelyeket maguk a helyi szervezetek és az országos vezetés frissítenek.",
+        "cta": "Összes tevékenység megtekintése",
+        "empty_noticias": "Még nincs közzétett hír.",
+        "empty_eventos": "Még nincs tervezett esemény."
+    },
+    "juntar": {
+        "title": "Portugália jövőjéről azok döntenek, akik jelen vannak.",
+        "lede": "Töltsd ki az előregisztrációs űrlapot. A helyi szervezeted hamarosan felveszi veled a kapcsolatot.",
+        "cta": "Előregisztráció elküldése"
+    },
+    "footer": {
+        "sede": "Országos Központ: Largo Adelino Amaro da Costa, 5, 1149-063 Lisszabon",
+        "jp_heading": "JP",
+        "historia": "Történelem",
+        "pilares": "Ideológiai pillérek",
+        "orgaos": "Országos szervek",
+        "participar_heading": "Részvétel",
+        "aderir": "Csatlakozz",
+        "atividades": "Tevékenységek",
+        "carta": "Elvnyilatkozat",
+        "contactos_heading": "Kapcsolat",
+        "rights": "Juventude Popular. A CDS-PP ifjúsági szervezete.",
+        "portal_label": "Tagi Portál",
+        "admin_label": "Adminisztrációs Terület"
+    },
+    "concelhias_page": {
+        "eyebrow": "Területi struktúra",
+        "title": "Keresd meg a helyi szervezetedet",
+        "lede": "Több mint 100 aktív helyi szervezet körzetek szerint rendezve. Amint az Országos Politikai Bizottság elismeri őket, itt jelennek meg.",
+        "search_placeholder": "Keresés község vagy körzet alapján...",
+        "search_clear": "Keresés törlése",
+        "search_no_results_title": "Nincs találat",
+        "search_no_results_hint": "Nem találtunk helyi szervezetet erre: „{query}”. Próbálj más nevet vagy körzetet.",
+        "empty_email": "E-mail megerősítésre vár",
+        "empty_instagram": "Instagram megerősítésre vár"
+    },
+    "orgaos_page": {
+        "eyebrow": "Országos struktúra",
+        "title": "Országos szervek",
+        "lede": "A JP országos szintű irányítási és fegyelmi struktúrája az Alapszabályban meghatározottak szerint.",
+        "cpn_title": "Országos Politikai Bizottság",
+        "cpn_body": "A JP legfelsőbb végrehajtó szerve a Kongresszusok között. Meghatározza az országos politikai stratégiát és folyamatosan irányítja a szervezetet.",
+        "mcn_title": "Az Országos Kongresszus Elnöksége",
+        "mcn_body": "Irányítja az Országos Kongresszusnak, a JP legfőbb szuverén szervének munkáját.",
+        "disciplina_title": "Fegyelmi Bizottság",
+        "disciplina_body": "Felelős a belső fegyelmi eljárásokért az Alapszabályban foglaltaknak megfelelően.",
+        "jurisdicao_title": "Bíráskodási és Ellenőrző Tanács",
+        "jurisdicao_body": "Biztosítja az Alapszabály betartását és a JP intézkedéseinek belső jogszerűségét.",
+        "mesa_conselho_title": "Az Országos Tanács Elnöksége",
+        "mesa_conselho_body": "Irányítja az Országos Tanács, a Kongresszusok közötti döntéshozó szerv munkáját.",
+        "gabinete_title": "Gonçalo Begonha Tanulmányi Központ",
+        "gabinete_body": "A JP politikai gondolkodásának és doktrinális munkájának központja, amely alapítójának nevét viseli."
+    },
+    "aderir_page": {
+        "eyebrow": "Rád kerül a sor",
+        "title": "Csatlakozz hozzánk!",
+        "lede": "A Juventude Popularnak szüksége van a támogatásodra. Töltsd ki a tagsági űrlapot, és csatlakozz az igazi Jobboldal otthonához — vállaljuk, hogy egy munkahéten belül válaszolunk.",
+        "label_nome": "Teljes név",
+        "label_nascimento": "Születési dátum",
+        "label_email": "E-mail cím",
+        "label_telemovel": "Mobiltelefonszám",
+        "label_distrito": "Körzet",
+        "label_morada": "Cím",
+        "consent": "Elolvastam és elfogadom az Adatvédelmi Szabályzatot, valamint a Felhasználási Feltételeket.",
+        "parental_note": "Ha 16 évnél fiatalabb vagy, a következő lépésben elkérjük a szülőd vagy gyámod elérhetőségét.",
+        "submit": "Előregisztráció elküldése"
+    },
+    "carta_page": {
+        "eyebrow": "Alapító dokumentum",
+        "title": "Elvnyilatkozat",
+        "lede": "Az elvek, amelyek a Juventude Popular politikai cselekvését irányítják mint a CDS-PP ifjúsági szervezetét.",
+        "s1_title": "Értékalapú szervezet",
+        "p1": "A Juventude Popular értékalapú szervezetként határozza meg önmagát, amely a kereszténydemokráciában, a konzervativizmusban és a liberalizmusban gyökerezik — nem három egymással versengő irányzatként, hanem három olyan pillérként, amelyek kölcsönösen erősítik egymást döntéseinkben.",
+        "s2_title": "Az ember és a család",
+        "p2": "Az embert, a családot és a helyi közösségeket helyezzük a politikai cselekvés középpontjába, alternatívaként arra az Államra, amely mindenki nevében mindenről dönt. Hisszük a szubszidiaritás elvét.",
+        "s3_title": "Gazdasági szabadság és felelősség",
+        "p3": "A gazdasági szabadságot és az egyéni felelősséget a haladás feltételeiként védelmezzük. Az emberek szolgálatában álló Állam kevesebbet von el a felesleges kiadások elkerülése érdekében.",
+        "s4_title": "Gyökerekkel rendelkező reform",
+        "p4": "Megváltoztatjuk azt, amit meg kell változtatni, megőrizve azt, ami működik. Egy reform csak akkor komoly, ha tiszteletben tartja a korábbi generációk felhalmozott tapasztalatát.",
+        "s5_title": "Portugália Európában",
+        "p5": "Aktívan részt veszünk az európai építkezésben anélkül, hogy elveszítenénk nemzeti identitásunkat. Az Európai Uniónak a szabad nemzetek közötti együttműködés terének kell lennie.",
+        "s6_title": "Egy új generáció az ország szolgálatában",
+        "p6": "Nem várjuk meg, amíg ránk kerül a sor. Szerveződünk, vitázunk, javasolunk és cselekszünk több mint 100 helyi szervezetben az egész országban."
+    },
+    "documentacao_page": {
+        "eyebrow": "Korábbi Virtuális Központ",
+        "title": "Dokumentáció",
+        "lede": "Meghívók, alapszabályok, szabályzatok és jegyzőkönyvek a Juventude Popular életéből — minden, amit meg kell tekintened, egyetlen helyen.",
+        "search_placeholder": "Dokumentum keresése...",
+        "cat_convocatorias": "Meghívók",
+        "cat_estatutos": "Alapszabályok és Szabályzatok",
+        "cat_minutas": "Jegyzőkönyvek és Dokumentumok",
+        "cat_premios": "Díjak"
+    },
+    "a11y_skip_link": "Ugrás a fő tartalomra",
+    "marquee": [
+        "🇵🇹 Portugáliáról azok döntenek, akik megjelennek",
+        "🗳️ Helyi demokrácia",
+        "💼 Munkahelyek fiataloknak",
+        "🏠 Megfizethető lakhatás",
+        "🎓 Minőségi oktatás",
+        "🤝 Civil részvétel",
+        "⚡ Politikai megújulás",
+        "💛 100+ aktív helyi szervezet"
+    ],
+    "anteriores_lideres_page": {
+        "eyebrow": "Kik vezették már a JP-t",
+        "title": "Korábbi Vezetők",
+        "lede": "Az elnökök, akik az évek során arcot és hangot adtak a Juventude Popularnak.",
+        "atual": "JELENLEGI",
+        "presente": "jelen"
+    },
+    "historia_page": {
+        "eyebrow": "A történetünk",
+        "title": "Öt évtized Portugália szolgálatában",
+        "lede": "Az 1974-es alapítástól a mai nemzeti struktúráig — a Juventude Popular története a CDS történetét követi.",
+        "marcos": [
+            {
+                "titulo": "1974 — Juventude Centrista",
+                "texto": "Ugyanabban az évben, amikor a CDS megalakult, létrejön ifjúsági szervezete is, akkor még Juventude Centrista néven."
+            },
+            {
+                "titulo": "1998 — Juventude Popular néven folytatja",
+                "texto": "A szervezet felveszi a Juventude Popular nevet, amelyet a mai napig megtart."
+            },
+            {
+                "titulo": "Nemzetközi jelenlét",
+                "texto": "A JP tagja a YEPP-nek (Youth of the European People's Party), a DEMYC-nek (Democrat Youth Community of Europe) és az IYDU-nak (International Young Democrat Union)."
+            },
+            {
+                "titulo": "Ma",
+                "texto": "Több mint 100 aktív helyi szervezet az ország északi és déli részén, valamint a szigeteken, kétévente Nemzeti Kongresszussal."
+            }
+        ]
+    },
+    "marca_jp_page": {
+        "eyebrow": "Viseld az ügyeidet",
+        "title": "JP Márka",
+        "lede": "A Juventude Popular hivatalos ajándéktárgyai — viseld a márkát, támogasd a szervezetet."
+    },
+    "contactos_page": {
+        "eyebrow": "Beszélj velünk",
+        "title": "Kapcsolat",
+        "lede": "Bármilyen, a nemzeti struktúrával vagy a helyi szervezetekkel kapcsolatos kérdésben rendelkezésre állunk.",
+        "label_sede": "Országos Székhely",
+        "label_email": "Email",
+        "label_telefone": "Telefon"
+    },
+    "goncalo_begonha_page": {
+        "eyebrow": "Egy emlék, amely tovább él",
+        "title": "Gonçalo Begonha",
+        "lede": "1980 — 2003",
+        "meta_description": "Gonçalo Botelho Gomes Begonha, a Juventude Popular vezetője, akiről a Tanulmányi Iroda a nevét kapta."
+    },
+    "sucesso_page": {
+        "title": "Rendelés megerősítve!",
+        "message": "Küldtünk egy megerősítő e-mailt. Köszönjük, hogy támogatod a Juventude Populart.",
+        "cta": "Vissza a boltba"
+    },
+    "cart": {
+        "adicionar": "Hozzáadás",
+        "carrinho": "Kosár",
+        "vazio": "A kosarad üres.",
+        "total": "Összesen",
+        "finalizar": "Fizetés",
+        "processando": "Feldolgozás...",
+        "pagar": "Fizetés",
+        "remover": "Eltávolítás",
+        "erro_pagamento": "Hiba a fizetés indításakor.",
+        "erro_processar": "Hiba a feldolgozás során.",
+        "ph_nome": "Teljes név",
+        "ph_email": "Email",
+        "ph_morada": "Cím",
+        "ph_cp": "Irányítószám",
+        "ph_localidade": "Település"
+    },
+    "aderir_form": {
+        "step1": "Személyes Adatok",
+        "step2": "Cím",
+        "step3": "Dokumentum",
+        "erro_ficheiro_tamanho": "A fájl mérete nem haladhatja meg a 8 MB-ot.",
+        "erro_ficheiro_formato": "Érvénytelen formátum. Használj JPG, PNG vagy PDF fájlt.",
+        "erro_ficheiro_obrigatorio": "Csatolnod kell a személyi igazolványod másolatát.",
+        "erro_submeter": "Hiba a beküldés során. Próbáld újra.",
+        "erro_enviar": "Hiba a küldés során. Próbáld újra.",
+        "bem_vindo": "Üdvözlünk a JP-ben, {nome}!",
+        "camarada": "elvtárs",
+        "confirmacao": "Megkaptuk a jelentkezésedet és a dokumentumodat. A CPN ellenőrzi az adatokat, és egy munkahéten belül válaszol a(z) {email} címen.",
+        "passos_aria": "Az űrlap lépései",
+        "label_nome": "Teljes név *",
+        "label_dataNascimento": "Születési dátum *",
+        "label_email": "Email *",
+        "label_telemovel": "Mobiltelefon *",
+        "label_estabelecimento": "Oktatási intézmény",
+        "ph_estabelecimento": "(nem kötelező)",
+        "ph_email": "email@pelda.hu",
+        "ph_telemovel": "+351 9XX XXX XXX",
+        "aviso_parental": "Mivel 14 és 15 éves kor között vagy, szükségünk van a törvényes képviselőd adataira.",
+        "label_encNome": "Törvényes képviselő neve *",
+        "label_encContacto": "Törvényes képviselő elérhetősége *",
+        "label_morada": "Cím *",
+        "ph_morada": "Utca, hely...",
+        "label_numero": "Sz.",
+        "label_localidade": "Település *",
+        "ph_localidade": "Pl. Pena Verde",
+        "label_cp": "Irányítószám",
+        "ph_cp": "0000-000",
+        "label_distrito": "Kerület / Autonóm régió *",
+        "ph_seleciona": "Válassz...",
+        "label_concelho": "Község *",
+        "ph_concelho": "Pl. Aguiar da Beira",
+        "nota_concelhia": "A helyi szervezeted automatikusan a megadott község alapján kerül hozzárendelésre.",
+        "label_cc": "Személyi igazolvány száma *",
+        "ph_cc": "00000000 0 ZZ0",
+        "label_upload": "Olvasható másolat a személyi igazolványról (elő- és hátlap) *",
+        "remover_ficheiro_aria": "Fájl eltávolítása",
+        "upload_cta": "Kattints a csatoláshoz (JPG, PNG vagy PDF, max. 8 MB)",
+        "nota_privacidade": "A dokumentumot bizalmasan tároljuk, és a döntést követő 30 napon belül töröljük.",
+        "aceito_pre": "Elfogadom az Általános Szerződési Feltételeket és az",
+        "politica": "Adatvédelmi Szabályzatot",
+        "anterior": "Előző",
+        "proximo": "Következő",
+        "enviando": "Küldés…",
+        "confirmar": "Tagság Megerősítése"
+    },
+    "aderir_form_errors": {
+        "nome_curto": "A név túl rövid",
+        "data_obrigatoria": "A születési dátum kötelező",
+        "email_invalido": "Érvénytelen email",
+        "telemovel_invalido": "Érvénytelen telefonszám",
+        "data_invalida": "Érvénytelen dátum",
+        "idade_min": "Minimális tagsági életkor: 14 év",
+        "idade_max": "Maximális tagsági életkor: 30 év",
+        "enc_obrigatorio": "16 év alattiaknak kötelező",
+        "morada_obrigatoria": "A cím kötelező",
+        "localidade_obrigatoria": "A település kötelező",
+        "distrito_obrigatorio": "A kerület kötelező",
+        "concelho_obrigatorio": "A község kötelező",
+        "cc_invalido": "Érvénytelen személyi igazolvány szám",
+        "termos_obrigatorio": "El kell fogadnod a feltételeket és az adatvédelmi szabályzatot"
+    },
+    "timeline": {
+        "eyebrow": "A mi utunk",
+        "heading": "Öt évtized a jövő építésében",
+        "marcos": [
+            {
+                "ano": "1974",
+                "title": "Juventude Centrista",
+                "text": "A CDS-hez kötődő ifjúsági szervezet megalapítása, ugyanabban az évben, mint a párt megalapítása."
+            },
+            {
+                "ano": "1998",
+                "title": "Juventude Popular néven folytatja",
+                "text": "A szervezet felveszi azt a nevet és identitást, amelyet a mai napig megtart."
+            },
+            {
+                "ano": "2020",
+                "title": "Vezetői megújulás",
+                "text": "Miután Francisco Rodrigues a CDS-PP élére emelkedett, Francisco Mota lesz az ideiglenes elnök."
+            },
+            {
+                "ano": "2021",
+                "title": "Francisco Camachót megválasztják",
+                "text": "A lisszaboni kerületi szervezet korábbi elnökét választják a JP elnökévé a Nemzeti Kongresszuson."
+            },
+            {
+                "ano": "2025",
+                "title": "Catarina Marinho átveszi a vezetést",
+                "text": "A jelenlegi mandátum kezdete, a \"A szavaktól a tettekig. Portugáliáért!\" jelmondattal."
+            },
+            {
+                "ano": "2026",
+                "title": "XXVII. Nemzeti Kongresszus",
+                "text": "Áprilisban tartották, alapszabály-felülvizsgálattal és a nemzeti digitális struktúra megújításának elindításával."
+            },
+            {
+                "ano": "Ma",
+                "title": "Több mint 100 helyi szervezet",
+                "text": "Aktív struktúra az ország északi és déli részén, valamint a szigeteken, minden kerületben növekedve."
+            }
+        ]
+    },
+    "trust": {
+        "eyebrow": "Átláthatóság",
+        "heading": "A bizalmat az egyértelműség szerzi meg",
+        "lede": "Mielőtt megadod nekünk az adataidat, jogos, hogy tudd, mit várhatsz tőlünk.",
+        "items": [
+            {
+                "title": "Önkéntes alapú struktúra",
+                "text": "A JP nonprofit politikai ifjúsági szervezet. A nemzeti vezetést és a helyi szervezeteket önkéntesek irányítják."
+            },
+            {
+                "title": "Adataid komolyan védve",
+                "text": "A tagsági adataid egy elkülönített adatbázisban vannak, hozzáférés kizárólag a CPN számára; a személyazonossági okmányt a döntést követő 30 napon belül töröljük."
+            },
+            {
+                "title": "Országos alapszabály",
+                "text": "A teljes struktúra a Nemzeti Kongresszuson elfogadott Alapszabályt követi, amely elérhető bármely helyi szervezet vezetőségénél."
+            }
+        ]
+    },
+    "vozes_da_casa": {
+        "label": "A Ház Hangjai",
+        "aria_ver": "Idézet megtekintése {n}",
+        "cargo_fundador": "A CDS alapítója"
+    }
+}

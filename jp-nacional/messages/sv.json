@@ -1,0 +1,353 @@
+{
+    "nav": {
+        "causas": "Pelare",
+        "concelhias": "Lokalavdelningar",
+        "atividades": "Aktiviteter",
+        "orgaos": "Nationella organ",
+        "documentacao": "Dokumentation",
+        "contactos": "Kontakt",
+        "aderir": "Jag vill gå med",
+        "anteriores_lideres": "Tidigare Ledare"
+    },
+    "hero": {
+        "eyebrow": "CDS-PP:s ungdomsförbund · Sedan 1974",
+        "title": "Gå med oss!",
+        "lede": "Juventude Popular behöver ditt stöd. Fyll i din medlemsansökan och gå med i det sanna högerns hem.",
+        "cta_primary": "Jag vill gå med",
+        "cta_secondary": "Upptäck pelarna",
+        "stat_founded": "Grundad",
+        "stat_founded_value": "1974",
+        "stat_congress": "Nationell kongress",
+        "stat_congress_value": "XXVII",
+        "stat_founded_label": "Grundades",
+        "stat_concelhias_label": "Aktiva lokalavdelningar",
+        "stat_congress_label": "Nationell kongress",
+        "stat_pilares_label": "Ideologiska pelare"
+    },
+    "pilares": {
+        "eyebrow": "Vad som definierar oss",
+        "title": "Tre pelare, en praxis",
+        "lede": "Det är inte tre tävlande strömningar, utan de tre grunder som JP fattar beslut utifrån, sedan första dagen.",
+        "democracia_crista_title": "Kristdemokrati",
+        "democracia_crista_body": "Människan och familjen som utgångspunkt för all offentlig politik, inte staten.",
+        "conservadorismo_title": "Konservatism",
+        "conservadorismo_body": "Att förändra det som behöver förändras, samtidigt som vi bevarar det som redan fungerar — reform med rötter, inte brytning för brytningens skull.",
+        "liberalismo_title": "Liberalism",
+        "liberalismo_body": "Ekonomisk frihet och individuellt ansvar: staten i människornas tjänst, inte tvärtom."
+    },
+    "concelhias": {
+        "eyebrow": "Ute på fältet",
+        "title": "En lokalavdelning nära dig",
+        "lede": "Över 100 aktiva lokalavdelningar, från norr till söder och på öarna. Hitta din.",
+        "cta": "Se alla lokalavdelningar"
+    },
+    "atividades": {
+        "eyebrow": "Senaste aktiviteten",
+        "title": "Vad JP har gjort",
+        "lede": "Nyheter och evenemang från avdelningarna, uppdaterade av avdelningarna själva och av den nationella ledningen.",
+        "cta": "Se alla aktiviteter",
+        "empty_noticias": "Inga nyheter publicerade än.",
+        "empty_eventos": "Inga evenemang inplanerade än."
+    },
+    "juntar": {
+        "title": "Portugal avgörs av de som dyker upp.",
+        "lede": "Fyll i din förhandsanmälan. Din lokalavdelning kontaktar dig inom kort.",
+        "cta": "Skicka förhandsanmälan"
+    },
+    "footer": {
+        "sede": "Nationellt huvudkontor: Largo Adelino Amaro da Costa, 5, 1149-063 Lissabon",
+        "jp_heading": "JP",
+        "historia": "Historia",
+        "pilares": "Ideologiska pelare",
+        "orgaos": "Nationella organ",
+        "participar_heading": "Delta",
+        "aderir": "Jag vill gå med",
+        "atividades": "Aktiviteter",
+        "carta": "Principförklaring",
+        "contactos_heading": "Kontakt",
+        "rights": "Juventude Popular. CDS-PP:s ungdomsorganisation.",
+        "portal_label": "Medlemsportal",
+        "admin_label": "Administrationsyta"
+    },
+    "concelhias_page": {
+        "eyebrow": "Territoriell struktur",
+        "title": "Hitta din lokalavdelning",
+        "lede": "Över 100 aktiva lokalavdelningar, organiserade efter distrikt. De visas här så snart de erkänts av den nationella politiska kommissionen.",
+        "search_placeholder": "Sök efter kommun eller distrikt...",
+        "search_clear": "Rensa sökning",
+        "search_no_results_title": "Inga resultat",
+        "search_no_results_hint": "Vi kunde inte hitta någon lokalavdelning för ”{query}”. Prova ett annat namn eller distrikt.",
+        "empty_email": "E-post ej bekräftad",
+        "empty_instagram": "Instagram ej bekräftat"
+    },
+    "orgaos_page": {
+        "eyebrow": "Nationell struktur",
+        "title": "Nationella organ",
+        "lede": "JP:s lednings- och disciplinstruktur på nationell nivå, enligt definitionen i stadgarna.",
+        "cpn_title": "Nationella politiska kommissionen",
+        "cpn_body": "JP:s högsta verkställande organ mellan kongresserna. Fastställer den nationella politiska strategin och leder strukturen löpande.",
+        "mcn_title": "Nationella kongressens presidium",
+        "mcn_body": "Leder arbetet i Nationella kongressen, JP:s högsta suveräna organ.",
+        "disciplina_title": "Disciplinkommittén",
+        "disciplina_body": "Ansvarig för interna disciplinära ärenden enligt stadgarna.",
+        "jurisdicao_title": "Rådet för jurisdiktion och tillsyn",
+        "jurisdicao_body": "Övervakar efterlevnaden av stadgarna och den interna lagligheten i JP:s handlingar.",
+        "mesa_conselho_title": "Nationella rådets presidium",
+        "mesa_conselho_body": "Leder arbetet i Nationella rådet, ett rådgivande organ mellan kongresserna.",
+        "gabinete_title": "Gonçalo Begonha-studiekansliet",
+        "gabinete_body": "JP:s struktur för politisk reflektion och doktrinär produktion, uppkallad efter sin grundare."
+    },
+    "aderir_page": {
+        "eyebrow": "Din tur",
+        "title": "Gå med oss!",
+        "lede": "Juventude Popular behöver ditt stöd. Fyll i din medlemsansökan och gå med i det sanna högerns hem — vi åtar oss att svara inom en arbetsvecka.",
+        "label_nome": "Fullständigt namn",
+        "label_nascimento": "Födelsedatum",
+        "label_email": "E-post",
+        "label_telemovel": "Mobiltelefon",
+        "label_distrito": "Distrikt",
+        "label_morada": "Adress",
+        "consent": "Jag har läst och godkänner integritetspolicyn samt villkoren.",
+        "parental_note": "Om du är under 16 år kommer vi därefter be om kontaktuppgifter till din vårdnadshavare.",
+        "submit": "Skicka förhandsanmälan"
+    },
+    "carta_page": {
+        "eyebrow": "Grundläggande dokument",
+        "title": "Principförklaring",
+        "lede": "De principer som vägleder Juventude Populars politiska agerande som CDS-PP:s ungdomsorganisation.",
+        "s1_title": "En organisation byggd på idéer",
+        "p1": "Juventude Popular ser sig som en organisation byggd på idéer, förankrad i kristdemokrati, konservatism och liberalism — inte som tre tävlande strömningar, utan som tre grunder som förstärker varandra i hur vi fattar beslut. Vi väljer inte mellan dem efter stundens bekvämlighet: vi tillämpar dem tillsammans, som en metod.",
+        "s2_title": "Människan och familjen",
+        "p2": "Vi sätter människan, familjen och lokalsamhällena i centrum för det politiska agerandet, som ett alternativ till en stat som bestämmer allt i allas namn. Vi tror på subsidiaritetsprincipen: det som kan lösas av familjen, samhället eller lokal makt ska inte lyftas till en mer avlägsen beslutsnivå.",
+        "s3_title": "Ekonomisk frihet och ansvar",
+        "p3": "Vi försvarar ekonomisk frihet och individuellt ansvar som villkor för framsteg. En stat i människornas tjänst tar ut mindre än den behöver för att spendera mer än den borde, och det är denna relation vi vill vända på, utan att för den skull ge upp solidariteten med dem som behöver den mest.",
+        "s4_title": "Reform med rötter",
+        "p4": "Vi förändrar det som behöver förändras, samtidigt som vi bevarar det som redan fungerar. Vi förväxlar inte framsteg med brytning för brytningens skull: en reform är bara seriös när den respekterar den samlade erfarenheten hos dem som kom före, och inte bara dagens beslutsfattares brådska.",
+        "s5_title": "Portugal i Europa",
+        "p5": "Vi deltar aktivt i det europeiska bygget utan att för den skull förlora vår nationella identitet. EU bör vara ett utrymme för samarbete mellan fria nationer, inte en ersättning för vardera nationens suveränitet.",
+        "s6_title": "En ny generation i landets tjänst",
+        "p6": "Vi väntar inte på vår tur för att få en röst. Vi organiserar oss, diskuterar, föreslår och agerar — i över 100 lokalavdelningar, för politik byggd på idéer görs inte bara i Lissabon, utan i varje kommun i landet."
+    },
+    "documentacao_page": {
+        "eyebrow": "F.d. virtuellt huvudkontor",
+        "title": "Dokumentation",
+        "lede": "Kallelser, stadgar, reglementen och protokoll från Juventude Popular — allt du behöver på ett och samma ställe.",
+        "search_placeholder": "Sök dokument...",
+        "cat_convocatorias": "Kallelser",
+        "cat_estatutos": "Stadgar och reglementen",
+        "cat_minutas": "Protokoll och dokument",
+        "cat_premios": "Priser"
+    },
+    "a11y_skip_link": "Hoppa till huvudinnehållet",
+    "marquee": [
+        "🇵🇹 Portugal avgörs av de som dyker upp",
+        "🗳️ Lokal demokrati",
+        "💼 Jobb för unga",
+        "🏠 Prisvärt boende",
+        "🎓 Utbildning av kvalitet",
+        "🤝 Medborgardeltagande",
+        "⚡ Politisk förnyelse",
+        "💛 100+ aktiva lokalavdelningar"
+    ],
+    "anteriores_lideres_page": {
+        "eyebrow": "Vilka som har lett JP tidigare",
+        "title": "Tidigare Ledare",
+        "lede": "Ordförandena som genom åren gav Juventude Popular ett ansikte och en röst.",
+        "atual": "NUVARANDE",
+        "presente": "nutid"
+    },
+    "historia_page": {
+        "eyebrow": "Vår historia",
+        "title": "Fem decennier i Portugals tjänst",
+        "lede": "Från grundandet 1974 till dagens nationella struktur — Juventude Populars historia följer CDS egen.",
+        "marcos": [
+            {
+                "titulo": "1974 — Juventude Centrista",
+                "texto": "Samma år som CDS grundades föds dess ungdomsorganisation, då kallad Juventude Centrista."
+            },
+            {
+                "titulo": "1998 — Blir Juventude Popular",
+                "texto": "Organisationen antar namnet Juventude Popular, en identitet den behåller än idag."
+            },
+            {
+                "titulo": "Internationell närvaro",
+                "texto": "JP är medlem i YEPP (Youth of the European People's Party), DEMYC (Democrat Youth Community of Europe) och IYDU (International Young Democrat Union)."
+            },
+            {
+                "titulo": "Idag",
+                "texto": "Över 100 aktiva lokalavdelningar från norr till söder och på öarna, med en nationell kongress vartannat år."
+            }
+        ]
+    },
+    "marca_jp_page": {
+        "eyebrow": "Bär dina hjärtefrågor",
+        "title": "JP-märket",
+        "lede": "Officiell merchandise från Juventude Popular — bär märket, stöd organisationen."
+    },
+    "contactos_page": {
+        "eyebrow": "Prata med oss",
+        "title": "Kontakt",
+        "lede": "Vi finns tillgängliga för alla frågor om den nationella strukturen eller lokalavdelningarna.",
+        "label_sede": "Nationellt huvudkontor",
+        "label_email": "E-post",
+        "label_telefone": "Telefon"
+    },
+    "goncalo_begonha_page": {
+        "eyebrow": "Ett minne som lever vidare",
+        "title": "Gonçalo Begonha",
+        "lede": "1980 — 2003",
+        "meta_description": "Gonçalo Botelho Gomes Begonha, ledare inom Juventude Popular som studiekansliet är uppkallat efter."
+    },
+    "sucesso_page": {
+        "title": "Beställning bekräftad!",
+        "message": "Vi har skickat ett bekräftelsemejl. Tack för att du stödjer Juventude Popular.",
+        "cta": "Tillbaka till butiken"
+    },
+    "cart": {
+        "adicionar": "Lägg till",
+        "carrinho": "Varukorg",
+        "vazio": "Din varukorg är tom.",
+        "total": "Totalt",
+        "finalizar": "Till kassan",
+        "processando": "Bearbetar...",
+        "pagar": "Betala",
+        "remover": "Ta bort",
+        "erro_pagamento": "Fel vid start av betalning.",
+        "erro_processar": "Fel vid bearbetning.",
+        "ph_nome": "Fullständigt namn",
+        "ph_email": "E-post",
+        "ph_morada": "Adress",
+        "ph_cp": "Postnummer",
+        "ph_localidade": "Ort"
+    },
+    "aderir_form": {
+        "step1": "Personuppgifter",
+        "step2": "Adress",
+        "step3": "Dokument",
+        "erro_ficheiro_tamanho": "Filen får inte överstiga 8MB.",
+        "erro_ficheiro_formato": "Ogiltigt format. Använd JPG, PNG eller PDF.",
+        "erro_ficheiro_obrigatorio": "Du måste bifoga en kopia av ditt ID-kort.",
+        "erro_submeter": "Fel vid inlämning. Försök igen.",
+        "erro_enviar": "Fel vid sändning. Försök igen.",
+        "bem_vindo": "Välkommen till JP, {nome}!",
+        "camarada": "kamrat",
+        "confirmacao": "Vi har mottagit din ansökan och ditt dokument. CPN kommer att validera uppgifterna och svara inom en arbetsvecka via {email}.",
+        "passos_aria": "Formulärsteg",
+        "label_nome": "Fullständigt namn *",
+        "label_dataNascimento": "Födelsedatum *",
+        "label_email": "E-post *",
+        "label_telemovel": "Mobiltelefon *",
+        "label_estabelecimento": "Utbildningsinstitution",
+        "ph_estabelecimento": "(valfritt)",
+        "ph_email": "email@exempel.se",
+        "ph_telemovel": "+351 9XX XXX XXX",
+        "aviso_parental": "Eftersom du är mellan 14 och 15 år gammal behöver vi vårdnadshavarens uppgifter.",
+        "label_encNome": "Vårdnadshavarens namn *",
+        "label_encContacto": "Vårdnadshavarens kontakt *",
+        "label_morada": "Adress *",
+        "ph_morada": "Gata, plats...",
+        "label_numero": "Nr",
+        "label_localidade": "Ort *",
+        "ph_localidade": "T.ex. Pena Verde",
+        "label_cp": "Postnummer",
+        "ph_cp": "0000-000",
+        "label_distrito": "Distrikt / Autonom region *",
+        "ph_seleciona": "Välj...",
+        "label_concelho": "Kommun *",
+        "ph_concelho": "T.ex. Aguiar da Beira",
+        "nota_concelhia": "Din lokalavdelning tilldelas automatiskt utifrån angiven kommun.",
+        "label_cc": "ID-kortnummer *",
+        "ph_cc": "00000000 0 ZZ0",
+        "label_upload": "Läsbar kopia av ID-kort (fram- och baksida) *",
+        "remover_ficheiro_aria": "Ta bort fil",
+        "upload_cta": "Klicka för att bifoga (JPG, PNG eller PDF, max. 8MB)",
+        "nota_privacidade": "Dokumentet lagras privat och raderas inom 30 dagar efter beslut.",
+        "aceito_pre": "Jag accepterar Villkoren och",
+        "politica": "Integritetspolicyn",
+        "anterior": "Föregående",
+        "proximo": "Nästa",
+        "enviando": "Skickar…",
+        "confirmar": "Bekräfta Medlemskap"
+    },
+    "aderir_form_errors": {
+        "nome_curto": "Namnet är för kort",
+        "data_obrigatoria": "Födelsedatum krävs",
+        "email_invalido": "Ogiltig e-post",
+        "telemovel_invalido": "Ogiltigt telefonnummer",
+        "data_invalida": "Ogiltigt datum",
+        "idade_min": "Minimiålder för medlemskap: 14 år",
+        "idade_max": "Maximiålder för medlemskap: 30 år",
+        "enc_obrigatorio": "Krävs för personer under 16 år",
+        "morada_obrigatoria": "Adress krävs",
+        "localidade_obrigatoria": "Ort krävs",
+        "distrito_obrigatorio": "Distrikt krävs",
+        "concelho_obrigatorio": "Kommun krävs",
+        "cc_invalido": "Ogiltigt ID-kortnummer",
+        "termos_obrigatorio": "Du måste acceptera villkoren och integritetspolicyn"
+    },
+    "timeline": {
+        "eyebrow": "Vår resa",
+        "heading": "Fem decennier av att bygga framtiden",
+        "marcos": [
+            {
+                "ano": "1974",
+                "title": "Juventude Centrista",
+                "text": "Grundandet av CDS ungdomsorganisation, samma år som partiet grundades."
+            },
+            {
+                "ano": "1998",
+                "title": "Blir Juventude Popular",
+                "text": "Organisationen antar det namn och den identitet den behåller än idag."
+            },
+            {
+                "ano": "2020",
+                "title": "Ledarskapsförnyelse",
+                "text": "Efter Francisco Rodrigues uppgång inom CDS-PP blir Francisco Mota tillförordnad ordförande."
+            },
+            {
+                "ano": "2021",
+                "title": "Francisco Camacho vald",
+                "text": "Tidigare ordförande för Lissabon-distriktet väljs till JP-ordförande vid den nationella kongressen."
+            },
+            {
+                "ano": "2025",
+                "title": "Catarina Marinho tar över ledningen",
+                "text": "Start av nuvarande mandatperiod, med mottot \"Från ord till handling. För Portugal!\""
+            },
+            {
+                "ano": "2026",
+                "title": "XXVII:e nationella kongressen",
+                "text": "Hölls i april, med stadgerevision och start av förnyelsen av den nationella digitala strukturen."
+            },
+            {
+                "ano": "Idag",
+                "title": "Över 100 lokalavdelningar",
+                "text": "En aktiv struktur från norr till söder och på öarna, som växer i varje distrikt."
+            }
+        ]
+    },
+    "trust": {
+        "eyebrow": "Transparens",
+        "heading": "Förtroende byggs med tydlighet",
+        "lede": "Innan du ger oss dina uppgifter är det rimligt att du vet vad du kan förvänta dig av oss.",
+        "items": [
+            {
+                "title": "Volontärdriven struktur",
+                "text": "JP är en ideell politisk ungdomsorganisation. Den nationella ledningen och lokalavdelningarna drivs av volontärer."
+            },
+            {
+                "title": "Uppgifter skyddade på riktigt",
+                "text": "Dina medlemsuppgifter finns i en isolerad databas, med åtkomst begränsad till CPN; ditt id-dokument raderas 30 dagar efter beslutet."
+            },
+            {
+                "title": "Nationella stadgar",
+                "text": "Hela strukturen följer de stadgar som antagits på den nationella kongressen, tillgängliga hos ledningen för varje lokalavdelning."
+            }
+        ]
+    },
+    "vozes_da_casa": {
+        "label": "Röster från Huset",
+        "aria_ver": "Visa citat {n}",
+        "cargo_fundador": "Grundare av CDS"
+    }
+}

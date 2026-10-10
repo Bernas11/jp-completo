@@ -1,0 +1,5 @@
+# Substituir @utilizador-github pelo(s) responsável(eis) real(is)
+*                    @utilizador-github
+/supabase/           @utilizador-github
+/docs/schema/        @utilizador-github
+/.github/            @utilizador-github

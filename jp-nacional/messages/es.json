@@ -1,0 +1,353 @@
+{
+    "nav": {
+        "causas": "Pilares",
+        "concelhias": "Agrupaciones Locales",
+        "atividades": "Actividades",
+        "orgaos": "Órganos Nacionales",
+        "documentacao": "Documentación",
+        "contactos": "Contactos",
+        "aderir": "Quiero Unirme",
+        "anteriores_lideres": "Anteriores Líderes"
+    },
+    "hero": {
+        "eyebrow": "Juventudes del CDS-PP · Desde 1974",
+        "title": "¡Únete a nosotros!",
+        "lede": "Juventude Popular necesita tu apoyo. Rellena los datos de nuestra ficha de afiliación y únete a la casa de la verdadera Derecha.",
+        "cta_primary": "Quiero Unirme",
+        "cta_secondary": "Conocer los pilares",
+        "stat_founded": "Fundada en",
+        "stat_founded_value": "1974",
+        "stat_congress": "Congreso Nacional",
+        "stat_congress_value": "XXVII",
+        "stat_founded_label": "Año de fundación",
+        "stat_concelhias_label": "Secciones locales activas",
+        "stat_congress_label": "Congreso Nacional",
+        "stat_pilares_label": "Pilares ideológicos"
+    },
+    "pilares": {
+        "eyebrow": "Lo que nos define",
+        "title": "Tres pilares, una práctica",
+        "lede": "No son tres corrientes compitiendo entre sí, sino las tres bases sobre las que JP toma sus decisiones desde el primer día.",
+        "democracia_crista_title": "Democracia Cristiana",
+        "democracia_crista_body": "La persona humana y la familia como punto de partida de cualquier política pública, no el Estado.",
+        "conservadorismo_title": "Conservadurismo",
+        "conservadorismo_body": "Cambiar lo que necesita cambiar, preservando lo que ya funciona: reforma con raíces, no ruptura por ruptura.",
+        "liberalismo_title": "Liberalismo",
+        "liberalismo_body": "Libertad económica y responsabilidad individual: el Estado al servicio de las personas, no al contrario."
+    },
+    "concelhias": {
+        "eyebrow": "En el terreno",
+        "title": "Una agrupación cerca de ti",
+        "lede": "Más de 100 agrupaciones locales activas, de norte a sur e islas. Encuentra la tuya.",
+        "cta": "Ver todas las agrupaciones"
+    },
+    "atividades": {
+        "eyebrow": "Actividad reciente",
+        "title": "Lo que ha hecho JP",
+        "lede": "Noticias y eventos de las agrupaciones, actualizados por las propias sedes locales y por la dirección nacional.",
+        "cta": "Ver todas las actividades",
+        "empty_noticias": "Todavía no hay noticias publicadas.",
+        "empty_eventos": "Todavía no hay eventos programados."
+    },
+    "juntar": {
+        "title": "Portugal se decide con quienes dan el paso.",
+        "lede": "Rellena tu ficha de preinscripción. Tu agrupación local se pondrá en contacto contigo muy pronto.",
+        "cta": "Enviar preinscripción"
+    },
+    "footer": {
+        "sede": "Sede Nacional: Largo Adelino Amaro da Costa, 5, 1149-063 Lisboa",
+        "jp_heading": "JP",
+        "historia": "Historia",
+        "pilares": "Pilares Ideológicos",
+        "orgaos": "Órganos Nacionales",
+        "participar_heading": "Participar",
+        "aderir": "Quiero Unirme",
+        "atividades": "Actividades",
+        "carta": "Carta de Principios",
+        "contactos_heading": "Contactos",
+        "rights": "Juventude Popular. Organización juvenil del CDS-PP.",
+        "portal_label": "Portal del Militante",
+        "admin_label": "Área de Administración"
+    },
+    "concelhias_page": {
+        "eyebrow": "Estructura territorial",
+        "title": "Encuentra tu agrupación local",
+        "lede": "Más de 100 agrupaciones locales activas, organizadas por distrito. Aparecen aquí tan pronto como la Comisión Política Nacional las reconoce.",
+        "search_placeholder": "Buscar por municipio o distrito...",
+        "search_clear": "Borrar búsqueda",
+        "search_no_results_title": "Sin resultados",
+        "search_no_results_hint": "No hemos encontrado ninguna agrupación local para «{query}». Prueba con otro nombre o distrito.",
+        "empty_email": "Email pendiente de confirmar",
+        "empty_instagram": "Instagram pendiente de confirmar"
+    },
+    "orgaos_page": {
+        "eyebrow": "Estructura nacional",
+        "title": "Órganos Nacionales",
+        "lede": "La estructura de dirección y disciplina de JP a nivel nacional, tal como se define en los Estatutos.",
+        "cpn_title": "Comisión Política Nacional",
+        "cpn_body": "Órgano ejecutivo máximo de JP entre Congresos. Define la estrategia política nacional y gestiona la estructura de forma permanente.",
+        "mcn_title": "Mesa del Congreso Nacional",
+        "mcn_body": "Dirige los trabajos del Congreso Nacional, el órgano soberano supremo de JP.",
+        "disciplina_title": "Comisión de Disciplina",
+        "disciplina_body": "Responsable de los procesos disciplinarios internos, en los términos previstos en los Estatutos.",
+        "jurisdicao_title": "Consejo de Jurisdicción y Fiscalización",
+        "jurisdicao_body": "Vela por el cumplimiento de los Estatutos y por la legalidad interna de los actos de JP.",
+        "mesa_conselho_title": "Mesa del Consejo Nacional",
+        "mesa_conselho_body": "Dirige los trabajos del Consejo Nacional, órgano deliberativo entre Congresos.",
+        "gabinete_title": "Gabinete de Estudios Gonçalo Begonha",
+        "gabinete_body": "Estructura de reflexión política y producción doctrinal de JP, con el nombre de su fundador."
+    },
+    "aderir_page": {
+        "eyebrow": "Tu turno",
+        "title": "¡Únete a nosotros!",
+        "lede": "Juventude Popular necesita tu apoyo. Rellena los datos de nuestra ficha de afiliación y únete a la casa de la verdadera Derecha: nos comprometemos a responderte en el plazo de una semana laborable.",
+        "label_nome": "Nombre completo",
+        "label_nascimento": "Fecha de nacimiento",
+        "label_email": "Correo electrónico",
+        "label_telemovel": "Teléfono móvil",
+        "label_distrito": "Distrito",
+        "label_morada": "Dirección",
+        "consent": "He leído y acepto la Política de Privacidad y los Términos y Condiciones.",
+        "parental_note": "Si tienes menos de 16 años, a continuación te pediremos el contacto de tu tutor legal.",
+        "submit": "Enviar preinscripción"
+    },
+    "carta_page": {
+        "eyebrow": "Documento fundador",
+        "title": "Carta de Principios",
+        "lede": "Los principios que orientan la acción política de Juventude Popular como organización juvenil del CDS-PP.",
+        "s1_title": "Una organización de causas",
+        "p1": "Juventude Popular se define como una organización de causas, anclada en la Democracia Cristiana, el Conservadurismo y el Liberalismo: no como tres corrientes en competición, sino como tres bases que se refuerzan mutuamente en la forma en que tomamos decisiones.",
+        "s2_title": "La persona humana y la familia",
+        "p2": "Colocamos a la persona humana, a la familia y a las comunidades locales en el centro de la acción política, como alternativa a un Estado que lo decide todo en nombre de todos.",
+        "s3_title": "Libertad económica y responsabilidad",
+        "p3": "Defendemos la libertad económica y la responsabilidad individual como condiciones de progreso. Un Estado al servicio de las personas cobra menos de lo que necesita para gastar más de lo que debería.",
+        "s4_title": "Reforma con raíces",
+        "p4": "Cambiamos lo que necesita cambiar, preservando lo que ya funciona. No confundimos progreso con ruptura por la ruptura: una reforma solo es seria cuando respeta la experiencia acumulada de quienes vinieron antes.",
+        "s5_title": "Portugal en Europa",
+        "p5": "Participamos activamente en la construcción europea sin perder por ello nuestra identidad nacional. La Unión Europea debe ser un espacio de cooperación entre naciones libres.",
+        "s6_title": "Una nueva generación al servicio del país",
+        "p6": "No esperamos nuestro turno para tener voz. Nos organizamos, debatimos, proponemos y actuamos en más de 100 agrupaciones locales en todo el país."
+    },
+    "documentacao_page": {
+        "eyebrow": "Antigua Sede Virtual",
+        "title": "Documentación",
+        "lede": "Convocatorias, estatutos, reglamentos y actas de Juventude Popular, todo lo que necesitas consultar en un solo lugar.",
+        "search_placeholder": "Buscar documento...",
+        "cat_convocatorias": "Convocatorias",
+        "cat_estatutos": "Estatutos y Reglamentos",
+        "cat_minutas": "Actas y Documentos",
+        "cat_premios": "Premios"
+    },
+    "a11y_skip_link": "Saltar al contenido principal",
+    "marquee": [
+        "🇵🇹 Portugal lo deciden los que se presentan",
+        "🗳️ Democracia local",
+        "💼 Empleo para jóvenes",
+        "🏠 Vivienda asequible",
+        "🎓 Educación de calidad",
+        "🤝 Participación cívica",
+        "⚡ Renovación política",
+        "💛 100+ secciones locales activas"
+    ],
+    "anteriores_lideres_page": {
+        "eyebrow": "Quién ha liderado la JP",
+        "title": "Anteriores Líderes",
+        "lede": "Los presidentes que, a lo largo de los años, dieron rostro y voz a Juventude Popular.",
+        "atual": "ACTUAL",
+        "presente": "presente"
+    },
+    "historia_page": {
+        "eyebrow": "Nuestra historia",
+        "title": "Cinco décadas al servicio de Portugal",
+        "lede": "Desde la fundación en 1974 hasta la estructura nacional de hoy — la historia de Juventude Popular acompaña la del propio CDS.",
+        "marcos": [
+            {
+                "titulo": "1974 — Juventude Centrista",
+                "texto": "En el mismo año de la fundación del CDS, nace su organización juvenil, entonces con el nombre de Juventude Centrista."
+            },
+            {
+                "titulo": "1998 — Pasa a ser Juventude Popular",
+                "texto": "La organización adopta el nombre de Juventude Popular, identidad que mantiene hasta hoy."
+            },
+            {
+                "titulo": "Presencia internacional",
+                "texto": "La JP es miembro de la YEPP (Youth of the European People's Party), la DEMYC (Democrat Youth Community of Europe) y la IYDU (International Young Democrat Union)."
+            },
+            {
+                "titulo": "Hoy",
+                "texto": "Más de 100 secciones locales activas de norte a sur del país e islas, con un Congreso Nacional cada dos años."
+            }
+        ]
+    },
+    "marca_jp_page": {
+        "eyebrow": "Viste tus causas",
+        "title": "Marca JP",
+        "lede": "Merchandising oficial de Juventude Popular — luce la marca, apoya la estructura."
+    },
+    "contactos_page": {
+        "eyebrow": "Habla con nosotros",
+        "title": "Contactos",
+        "lede": "Estamos disponibles para cualquier duda sobre la estructura nacional o las secciones locales.",
+        "label_sede": "Sede Nacional",
+        "label_email": "Email",
+        "label_telefone": "Teléfono"
+    },
+    "goncalo_begonha_page": {
+        "eyebrow": "Una memoria que sigue viva",
+        "title": "Gonçalo Begonha",
+        "lede": "1980 — 2003",
+        "meta_description": "Gonçalo Botelho Gomes Begonha, dirigente de Juventude Popular que da nombre al Gabinete de Estudios."
+    },
+    "sucesso_page": {
+        "title": "¡Pedido confirmado!",
+        "message": "Te hemos enviado un email de confirmación. Gracias por apoyar a Juventude Popular.",
+        "cta": "Volver a la tienda"
+    },
+    "cart": {
+        "adicionar": "Añadir",
+        "carrinho": "Carrito",
+        "vazio": "Tu carrito está vacío.",
+        "total": "Total",
+        "finalizar": "Finalizar compra",
+        "processando": "Procesando...",
+        "pagar": "Pagar",
+        "remover": "Eliminar",
+        "erro_pagamento": "Error al iniciar el pago.",
+        "erro_processar": "Error al procesar.",
+        "ph_nome": "Nombre completo",
+        "ph_email": "Email",
+        "ph_morada": "Dirección",
+        "ph_cp": "Código Postal",
+        "ph_localidade": "Localidad"
+    },
+    "aderir_form": {
+        "step1": "Datos Personales",
+        "step2": "Dirección",
+        "step3": "Documento",
+        "erro_ficheiro_tamanho": "El archivo no puede superar los 8MB.",
+        "erro_ficheiro_formato": "Formato inválido. Usa JPG, PNG o PDF.",
+        "erro_ficheiro_obrigatorio": "Debes adjuntar la fotocopia de tu documento de identidad.",
+        "erro_submeter": "Error al enviar. Inténtalo de nuevo.",
+        "erro_enviar": "Error al enviar. Inténtalo de nuevo.",
+        "bem_vindo": "¡Bienvenido/a a JP, {nome}!",
+        "camarada": "camarada",
+        "confirmacao": "Hemos recibido tu solicitud y tu documento. La CPN validará los datos y te responderá en un plazo máximo de una semana laboral a través de {email}.",
+        "passos_aria": "Pasos del formulario",
+        "label_nome": "Nombre completo *",
+        "label_dataNascimento": "Fecha de nacimiento *",
+        "label_email": "Email *",
+        "label_telemovel": "Móvil *",
+        "label_estabelecimento": "Centro Educativo",
+        "ph_estabelecimento": "(opcional)",
+        "ph_email": "email@ejemplo.es",
+        "ph_telemovel": "+351 9XX XXX XXX",
+        "aviso_parental": "Como tienes entre 14 y 15 años, necesitamos los datos de tu tutor legal.",
+        "label_encNome": "Nombre del tutor legal *",
+        "label_encContacto": "Contacto del tutor legal *",
+        "label_morada": "Dirección *",
+        "ph_morada": "Calle, lugar...",
+        "label_numero": "Nº",
+        "label_localidade": "Localidad *",
+        "ph_localidade": "Ej: Pena Verde",
+        "label_cp": "Código Postal",
+        "ph_cp": "0000-000",
+        "label_distrito": "Distrito / Región Autónoma *",
+        "ph_seleciona": "Selecciona...",
+        "label_concelho": "Municipio *",
+        "ph_concelho": "Ej: Aguiar da Beira",
+        "nota_concelhia": "Tu sección local se asigna automáticamente según el municipio indicado.",
+        "label_cc": "Número del documento de identidad *",
+        "ph_cc": "00000000 0 ZZ0",
+        "label_upload": "Copia legible del documento de identidad (anverso y reverso) *",
+        "remover_ficheiro_aria": "Eliminar archivo",
+        "upload_cta": "Haz clic para adjuntar (JPG, PNG o PDF, máx. 8MB)",
+        "nota_privacidade": "El documento se guarda de forma privada y se elimina hasta 30 días después de la decisión.",
+        "aceito_pre": "Acepto los Términos y Condiciones y la",
+        "politica": "Política de Privacidad",
+        "anterior": "Anterior",
+        "proximo": "Siguiente",
+        "enviando": "Enviando…",
+        "confirmar": "Confirmar Adhesión"
+    },
+    "aderir_form_errors": {
+        "nome_curto": "Nombre demasiado corto",
+        "data_obrigatoria": "La fecha de nacimiento es obligatoria",
+        "email_invalido": "Email inválido",
+        "telemovel_invalido": "Teléfono inválido",
+        "data_invalida": "Fecha inválida",
+        "idade_min": "Edad mínima de afiliación: 14 años",
+        "idade_max": "Edad máxima de afiliación: 30 años",
+        "enc_obrigatorio": "Obligatorio para menores de 16 años",
+        "morada_obrigatoria": "La dirección es obligatoria",
+        "localidade_obrigatoria": "La localidad es obligatoria",
+        "distrito_obrigatorio": "El distrito es obligatorio",
+        "concelho_obrigatorio": "El municipio es obligatorio",
+        "cc_invalido": "Número de documento de identidad inválido",
+        "termos_obrigatorio": "Debes aceptar los términos y la política de privacidad"
+    },
+    "timeline": {
+        "eyebrow": "Nuestro recorrido",
+        "heading": "Cinco décadas construyendo el futuro",
+        "marcos": [
+            {
+                "ano": "1974",
+                "title": "Juventude Centrista",
+                "text": "Fundación de la organización juvenil vinculada al CDS, el mismo año de la fundación del partido."
+            },
+            {
+                "ano": "1998",
+                "title": "Pasa a ser Juventude Popular",
+                "text": "La organización adopta el nombre y la identidad que mantiene hasta hoy."
+            },
+            {
+                "ano": "2020",
+                "title": "Renovación de liderazgo",
+                "text": "Tras el ascenso de Francisco Rodrigues al CDS-PP, Francisco Mota se convierte en presidente interino."
+            },
+            {
+                "ano": "2021",
+                "title": "Francisco Camacho elegido",
+                "text": "El expresidente de la distrital de Lisboa es elegido presidente de la JP en Congreso Nacional."
+            },
+            {
+                "ano": "2025",
+                "title": "Catarina Marinho asume el liderazgo",
+                "text": "Inicio del mandato actual, con el lema \"Del Decir al Hacer. Por Portugal!\""
+            },
+            {
+                "ano": "2026",
+                "title": "XXVII Congreso Nacional",
+                "text": "Celebrado en abril, con revisión estatutaria y el inicio de la renovación de la estructura digital nacional."
+            },
+            {
+                "ano": "Hoy",
+                "title": "Más de 100 secciones locales",
+                "text": "Una estructura activa de norte a sur del país e islas, creciendo en cada distrito."
+            }
+        ]
+    },
+    "trust": {
+        "eyebrow": "Transparencia",
+        "heading": "La confianza se gana con claridad",
+        "lede": "Antes de darnos tus datos, es justo que sepas qué puedes esperar de nosotros.",
+        "items": [
+            {
+                "title": "Estructura de voluntariado",
+                "text": "La JP es una organización política juvenil sin ánimo de lucro. La dirección nacional y las secciones locales son gestionadas por voluntarios."
+            },
+            {
+                "title": "Datos protegidos de verdad",
+                "text": "Tus datos de afiliación viven en una base aislada, con acceso restringido a la CPN; el documento de identidad se elimina 30 días después de la decisión."
+            },
+            {
+                "title": "Estatutos nacionales",
+                "text": "Toda la estructura sigue los Estatutos aprobados en Congreso Nacional, disponibles junto a la dirección de cualquier sección local."
+            }
+        ]
+    },
+    "vozes_da_casa": {
+        "label": "Voces de la Casa",
+        "aria_ver": "Ver cita {n}",
+        "cargo_fundador": "Fundador del CDS"
+    }
+}

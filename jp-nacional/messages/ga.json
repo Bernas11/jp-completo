@@ -1,0 +1,353 @@
+{
+    "nav": {
+        "causas": "Pilléir",
+        "concelhias": "Craobhacha Áitiúla",
+        "atividades": "Gníomhaíochtaí",
+        "orgaos": "Comhlachtaí Náisiúnta",
+        "documentacao": "Cáipéisíocht",
+        "contactos": "Teagmhálacha",
+        "aderir": "Bí Linn",
+        "anteriores_lideres": "Sean-Cheannairí"
+    },
+    "hero": {
+        "eyebrow": "Óige CDS-PP · Ó 1974",
+        "title": "Bí linn!",
+        "lede": "Tá do thacaíocht de dhíth ar Juventude Popular. Líon isteach ár bhfoirm bhallraíochta agus bí linn i dteach na fíor-Eite Deise.",
+        "cta_primary": "Bí Linn",
+        "cta_secondary": "Glan go dtí na pilléir",
+        "stat_founded": "Bunaithe i",
+        "stat_founded_value": "1974",
+        "stat_congress": "Comhdháil Náisiúnta",
+        "stat_congress_value": "XXVII",
+        "stat_founded_label": "Bliain a bhunaithe",
+        "stat_concelhias_label": "Brainsí áitiúla gníomhacha",
+        "stat_congress_label": "Comhdháil Náisiúnta",
+        "stat_pilares_label": "Colúin idé-eolaíochta"
+    },
+    "pilares": {
+        "eyebrow": "Cad a shainíonn muid",
+        "title": "Trí philléar, aon chleachtas amháin",
+        "lede": "Ní trí dhream iomaíocha iad seo, ach na trí bhunús ar a ndéanann JP cinntí ó an chéad lá ar aghaidh.",
+        "democracia_crista_title": "Daonlathas Críostaí",
+        "democracia_crista_body": "An duine daonna agus an teaghlach mar phointe tosaigh do gach beartas poiblí, ní an Stát.",
+        "conservadorismo_title": "Coimeádachas",
+        "conservadorismo_body": "Athraigh a bhfuil le hathrú, ag caomhnú a bhfuil ag feidhmiú cheana féin — athchóiriú le fréamhacha, ní briseadh ar mhaithe le briseadh.",
+        "liberalismo_title": "Liobrálachas",
+        "liberalismo_body": "Saoirse eacnamaíoch agus freagracht phearsanta: an Stát ag freastal ar na daoine, ní a mhalairt."
+    },
+    "concelhias": {
+        "eyebrow": "Ar an talamh",
+        "title": "Craobh áitiúil i do chongar",
+        "lede": "Níos mó ná 100 craobh áitiúil ghníomhach, ó thuaidh go thefts agus ar na hoileáin. Aimsigh do chraobh féin.",
+        "cta": "Féach ar gach craobh áitiúil"
+    },
+    "atividades": {
+        "eyebrow": "Gníomhaíocht le déanaí",
+        "title": "A bhfuil déanta ag JP",
+        "lede": "Nuacht agus imeachtaí ó na craobhacha, nuashonraithe ag na craobhacha féin agus ag an gceannaireacht náisiúnta.",
+        "cta": "Féach ar gach gníomhaíocht",
+        "empty_noticias": "Níl aon nuacht foilsithe fós.",
+        "empty_eventos": "Níl aon imeacht sceidealta fós."
+    },
+    "juntar": {
+        "title": "Cinneann na daoine a bhíonn i láthair todhchaí na Portaingéile.",
+        "lede": "Líon isteach do fhoirm réamhchláraithe. Rachaidh do chraobh áitiúil i dteagmháil leat go luath.",
+        "cta": "Seol réamhchlárú"
+    },
+    "footer": {
+        "sede": "Píomhoifig Náisiúnta: Largo Adelino Amaro da Costa, 5, 1149-063 Liospóin",
+        "jp_heading": "JP",
+        "historia": "Stair",
+        "pilares": "Pilléir Ideolaíocha",
+        "orgaos": "Comhlachtaí Náisiúnta",
+        "participar_heading": "Glac Páirt",
+        "aderir": "Bí Linn",
+        "atividades": "Gníomhaíochtaí",
+        "carta": "Cairt na bPrionsabal",
+        "contactos_heading": "Teagmhálacha",
+        "rights": "Juventude Popular. Eagraíocht óige CDS-PP.",
+        "portal_label": "Tairseach Bhaill",
+        "admin_label": "Limistéar Riaracháin"
+    },
+    "concelhias_page": {
+        "eyebrow": "Strúchtúr críche",
+        "title": "Aimsigh do chraobh áitiúil",
+        "lede": "Níos mó ná 100 craobh áitiúil ghníomhach, eagraithe de réir ceantair. Feicfidh tú iad anseo chomh luath agus a thugann an Coimisiún Polaitiúil Náisiúnta aitheantas dóibh.",
+        "search_placeholder": "Cúiligh de réir bardais nó ceantair...",
+        "search_clear": "Glan an cuardach",
+        "search_no_results_title": "Gan toradh",
+        "search_no_results_hint": "Níor aimsíomar aon chraobh áitiúil do “{query}”. Bain triail as ainm nó ceantar eile.",
+        "empty_email": "Ríomhphost le deimhniú",
+        "empty_instagram": "Instagram le deimhniú"
+    },
+    "orgaos_page": {
+        "eyebrow": "Strúchtúr náisiúnta",
+        "title": "Comhlachtaí Náisiúnta",
+        "lede": "Strúchtúr ceannaireachta agus smachta JP ag an leibhéal náisiúnta, mar a shainítear sna Sttatúidí.",
+        "cpn_title": "An Coimisiún Polaitiúil Náisiúnta",
+        "cpn_body": "An comhlacht feidhmiúcháin is airde de chuid JP idir Comhdhálacha. Sainíonn sé an straitéis pholaitiúil náisiúnta agus stiúrann sé an strúchtúr go buan.",
+        "mcn_title": "Bord na Comhdhála Náisiúnta",
+        "mcn_body": "Stiúrann sé obair na Comhdhála Náisiúnta, an comhlacht ceannasach is airde ag JP.",
+        "disciplina_title": "Coimisiún Smachta",
+        "disciplina_body": "Freagrach as imeachtaí smachta inmheánacha, de réir mar a fhoráiltear sna Reachtanna.",
+        "jurisdicao_title": "Comhairle Dlínse agus Mhaoirseachta",
+        "jurisdicao_body": "Cinnteoidh sé go gcloítear leis na Statúidí agus le dleathacht inmheánach ghníomhartha JP.",
+        "mesa_conselho_title": "Bord na Comhairle Náisiúnta",
+        "mesa_conselho_body": "Stiúrann sé obair na Comhairle Náisiúnta, an comhlacht machnaimh idir Comhdhálacha.",
+        "gabinete_title": "Ionad Staidéir Gonçalo Begonha",
+        "gabinete_body": "Strúchtúr maidir le machnamh polaitiúil agus forbairt foirceanta JP, ainmnithe as a bhunaitheoir."
+    },
+    "aderir_page": {
+        "eyebrow": "Do sheal anois",
+        "title": "Bí linn!",
+        "lede": "Tá do thacaíocht de dhíth ar Juventude Popular. Líon isteach ár bhfoirm bhallraíochta agus bí linn i dteach na fíor-Eite Deise — geallaimid freagra a thabhairt laistigh de sheachtain oibre amháin.",
+        "label_nome": "Ainm iomlán",
+        "label_nascimento": "Dáta breithe",
+        "label_email": "Ríomhphost",
+        "label_telemovel": "Fón póca",
+        "label_distrito": "Ceantar",
+        "label_morada": "Seoladh",
+        "consent": "Léigh mé agus glacaim leis an bPolasaí Príobháideachais agus leis na Téarmaí agus Coinníollacha.",
+        "parental_note": "Má tá tú faoi 16 bliana d'aois, iarrfaimid sonraí teagmhála do thuismitheora nó do chaomhnóra ina dhiaidh seo.",
+        "submit": "Seol réamhchlárú"
+    },
+    "carta_page": {
+        "eyebrow": "Document bunaithe",
+        "title": "Cairt na bPrionsabal",
+        "lede": "Na prionsabail a stiúrann gníomhaíocht pholaitiúil Juventude Popular mar eagraíocht óige ar CDS-PP.",
+        "s1_title": "Eagraíocht cúiseanna",
+        "p1": "Sainíonn Juventude Popular é féin mar eagraíocht cúiseanna, fréamhaithe sa Daonlathas Críostaí, sa Choimeádachas agus sa Liobrálachas — ní mar trí dhream iomaíocha, ach mar trí bhunús a neartaíonn a chéile sa tslí a ndéanaimid cinntí.",
+        "s2_title": "An duine daonna agus an teaghlach",
+        "p2": "Cuirimid an duine daonna, an teaghlach agus pobail áitiúla i lár na gníomhaíochta polaitiúla mar mhalairt ar Stát a chinneann gach rud ar son gach duine. Creidimid i bprionsabal na coimhdeachta.",
+        "s3_title": "Saoirse eacnamaíoch agus freagracht",
+        "p3": "Cosnaímid saoirse eacnamaíoch agus freagracht phearsanta mar choinníollacha don dul chun cinn. Bailíonn Stát a fhreastalaíonn ar na daoine níos lú ná mar atá uaidh chun caiteachas neamhriachtanach a sheachaint.",
+        "s4_title": "Athchóiriú le fréamhacha",
+        "p4": "Athraímid a bhfuil le hathrú, ag caomhnú a bhfuil ag feidhmiú cheana féin. Ní bhíonn athchóiriú tromchúiseach ach amháin nuair a urramaíonn sé taithí na nglún a tháinig roimhind.",
+        "s5_title": "An Phortaingéil san Eoraip",
+        "p5": "Glacaimid páirt ghníomhach i dtógáil na hEorpa gan ár bhféiniúlacht náisiúnta a chailleadh. Ba cheart gur spás comhair idir náisiúin shaora í an tAontas Eorpach.",
+        "s6_title": "Glúin nua ag freastal ar an tír",
+        "p6": "Ní fhanaimid le guth a bheith againn nuair a thagann ár seal. Eagraímid, pléimid, molaimid agus gníomhaímid i níos mó ná 100 craobh áitiúil ar fud na tíre."
+    },
+    "documentacao_page": {
+        "eyebrow": "Iar-Pshíomhoifig Fhíorúil",
+        "title": "Cáipéisíocht",
+        "lede": "Gairmneacha, reachtanna, rialacháin agus miontuairiscí de chuid Juventude Popular — gach rud atá uait in aon áit amháin.",
+        "search_placeholder": "Cuardaigh cáipéis...",
+        "cat_convocatorias": "Gairmneacha",
+        "cat_estatutos": "Reachtanna agus Rialacháin",
+        "cat_minutas": "Miontuairiscí agus Cáipéisí",
+        "cat_premios": "Gadais"
+    },
+    "a11y_skip_link": "Scipeáil chuig an bpríomhábhar",
+    "marquee": [
+        "🇵🇹 Cinneann na daoine a thagann faoi cé a rialaíonn an Phortaingéil",
+        "🗳️ Daonlathas áitiúil",
+        "💼 Poist do dhaoine óga",
+        "🏠 Tithíocht inacmhainne",
+        "🎓 Oideachas ar ardchaighdeán",
+        "🤝 Rannpháirtíocht shibhialta",
+        "⚡ Athnuachan pholaitiúil",
+        "💛 100+ brainse áitiúil gníomhach"
+    ],
+    "anteriores_lideres_page": {
+        "eyebrow": "Cé a bhí i gceannas ar JP cheana",
+        "title": "Sean-Cheannairí",
+        "lede": "Na huachtaráin a thug aghaidh agus guth do Juventude Popular thar na blianta.",
+        "atual": "REATHA",
+        "presente": "i láthair"
+    },
+    "historia_page": {
+        "eyebrow": "Ár stair",
+        "title": "Cúig scór bliain ag freastal ar an bPortaingéil",
+        "lede": "Ón mbunú i 1974 go dtí an struchtúr náisiúnta atá ann inniu — leanann stair Juventude Popular stair an CDS féin.",
+        "marcos": [
+            {
+                "titulo": "1974 — Juventude Centrista",
+                "texto": "San bhliain chéanna a bunaíodh an CDS, rugadh a heagraíocht óige, ar a dtugtaí Juventude Centrista ag an am."
+            },
+            {
+                "titulo": "1998 — Éiríonn sí ina Juventude Popular",
+                "texto": "Glacann an eagraíocht leis an ainm Juventude Popular, féiniúlacht a choinníonn sí go dtí an lá inniu."
+            },
+            {
+                "titulo": "Láithreacht idirnáisiúnta",
+                "texto": "Tá JP ina ball de YEPP (Youth of the European People's Party), de DEMYC (Democrat Youth Community of Europe) agus de IYDU (International Young Democrat Union)."
+            },
+            {
+                "titulo": "Inniu",
+                "texto": "Os cionn 100 brainse áitiúil gníomhach ó thuaidh go deisceart na tíre agus ar na hoileáin, le Comhdháil Náisiúnta gach dhá bhliain."
+            }
+        ]
+    },
+    "marca_jp_page": {
+        "eyebrow": "Caith do chuid cúiseanna",
+        "title": "Branda JP",
+        "lede": "Earraí oifigiúla Juventude Popular — caith an branda, tacaigh leis an struchtúr."
+    },
+    "contactos_page": {
+        "eyebrow": "Labhair linn",
+        "title": "Teagmháil",
+        "lede": "Táimid ar fáil d'aon cheist faoin struchtúr náisiúnta nó na brainsí áitiúla.",
+        "label_sede": "Ceanncheathrú Náisiúnta",
+        "label_email": "Ríomhphost",
+        "label_telefone": "Fón"
+    },
+    "goncalo_begonha_page": {
+        "eyebrow": "Cuimhne atá fós beo",
+        "title": "Gonçalo Begonha",
+        "lede": "1980 — 2003",
+        "meta_description": "Gonçalo Botelho Gomes Begonha, ceannaire de chuid Juventude Popular a bhfuil an Oifig Staidéir ainmnithe as."
+    },
+    "sucesso_page": {
+        "title": "Ordú deimhnithe!",
+        "message": "Chuireamar ríomhphost deimhnithe chugat. Go raibh maith agat as tacú le Juventude Popular.",
+        "cta": "Ar ais go dtí an siopa"
+    },
+    "cart": {
+        "adicionar": "Cuir Leis",
+        "carrinho": "Cairt",
+        "vazio": "Tá do chairt folamh.",
+        "total": "Iomlán",
+        "finalizar": "Críochnaigh an ceannach",
+        "processando": "Ag próiseáil...",
+        "pagar": "Íoc",
+        "remover": "Bain",
+        "erro_pagamento": "Earráid agus íocaíocht á tosú.",
+        "erro_processar": "Earráid phróiseála.",
+        "ph_nome": "Ainm iomlán",
+        "ph_email": "Ríomhphost",
+        "ph_morada": "Seoladh",
+        "ph_cp": "Cód Poist",
+        "ph_localidade": "Áit"
+    },
+    "aderir_form": {
+        "step1": "Sonraí Pearsanta",
+        "step2": "Seoladh",
+        "step3": "Doiciméad",
+        "erro_ficheiro_tamanho": "Ní féidir leis an gcomhad a bheith níos mó ná 8MB.",
+        "erro_ficheiro_formato": "Formáid neamhbhailí. Úsáid JPG, PNG nó PDF.",
+        "erro_ficheiro_obrigatorio": "Caithfidh tú cóip de do chárta aitheantais a cheangal.",
+        "erro_submeter": "Earráid agus é á chur isteach. Bain triail eile as.",
+        "erro_enviar": "Earráid seolta. Bain triail eile as.",
+        "bem_vindo": "Fáilte go dtí an JP, {nome}!",
+        "camarada": "comrádaí",
+        "confirmacao": "Fuaireamar d'iarratas agus do dhoiciméad. Deimhneoidh an CPN na sonraí agus freagróidh siad laistigh de sheachtain oibre ag {email}.",
+        "passos_aria": "Céimeanna an fhoirm",
+        "label_nome": "Ainm iomlán *",
+        "label_dataNascimento": "Dáta breithe *",
+        "label_email": "Ríomhphost *",
+        "label_telemovel": "Fón póca *",
+        "label_estabelecimento": "Institiúid Oideachais",
+        "ph_estabelecimento": "(roghnach)",
+        "ph_email": "email@sampla.ie",
+        "ph_telemovel": "+351 9XX XXX XXX",
+        "aviso_parental": "Ós rud é go bhfuil tú idir 14 agus 15 bliana d'aois, teastaíonn sonraí do chaomhnóra uainn.",
+        "label_encNome": "Ainm an chaomhnóra *",
+        "label_encContacto": "Teagmháil an chaomhnóra *",
+        "label_morada": "Seoladh *",
+        "ph_morada": "Sráid, áit...",
+        "label_numero": "Uimh.",
+        "label_localidade": "Áit *",
+        "ph_localidade": "m.sh. Pena Verde",
+        "label_cp": "Cód Poist",
+        "ph_cp": "0000-000",
+        "label_distrito": "Ceantar / Réigiún Uathrialach *",
+        "ph_seleciona": "Roghnaigh...",
+        "label_concelho": "Bardas *",
+        "ph_concelho": "m.sh. Aguiar da Beira",
+        "nota_concelhia": "Sannfar do bhrainse áitiúil go huathoibríoch bunaithe ar an mbardas a thugtar.",
+        "label_cc": "Uimhir an chárta aitheantais *",
+        "ph_cc": "00000000 0 ZZ0",
+        "label_upload": "Cóip inléite den chárta aitheantais (tosach agus cúl) *",
+        "remover_ficheiro_aria": "Bain an comhad",
+        "upload_cta": "Cliceáil chun ceangal (JPG, PNG nó PDF, uas. 8MB)",
+        "nota_privacidade": "Coimeádtar an doiciméad go príobháideach agus scriostar é laistigh de 30 lá tar éis an chinnidh.",
+        "aceito_pre": "Glacaim leis na Téarmaí agus Coinníollacha agus leis an",
+        "politica": "Bheartas Príobháideachais",
+        "anterior": "Roimhe seo",
+        "proximo": "Ar aghaidh",
+        "enviando": "Á sheoladh…",
+        "confirmar": "Deimhnigh Ballraíocht"
+    },
+    "aderir_form_errors": {
+        "nome_curto": "Ainm róghairid",
+        "data_obrigatoria": "Tá dáta breithe riachtanach",
+        "email_invalido": "Ríomhphost neamhbhailí",
+        "telemovel_invalido": "Uimhir fóin neamhbhailí",
+        "data_invalida": "Dáta neamhbhailí",
+        "idade_min": "Aois íosta ballraíochta: 14 bliana",
+        "idade_max": "Aois uasta ballraíochta: 30 bliana",
+        "enc_obrigatorio": "Riachtanach dóibh siúd faoi bhun 16 bliana",
+        "morada_obrigatoria": "Tá seoladh riachtanach",
+        "localidade_obrigatoria": "Tá áit riachtanach",
+        "distrito_obrigatorio": "Tá ceantar riachtanach",
+        "concelho_obrigatorio": "Tá bardas riachtanach",
+        "cc_invalido": "Uimhir chárta aitheantais neamhbhailí",
+        "termos_obrigatorio": "Caithfidh tú glacadh leis na téarmaí agus an beartas príobháideachais"
+    },
+    "timeline": {
+        "eyebrow": "Ár dturas",
+        "heading": "Cúig scór bliain ag tógáil na todhchaí",
+        "marcos": [
+            {
+                "ano": "1974",
+                "title": "Juventude Centrista",
+                "text": "Bunú na heagraíochta óige a bhaineann leis an CDS, sa bhliain chéanna a bunaíodh an páirtí."
+            },
+            {
+                "ano": "1998",
+                "title": "Éiríonn sí ina Juventude Popular",
+                "text": "Glacann an eagraíocht leis an ainm agus an fhéiniúlacht a choinníonn sí go dtí an lá inniu."
+            },
+            {
+                "ano": "2020",
+                "title": "Athnuachan ceannaireachta",
+                "text": "Tar éis d'ardú Francisco Rodrigues laistigh den CDS-PP, éiríonn Francisco Mota ina uachtarán eatramhach."
+            },
+            {
+                "ano": "2021",
+                "title": "Francisco Camacho tofa",
+                "text": "Toghtar iar-uachtarán bhrainse Liospóin mar uachtarán JP ag an gComhdháil Náisiúnta."
+            },
+            {
+                "ano": "2025",
+                "title": "Catarina Marinho i mbun ceannais",
+                "text": "Tús an téarma reatha, leis an mana \"Ón Ráiteas go dtí an Gníomh. Ar son na Portaingéile!\""
+            },
+            {
+                "ano": "2026",
+                "title": "XXVII Comhdháil Náisiúnta",
+                "text": "Ar siúl in Aibreán, le hathbhreithniú reachtúil agus tús le hathnuachan an struchtúir dhigitigh náisiúnta."
+            },
+            {
+                "ano": "Inniu",
+                "title": "Os cionn 100 brainse áitiúil",
+                "text": "Struchtúr gníomhach ó thuaidh go deisceart na tíre agus ar na hoileáin, ag fás i ngach ceantar."
+            }
+        ]
+    },
+    "trust": {
+        "eyebrow": "Trédhearcacht",
+        "heading": "Gnóthaítear muinín le soiléireacht",
+        "lede": "Sula dtugann tú do chuid sonraí dúinn, tá sé cothrom go mbeadh a fhios agat cad is féidir leat a bheith ag súil leis uainn.",
+        "items": [
+            {
+                "title": "Struchtúr deonach",
+                "text": "Is eagraíocht pholaitiúil óige neamhbhrabúsach í an JP. Bíonn ceannaireacht náisiúnta agus brainsí áitiúla á reáchtáil ag deonaigh."
+            },
+            {
+                "title": "Sonraí cosanta i ndáiríre",
+                "text": "Tá do chuid sonraí ballraíochta i mbunachar sonraí scoite, le rochtain teoranta don CPN; scriostar do dhoiciméad aitheantais laistigh de 30 lá tar éis an chinnidh."
+            },
+            {
+                "title": "Reachtanna náisiúnta",
+                "text": "Leanann an struchtúr ar fad na Reachtanna a ceadaíodh ag an gComhdháil Náisiúnta, ar fáil ó cheannaireacht aon bhrainse áitiúil."
+            }
+        ]
+    },
+    "vozes_da_casa": {
+        "label": "Guthanna an Tí",
+        "aria_ver": "Féach ar an athfhriotal {n}",
+        "cargo_fundador": "Bunaitheoir CDS"
+    }
+}

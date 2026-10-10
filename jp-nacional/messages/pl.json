@@ -1,0 +1,353 @@
+{
+    "nav": {
+        "causas": "Filary",
+        "concelhias": "Lokalne Organizacje",
+        "atividades": "Działalność",
+        "orgaos": "Organy Krajowe",
+        "documentacao": "Dokumentacja",
+        "contactos": "Kontakt",
+        "aderir": "Dołącz do nas",
+        "anteriores_lideres": "Poprzedni Liderzy"
+    },
+    "hero": {
+        "eyebrow": "Młodzież CDS-PP · Od 1974 r.",
+        "title": "Dołącz do nas!",
+        "lede": "Juventude Popular potrzebuje Twojego wsparcia. Wypełnij nasz formularz rekrutacyjny i dołącz do domu prawdziwej Prawicy.",
+        "cta_primary": "Dołącz do nas",
+        "cta_secondary": "Poznaj filary",
+        "stat_founded": "Rok założenia",
+        "stat_founded_value": "1974",
+        "stat_congress": "Kongres Krajowy",
+        "stat_congress_value": "XXVII",
+        "stat_founded_label": "Rok założenia",
+        "stat_concelhias_label": "Aktywne oddziały lokalne",
+        "stat_congress_label": "Kongres Krajowy",
+        "stat_pilares_label": "Filary ideologiczne"
+    },
+    "pilares": {
+        "eyebrow": "Co nas definiuje",
+        "title": "Trzy filary, jedna praktyka",
+        "lede": "To nie trzy rywalizujące ze sobą nurty, ale trzy fundamenty, na których JP opiera swoje decyzje od pierwszego dnia.",
+        "democracia_crista_title": "Chrześcijańska Demokracja",
+        "democracia_crista_body": "Człowiek i rodzina jako punkt wyjścia dla wszelkiej polityki publicznej, a nie Państwo.",
+        "conservadorismo_title": "Konserwatyzm",
+        "conservadorismo_body": "Zmieniać to, co wymaga zmiany, zachowując to, co już działa — reforma z korzeniami, a nie zerwanie dla samego zerwania.",
+        "liberalismo_title": "Liberalizm",
+        "liberalismo_body": "Wolność gospodarcza i odpowiedzialność indywidualna: Państwo w służbie obywateli, a nie na odwrót."
+    },
+    "concelhias": {
+        "eyebrow": "W terenie",
+        "title": "Lokalna organizacja blisko Ciebie",
+        "lede": "Ponad 100 aktywnych oddziałów lokalnych od północy po południe i na wyspach. Znajdź swój.",
+        "cta": "Zobacz wszystkie lokalne organizacje"
+    },
+    "atividades": {
+        "eyebrow": "Ostatnie działania",
+        "title": "Co zrobiła JP",
+        "lede": "Wiadomości i wydarzenia z oddziałów, aktualizowane przez same organizacje lokalne oraz kierownictwo krajowe.",
+        "cta": "Zobacz całą działalność",
+        "empty_noticias": "Jeszcze nie opublikowano żadnych wiadomości.",
+        "empty_eventos": "Jeszcze nie zaplanowano żadnych wydarzeń."
+    },
+    "juntar": {
+        "title": "O przyszłości Portugalii decydują ci, którzy biorą w niej udział.",
+        "lede": "Wypełnij formularz wstępnej rejestracji. Twoja lokalna organizacja wkrótce się z Tobą skontaktuje.",
+        "cta": "Wyślij zgłoszenie"
+    },
+    "footer": {
+        "sede": "Siedziba Główna: Largo Adelino Amaro da Costa, 5, 1149-063 Lizbona",
+        "jp_heading": "JP",
+        "historia": "Historia",
+        "pilares": "Filary Ideologiczne",
+        "orgaos": "Organy Krajowe",
+        "participar_heading": "Zaangażuj się",
+        "aderir": "Dołącz do nas",
+        "atividades": "Działalność",
+        "carta": "Deklaracja Programowa",
+        "contactos_heading": "Kontakt",
+        "rights": "Juventude Popular. Organizacja młodzieżowa CDS-PP.",
+        "portal_label": "Portal Członka",
+        "admin_label": "Panel Administracyjny"
+    },
+    "concelhias_page": {
+        "eyebrow": "Struktura terytorialna",
+        "title": "Znajdź swoją lokalną organizację",
+        "lede": "Ponad 100 aktywnych oddziałów lokalnych zorganizowanych według dystryktów. Pojawiają się tutaj po zatwierdzeniu przez Krajową Komisję Polityczną.",
+        "search_placeholder": "Szukaj według gminy lub dystryktu...",
+        "search_clear": "Wyczyść wyszukiwanie",
+        "search_no_results_title": "Brak wyników",
+        "search_no_results_hint": "Nie znaleźliśmy lokalnej organizacji dla „{query}”. Spróbuj innej nazwy lub dystryktu.",
+        "empty_email": "E-mail oczekuje na potwierdzenie",
+        "empty_instagram": "Instagram oczekuje na potwierdzenie"
+    },
+    "orgaos_page": {
+        "eyebrow": "Struktura krajowa",
+        "title": "Organy Krajowe",
+        "lede": "Struktura zarządcza i dyscyplinarna JP na szczeblu krajowym, zgodnie z zapisami Statutu.",
+        "cpn_title": "Krajowa Komisja Polityczna",
+        "cpn_body": "Najwyższy organ wykonawczy JP między Kongresami. Określa krajową strategię polityczną i stale zarządza strukturą.",
+        "mcn_title": "Prezydium Kongresu Krajowego",
+        "mcn_body": "Kieruje pracami Kongresu Krajowego, najwyższego organu uchwałodawczego JP.",
+        "disciplina_title": "Komisja Dyscyplinarna",
+        "disciplina_body": "Odpowiedzialna za wewnętrzne postępowania dyscyplinarne, na zasadach określonych w Statucie.",
+        "jurisdicao_title": "Rada Sądownicza i Kontrolna",
+        "jurisdicao_body": "Czuwa nad przestrzeganiem Statutu i wewnętrzną legalnością działań JP.",
+        "mesa_conselho_title": "Prezydium Rady Krajowej",
+        "mesa_conselho_body": "Kieruje pracami Rady Krajowej, organu stanowiącego między Kongresami.",
+        "gabinete_title": "Ośrodek Studiów im. Gonçalo Begonhi",
+        "gabinete_body": "Ośrodek refleksji politycznej i dorobku doktrynalnego JP, nazwany imieniem jej założyciela."
+    },
+    "aderir_page": {
+        "eyebrow": "Twoja kolej",
+        "title": "Dołącz do nas!",
+        "lede": "Juventude Popular potrzebuje Twojego wsparcia. Wypełnij nasz formularz rekrutacyjny i dołącz do domu prawdziwej Prawicy — zobowiązujemy się odpowiedzieć w ciągu jednego tygodnia roboczego.",
+        "label_nome": "Imię i nazwisko",
+        "label_nascimento": "Data urodzenia",
+        "label_email": "Adres e-mail",
+        "label_telemovel": "Numer telefonu komórkowego",
+        "label_distrito": "Dystrykt",
+        "label_morada": "Adres",
+        "consent": "Przeczytałem/am i akceptuję Politykę Prywatności oraz Regulamin.",
+        "parental_note": "Jeśli masz mniej niż 16 lat, w następnym kroku poprosimy o dane kontaktowe Twojego rodzica lub opiekuna prawnego.",
+        "submit": "Wyślij zgłoszenie"
+    },
+    "carta_page": {
+        "eyebrow": "Dokument założycielski",
+        "title": "Deklaracja Programowa",
+        "lede": "Zasady kierujące działalnością polityczną Juventude Popular jako organizacji młodzieżowej CDS-PP.",
+        "s1_title": "Organizacja wartości",
+        "p1": "Juventude Popular definiuje się jako organizacja wartości, zakorzeniona w Chrześcijańskiej Demokracji, Konserwatyzmie i Liberalizmie — nie jako trzy rywalizujące nurty, ale jako trzy filary wzajemnie wzmacniające się w podejmowaniu decyzji.",
+        "s2_title": "Człowiek i rodzina",
+        "p2": "Stawiamy człowieka, rodzinę i społeczności lokalne w centrum działań politycznych jako alternatywę dla Państwa decydującego o wszystkim w imieniu wszystkich. Wierzymy w zasadę pomocniczości.",
+        "s3_title": "Wolność gospodarcza i odpowiedzialność",
+        "p3": "Bronimy wolności gospodarczej i odpowiedzialności indywidualnej jako warunków postępu. Państwo w służbie obywateli pobiera mniej, aby unikać zbędnych wydatków.",
+        "s4_title": "Reforma z korzeniami",
+        "p4": "Zmieniamy to, co wymaga zmiany, zachowując to, co działa. Reforma jest poważna tylko wtedy, gdy szanuje skumulowane doświadczenie poprzednich pokoleń.",
+        "s5_title": "Portugalia w Europie",
+        "p5": "Bierzemy aktywny udział w budowie Europy, nie tracąc naszej tożsamości narodowej. Unia Europejska musi być przestrzenią współpracy wolnych narodów.",
+        "s6_title": "Nowe pokolenie w służbie kraju",
+        "p6": "Nie czekamy na swoją kolej, aby mieć głos. Organizujemy się, debatujemy, proponujemy i działamy w ponad 100 lokalnych organizacjach w całym kraju."
+    },
+    "documentacao_page": {
+        "eyebrow": "Dawna Wirtualna Siedziba",
+        "title": "Dokumentacja",
+        "lede": "Zawiadomienia, statuty, regulaminy i protokoły Juventude Popular — wszystko, czego potrzebujesz, w jednym miejscu.",
+        "search_placeholder": "Szukaj dokumentu...",
+        "cat_convocatorias": "Zawiadomienia",
+        "cat_estatutos": "Statuty i Regulaminy",
+        "cat_minutas": "Protokoły i Dokumenty",
+        "cat_premios": "Nagrody"
+    },
+    "a11y_skip_link": "Przejdź do głównej treści",
+    "marquee": [
+        "🇵🇹 O Portugalii decydują ci, którzy się stawiają",
+        "🗳️ Demokracja lokalna",
+        "💼 Praca dla młodych",
+        "🏠 Dostępne mieszkania",
+        "🎓 Edukacja wysokiej jakości",
+        "🤝 Uczestnictwo obywatelskie",
+        "⚡ Odnowa polityczna",
+        "💛 100+ aktywnych oddziałów lokalnych"
+    ],
+    "anteriores_lideres_page": {
+        "eyebrow": "Kto już kierował JP",
+        "title": "Poprzedni Liderzy",
+        "lede": "Przewodniczący, którzy przez lata nadawali Juventude Popular twarz i głos.",
+        "atual": "OBECNY",
+        "presente": "obecnie"
+    },
+    "historia_page": {
+        "eyebrow": "Nasza historia",
+        "title": "Pięć dekad w służbie Portugalii",
+        "lede": "Od założenia w 1974 roku do dzisiejszej struktury krajowej — historia Juventude Popular podąża za historią samego CDS.",
+        "marcos": [
+            {
+                "titulo": "1974 — Juventude Centrista",
+                "texto": "W tym samym roku, w którym powstało CDS, rodzi się jego organizacja młodzieżowa, wówczas pod nazwą Juventude Centrista."
+            },
+            {
+                "titulo": "1998 — Staje się Juventude Popular",
+                "texto": "Organizacja przyjmuje nazwę Juventude Popular, tożsamość, którą zachowuje do dziś."
+            },
+            {
+                "titulo": "Obecność międzynarodowa",
+                "texto": "JP jest członkiem YEPP (Youth of the European People's Party), DEMYC (Democrat Youth Community of Europe) i IYDU (International Young Democrat Union)."
+            },
+            {
+                "titulo": "Dzisiaj",
+                "texto": "Ponad 100 aktywnych oddziałów lokalnych od północy po południe kraju i wyspy, z Kongresem Krajowym co dwa lata."
+            }
+        ]
+    },
+    "marca_jp_page": {
+        "eyebrow": "Noś swoje idee",
+        "title": "Marka JP",
+        "lede": "Oficjalne produkty Juventude Popular — noś markę, wspieraj strukturę."
+    },
+    "contactos_page": {
+        "eyebrow": "Porozmawiaj z nami",
+        "title": "Kontakt",
+        "lede": "Jesteśmy dostępni w każdej sprawie dotyczącej struktury krajowej lub oddziałów lokalnych.",
+        "label_sede": "Siedziba Krajowa",
+        "label_email": "Email",
+        "label_telefone": "Telefon"
+    },
+    "goncalo_begonha_page": {
+        "eyebrow": "Pamięć, która wciąż żyje",
+        "title": "Gonçalo Begonha",
+        "lede": "1980 — 2003",
+        "meta_description": "Gonçalo Botelho Gomes Begonha, działacz Juventude Popular, którego imię nosi Biuro Studiów."
+    },
+    "sucesso_page": {
+        "title": "Zamówienie potwierdzone!",
+        "message": "Wysłaliśmy Ci e-mail potwierdzający. Dziękujemy za wsparcie Juventude Popular.",
+        "cta": "Powrót do sklepu"
+    },
+    "cart": {
+        "adicionar": "Dodaj",
+        "carrinho": "Koszyk",
+        "vazio": "Twój koszyk jest pusty.",
+        "total": "Razem",
+        "finalizar": "Przejdź do kasy",
+        "processando": "Przetwarzanie...",
+        "pagar": "Zapłać",
+        "remover": "Usuń",
+        "erro_pagamento": "Błąd podczas rozpoczynania płatności.",
+        "erro_processar": "Błąd przetwarzania.",
+        "ph_nome": "Imię i nazwisko",
+        "ph_email": "Email",
+        "ph_morada": "Adres",
+        "ph_cp": "Kod pocztowy",
+        "ph_localidade": "Miejscowość"
+    },
+    "aderir_form": {
+        "step1": "Dane Osobowe",
+        "step2": "Adres",
+        "step3": "Dokument",
+        "erro_ficheiro_tamanho": "Plik nie może przekraczać 8MB.",
+        "erro_ficheiro_formato": "Nieprawidłowy format. Użyj JPG, PNG lub PDF.",
+        "erro_ficheiro_obrigatorio": "Musisz dołączyć kopię dowodu tożsamości.",
+        "erro_submeter": "Błąd przesyłania. Spróbuj ponownie.",
+        "erro_enviar": "Błąd wysyłania. Spróbuj ponownie.",
+        "bem_vindo": "Witaj w JP, {nome}!",
+        "camarada": "towarzyszu",
+        "confirmacao": "Otrzymaliśmy Twoje zgłoszenie i dokument. CPN zweryfikuje dane i odpowie w ciągu jednego tygodnia roboczego na {email}.",
+        "passos_aria": "Kroki formularza",
+        "label_nome": "Imię i nazwisko *",
+        "label_dataNascimento": "Data urodzenia *",
+        "label_email": "Email *",
+        "label_telemovel": "Telefon komórkowy *",
+        "label_estabelecimento": "Placówka edukacyjna",
+        "ph_estabelecimento": "(opcjonalnie)",
+        "ph_email": "email@przyklad.pl",
+        "ph_telemovel": "+351 9XX XXX XXX",
+        "aviso_parental": "Ponieważ masz od 14 do 15 lat, potrzebujemy danych Twojego opiekuna prawnego.",
+        "label_encNome": "Imię opiekuna prawnego *",
+        "label_encContacto": "Kontakt do opiekuna prawnego *",
+        "label_morada": "Adres *",
+        "ph_morada": "Ulica, miejsce...",
+        "label_numero": "Nr",
+        "label_localidade": "Miejscowość *",
+        "ph_localidade": "Np. Pena Verde",
+        "label_cp": "Kod pocztowy",
+        "ph_cp": "0000-000",
+        "label_distrito": "Okręg / Region autonomiczny *",
+        "ph_seleciona": "Wybierz...",
+        "label_concelho": "Gmina *",
+        "ph_concelho": "Np. Aguiar da Beira",
+        "nota_concelhia": "Twój oddział lokalny zostanie przypisany automatycznie na podstawie podanej gminy.",
+        "label_cc": "Numer dowodu tożsamości *",
+        "ph_cc": "00000000 0 ZZ0",
+        "label_upload": "Czytelna kopia dowodu tożsamości (przód i tył) *",
+        "remover_ficheiro_aria": "Usuń plik",
+        "upload_cta": "Kliknij, aby dołączyć (JPG, PNG lub PDF, maks. 8MB)",
+        "nota_privacidade": "Dokument jest przechowywany prywatnie i usuwany w ciągu 30 dni od decyzji.",
+        "aceito_pre": "Akceptuję Regulamin oraz",
+        "politica": "Politykę Prywatności",
+        "anterior": "Wstecz",
+        "proximo": "Dalej",
+        "enviando": "Wysyłanie…",
+        "confirmar": "Potwierdź Członkostwo"
+    },
+    "aderir_form_errors": {
+        "nome_curto": "Imię za krótkie",
+        "data_obrigatoria": "Data urodzenia jest wymagana",
+        "email_invalido": "Nieprawidłowy email",
+        "telemovel_invalido": "Nieprawidłowy numer telefonu",
+        "data_invalida": "Nieprawidłowa data",
+        "idade_min": "Minimalny wiek członkostwa: 14 lat",
+        "idade_max": "Maksymalny wiek członkostwa: 30 lat",
+        "enc_obrigatorio": "Wymagane dla osób poniżej 16 roku życia",
+        "morada_obrigatoria": "Adres jest wymagany",
+        "localidade_obrigatoria": "Miejscowość jest wymagana",
+        "distrito_obrigatorio": "Okręg jest wymagany",
+        "concelho_obrigatorio": "Gmina jest wymagana",
+        "cc_invalido": "Nieprawidłowy numer dowodu tożsamości",
+        "termos_obrigatorio": "Musisz zaakceptować regulamin i politykę prywatności"
+    },
+    "timeline": {
+        "eyebrow": "Nasza droga",
+        "heading": "Pięć dekad budowania przyszłości",
+        "marcos": [
+            {
+                "ano": "1974",
+                "title": "Juventude Centrista",
+                "text": "Założenie organizacji młodzieżowej związanej z CDS, w tym samym roku co założenie partii."
+            },
+            {
+                "ano": "1998",
+                "title": "Staje się Juventude Popular",
+                "text": "Organizacja przyjmuje nazwę i tożsamość, którą zachowuje do dziś."
+            },
+            {
+                "ano": "2020",
+                "title": "Odnowa przywództwa",
+                "text": "Po dojściu Francisco Rodriguesa na czoło CDS-PP, Francisco Mota zostaje tymczasowym przewodniczącym."
+            },
+            {
+                "ano": "2021",
+                "title": "Wybór Francisco Camacho",
+                "text": "Były przewodniczący oddziału lizbońskiego zostaje wybrany na przewodniczącego JP podczas Kongresu Krajowego."
+            },
+            {
+                "ano": "2025",
+                "title": "Catarina Marinho obejmuje przywództwo",
+                "text": "Początek obecnej kadencji, pod hasłem \"Od Słów do Czynów. Dla Portugalii!\""
+            },
+            {
+                "ano": "2026",
+                "title": "XXVII Kongres Krajowy",
+                "text": "Odbyty w kwietniu, z rewizją statutu i rozpoczęciem odnowy krajowej struktury cyfrowej."
+            },
+            {
+                "ano": "Dzisiaj",
+                "title": "Ponad 100 oddziałów lokalnych",
+                "text": "Aktywna struktura od północy po południe kraju i wyspy, rosnąca w każdym okręgu."
+            }
+        ]
+    },
+    "trust": {
+        "eyebrow": "Przejrzystość",
+        "heading": "Zaufanie zdobywa się jasnością",
+        "lede": "Zanim powierzysz nam swoje dane, uczciwie jest, żebyś wiedział/a, czego możesz się od nas spodziewać.",
+        "items": [
+            {
+                "title": "Struktura wolontariacka",
+                "text": "JP jest niedochodową polityczną organizacją młodzieżową. Kierownictwo krajowe i oddziały lokalne prowadzone są przez wolontariuszy."
+            },
+            {
+                "title": "Dane naprawdę chronione",
+                "text": "Twoje dane członkowskie znajdują się w wyizolowanej bazie danych, z dostępem ograniczonym do CPN; dokument tożsamości jest usuwany 30 dni po decyzji."
+            },
+            {
+                "title": "Statut krajowy",
+                "text": "Cała struktura działa zgodnie ze Statutem zatwierdzonym na Kongresie Krajowym, dostępnym u kierownictwa każdego oddziału lokalnego."
+            }
+        ]
+    },
+    "vozes_da_casa": {
+        "label": "Głosy z Domu",
+        "aria_ver": "Zobacz cytat {n}",
+        "cargo_fundador": "Założyciel CDS"
+    }
+}

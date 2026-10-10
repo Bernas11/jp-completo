@@ -1,0 +1,353 @@
+{
+    "nav": {
+        "causas": "Stupovi",
+        "concelhias": "Lokalne organizacije",
+        "atividades": "Aktivnosti",
+        "orgaos": "Nacionalna tijela",
+        "documentacao": "Dokumentacija",
+        "contactos": "Kontakti",
+        "aderir": "Pridruži se",
+        "anteriores_lideres": "Bivši Vođe"
+    },
+    "hero": {
+        "eyebrow": "Mladež CDS-PP · Od 1974.",
+        "title": "Pridruži nam se!",
+        "lede": "Juventude Popular treba tvoju podršku. Ispuni našu pristupnicu i pridruži se domu prave Desnice.",
+        "cta_primary": "Pridruži se",
+        "cta_secondary": "Upoznaj stupove",
+        "stat_founded": "Osnovano",
+        "stat_founded_value": "1974.",
+        "stat_congress": "Nacionalni kongres",
+        "stat_congress_value": "XXVII",
+        "stat_founded_label": "Godina osnutka",
+        "stat_concelhias_label": "Aktivne lokalne podružnice",
+        "stat_congress_label": "Nacionalni kongres",
+        "stat_pilares_label": "Ideološki stupovi"
+    },
+    "pilares": {
+        "eyebrow": "Što nas definira",
+        "title": "Tri stupa, jedna praksa",
+        "lede": "To nisu tri suprotstavljene struje, već tri temelja na kojima JP donosi odluke od prvog dana.",
+        "democracia_crista_title": "Kršćanska demokracija",
+        "democracia_crista_body": "Čovjek i obitelj kao polazište svake javne politike, a ne država.",
+        "conservadorismo_title": "Konzervativizam",
+        "conservadorismo_body": "Mijenjati ono što treba promijeniti, čuvajući ono što već funkcionira — reforma s korijenima, a ne raskid radi raskida.",
+        "liberalismo_title": "Liberalizam",
+        "liberalismo_body": "Ekonomska sloboda i individualna odgovornost: država u službi građana, a ne obrnuto."
+    },
+    "concelhias": {
+        "eyebrow": "Na terenu",
+        "title": "Lokalna organizacija u tvojoj blizini",
+        "lede": "Više od 100 aktivnih lokalnih ogranaka od sjevera do juga i na otocima. Pronađi svoj.",
+        "cta": "Prikaži sve lokalne organizacije"
+    },
+    "atividades": {
+        "eyebrow": "Nedavne aktivnosti",
+        "title": "Što je JP učinio",
+        "lede": "Vijesti i događaji iz ogranaka, koje ažuriraju same lokalne organizacije i nacionalno vodstvo.",
+        "cta": "Prikaži sve aktivnosti",
+        "empty_noticias": "Još nema objavljenih vijesti.",
+        "empty_eventos": "Još nema planiranih događanja."
+    },
+    "juntar": {
+        "title": "O Portugalu odlučuju oni koji sudjeluju.",
+        "lede": "Ispuni obrazac za predprijavu. Tvoja lokalna organizacija uskoro će te kontaktirati.",
+        "cta": "Pošalji predprijavu"
+    },
+    "footer": {
+        "sede": "Središnjica: Largo Adelino Amaro da Costa, 5, 1149-063 Lisabon",
+        "jp_heading": "JP",
+        "historia": "Povijest",
+        "pilares": "Ideološki stupovi",
+        "orgaos": "Nacionalna tijela",
+        "participar_heading": "Sudjeluj",
+        "aderir": "Pridruži se",
+        "atividades": "Aktivnosti",
+        "carta": "Povelja o načelima",
+        "contactos_heading": "Kontakti",
+        "rights": "Juventude Popular. Mladež stranke CDS-PP.",
+        "portal_label": "Portal Člana",
+        "admin_label": "Administratorsko Područje"
+    },
+    "concelhias_page": {
+        "eyebrow": "Teritorijalna struktura",
+        "title": "Pronađi svoju lokalnu organizaciju",
+        "lede": "Više od 100 aktivnih lokalnih ogranaka organiziranih po okruzima. Ovdje se pojavljuju čim ih prizna Nacionalno političko povjerenstvo.",
+        "search_placeholder": "Pretraži po općini ili okrugu...",
+        "search_clear": "Očisti pretragu",
+        "search_no_results_title": "Nema rezultata",
+        "search_no_results_hint": "Nismo pronašli lokalnu organizaciju za „{query}“. Pokušaj drugi naziv ili okrug.",
+        "empty_email": "E-mail čeka potvrdu",
+        "empty_instagram": "Instagram čeka potvrdu"
+    },
+    "orgaos_page": {
+        "eyebrow": "Nacionalna struktura",
+        "title": "Nacionalna tijela",
+        "lede": "Upravljačka i disciplinska struktura JP-a na nacionalnoj razini, kako je definirano Statutom.",
+        "cpn_title": "Nacionalno političko povjerenstvo",
+        "cpn_body": "Najviše izvršno tijelo JP-a između Kongresa. Određuje nacionalnu političku strategiju i trajno vodi strukturu.",
+        "mcn_title": "Predsjedništvo Nacionalnog kongresa",
+        "mcn_body": "Vodi rad Nacionalnog kongresa, najvišeg suverenog tijela JP-a.",
+        "disciplina_title": "Disciplinsko povjerenstvo",
+        "disciplina_body": "Odgovorno za interne disciplinske postupke u skladu sa Statutom.",
+        "jurisdicao_title": "Vijeće za jurisdikciju i nadzor",
+        "jurisdicao_body": "Osigurava poštivanje Statuta i unutarnju zakonitost akata JP-a.",
+        "mesa_conselho_title": "Predsjedništvo Nacionalnog vijeća",
+        "mesa_conselho_body": "Vodi rad Nacionalnog vijeća, tijela koje odlučuje između Kongresa.",
+        "gabinete_title": "Istraživački centar Gonçalo Begonha",
+        "gabinete_body": "Struktura za političko promišljanje i doktrinarni rad JP-a, nazvana po svom osnivaču."
+    },
+    "aderir_page": {
+        "eyebrow": "Tvoj red",
+        "title": "Pridruži nam se!",
+        "lede": "Juventude Popular treba tvoju podršku. Ispuni našu pristupnicu i pridruži se domu prave Desnice — obvezujemo se odgovoriti u roku od jednog radnog tjedna.",
+        "label_nome": "Ime i prezime",
+        "label_nascimento": "Datum rođenja",
+        "label_email": "E-mail adresa",
+        "label_telemovel": "Broj mobitela",
+        "label_distrito": "Okrug",
+        "label_morada": "Adresa",
+        "consent": "Pročitao/la sam i prihvaćam Politiku privatnosti te Uvjete i odredbe.",
+        "parental_note": "Ako imaš manje od 16 godina, u sljedećem koraku tražit ćemo kontakt podatke tvog roditelja ili skrbnika.",
+        "submit": "Pošalji predprijavu"
+    },
+    "carta_page": {
+        "eyebrow": "Osnivački dokument",
+        "title": "Povelja o načelima",
+        "lede": "Načela koja usmjeravaju političko djelovanje Juventude Popular kao mladeži CDS-PP-a.",
+        "s1_title": "Organizacija vrijednosti",
+        "p1": "Juventude Popular se definira kao organizacija vrijednosti, ukorijenjena u kršćanskoj demokraciji, konzervativizmu i liberalizmu — ne kao tri suprotstavljene struje, već kao tri stupa koja se međusobno jačaju u našem odlučivanju.",
+        "s2_title": "Čovjek i obitelj",
+        "p2": "Stavljamo čovjeka, obitelj i lokalne zajednice u središte političkog djelovanja kao alternativu državi koja odlučuje o svemu u ime svih. Vjerujemo u načelo supsidijarnosti.",
+        "s3_title": "Ekonomska sloboda i odgovornost",
+        "p3": "Zagovaramo ekonomsku slobodu i individualnu odgovornost kao preduvjete napretka. Država u službi građana prikuplja manje kako bi izbjegla nepotrebne troškove.",
+        "s4_title": "Reforma s korijenima",
+        "p4": "Mijenjamo ono što treba promijeniti, čuvajući ono što već funkcionira. Reforma je ozbiljna samo kada poštuje akumulirano iskustvo prethodnih generacija.",
+        "s5_title": "Portugal u Europi",
+        "p5": "Aktivno sudjelujemo u europskom povezivanju bez gubitka nacionalnog identiteta. Europska unija mora biti prostor suradnje slobodnih nacija.",
+        "s6_title": "Novi naraštaj u službi zemlje",
+        "p6": "Ne čekamo svoj red da se naš glas čuje. Organiziramo se, raspravljamo i djelujemo u više od 100 lokalnih ogranaka diljem zemlje."
+    },
+    "documentacao_page": {
+        "eyebrow": "Bivša virtualna središnjica",
+        "title": "Dokumentacija",
+        "lede": "Pozivi, statuti, pravilnici i zapisnici Juventude Popular — sve što trebate pregledati na jednom mjestu.",
+        "search_placeholder": "Pretraži dokument...",
+        "cat_convocatorias": "Pozivi",
+        "cat_estatutos": "Statuti i pravilnici",
+        "cat_minutas": "Zapisnici i dokumenti",
+        "cat_premios": "Nagrade"
+    },
+    "a11y_skip_link": "Preskoči na glavni sadržaj",
+    "marquee": [
+        "🇵🇹 O Portugalu odlučuju oni koji se pojave",
+        "🗳️ Lokalna demokracija",
+        "💼 Poslovi za mlade",
+        "🏠 Pristupačno stanovanje",
+        "🎓 Kvalitetno obrazovanje",
+        "🤝 Građanska participacija",
+        "⚡ Politička obnova",
+        "💛 100+ aktivnih lokalnih podružnica"
+    ],
+    "anteriores_lideres_page": {
+        "eyebrow": "Tko je već vodio JP",
+        "title": "Bivši Vođe",
+        "lede": "Predsjednici koji su tijekom godina dali lice i glas Juventude Popular.",
+        "atual": "TRENUTNI",
+        "presente": "sadašnjost"
+    },
+    "historia_page": {
+        "eyebrow": "Naša povijest",
+        "title": "Pet desetljeća u službi Portugala",
+        "lede": "Od osnutka 1974. do današnje nacionalne strukture — povijest Juventude Popular prati onu samog CDS-a.",
+        "marcos": [
+            {
+                "titulo": "1974. — Juventude Centrista",
+                "texto": "Iste godine kad je osnovan CDS, rađa se njegova omladinska organizacija, tada nazvana Juventude Centrista."
+            },
+            {
+                "titulo": "1998. — Postaje Juventude Popular",
+                "texto": "Organizacija usvaja naziv Juventude Popular, identitet koji zadržava do danas."
+            },
+            {
+                "titulo": "Međunarodna prisutnost",
+                "texto": "JP je članica YEPP-a (Youth of the European People's Party), DEMYC-a (Democrat Youth Community of Europe) i IYDU-a (International Young Democrat Union)."
+            },
+            {
+                "titulo": "Danas",
+                "texto": "Više od 100 aktivnih lokalnih podružnica od sjevera do juga zemlje i na otocima, s Nacionalnim kongresom svake dvije godine."
+            }
+        ]
+    },
+    "marca_jp_page": {
+        "eyebrow": "Nosi svoje ideje",
+        "title": "JP Marka",
+        "lede": "Službeni Juventude Popular proizvodi — nosi marku, podrži strukturu."
+    },
+    "contactos_page": {
+        "eyebrow": "Razgovaraj s nama",
+        "title": "Kontakti",
+        "lede": "Dostupni smo za sva pitanja o nacionalnoj strukturi ili lokalnim podružnicama.",
+        "label_sede": "Nacionalno Sjedište",
+        "label_email": "E-mail",
+        "label_telefone": "Telefon"
+    },
+    "goncalo_begonha_page": {
+        "eyebrow": "Sjećanje koje i dalje živi",
+        "title": "Gonçalo Begonha",
+        "lede": "1980. — 2003.",
+        "meta_description": "Gonçalo Botelho Gomes Begonha, dužnosnik Juventude Popular po kojem je nazvan Ured za studije."
+    },
+    "sucesso_page": {
+        "title": "Narudžba potvrđena!",
+        "message": "Poslali smo vam e-mail potvrde. Hvala što podupirete Juventude Popular.",
+        "cta": "Povratak u trgovinu"
+    },
+    "cart": {
+        "adicionar": "Dodaj",
+        "carrinho": "Košarica",
+        "vazio": "Vaša košarica je prazna.",
+        "total": "Ukupno",
+        "finalizar": "Dovrši kupnju",
+        "processando": "Obrada...",
+        "pagar": "Plati",
+        "remover": "Ukloni",
+        "erro_pagamento": "Greška pri pokretanju plaćanja.",
+        "erro_processar": "Greška pri obradi.",
+        "ph_nome": "Puno ime",
+        "ph_email": "Email",
+        "ph_morada": "Adresa",
+        "ph_cp": "Poštanski broj",
+        "ph_localidade": "Mjesto"
+    },
+    "aderir_form": {
+        "step1": "Osobni Podaci",
+        "step2": "Adresa",
+        "step3": "Dokument",
+        "erro_ficheiro_tamanho": "Datoteka ne smije prelaziti 8MB.",
+        "erro_ficheiro_formato": "Nevažeći format. Koristi JPG, PNG ili PDF.",
+        "erro_ficheiro_obrigatorio": "Moraš priložiti presliku osobne iskaznice.",
+        "erro_submeter": "Greška pri slanju. Pokušaj ponovno.",
+        "erro_enviar": "Greška pri slanju. Pokušaj ponovno.",
+        "bem_vindo": "Dobrodošao/la u JP, {nome}!",
+        "camarada": "druže",
+        "confirmacao": "Primili smo tvoju prijavu i dokument. CPN će provjeriti podatke i odgovoriti u roku od jednog radnog tjedna na {email}.",
+        "passos_aria": "Koraci obrasca",
+        "label_nome": "Puno ime *",
+        "label_dataNascimento": "Datum rođenja *",
+        "label_email": "Email *",
+        "label_telemovel": "Mobitel *",
+        "label_estabelecimento": "Obrazovna ustanova",
+        "ph_estabelecimento": "(neobavezno)",
+        "ph_email": "email@primjer.hr",
+        "ph_telemovel": "+351 9XX XXX XXX",
+        "aviso_parental": "Budući da imaš između 14 i 15 godina, trebamo podatke tvog zakonskog skrbnika.",
+        "label_encNome": "Ime zakonskog skrbnika *",
+        "label_encContacto": "Kontakt zakonskog skrbnika *",
+        "label_morada": "Adresa *",
+        "ph_morada": "Ulica, mjesto...",
+        "label_numero": "Br.",
+        "label_localidade": "Mjesto *",
+        "ph_localidade": "Npr. Pena Verde",
+        "label_cp": "Poštanski broj",
+        "ph_cp": "0000-000",
+        "label_distrito": "Okrug / Autonomna regija *",
+        "ph_seleciona": "Odaberi...",
+        "label_concelho": "Općina *",
+        "ph_concelho": "Npr. Aguiar da Beira",
+        "nota_concelhia": "Tvoja lokalna podružnica dodjeljuje se automatski na temelju navedene općine.",
+        "label_cc": "Broj osobne iskaznice *",
+        "ph_cc": "00000000 0 ZZ0",
+        "label_upload": "Čitljiva preslika osobne iskaznice (prednja i stražnja strana) *",
+        "remover_ficheiro_aria": "Ukloni datoteku",
+        "upload_cta": "Klikni za prilaganje (JPG, PNG ili PDF, maks. 8MB)",
+        "nota_privacidade": "Dokument se pohranjuje privatno i briše se u roku od 30 dana nakon odluke.",
+        "aceito_pre": "Prihvaćam Uvjete i Odredbe te",
+        "politica": "Politiku Privatnosti",
+        "anterior": "Prethodno",
+        "proximo": "Sljedeće",
+        "enviando": "Slanje…",
+        "confirmar": "Potvrdi Članstvo"
+    },
+    "aderir_form_errors": {
+        "nome_curto": "Ime je prekratko",
+        "data_obrigatoria": "Datum rođenja je obavezan",
+        "email_invalido": "Nevažeći email",
+        "telemovel_invalido": "Nevažeći broj telefona",
+        "data_invalida": "Nevažeći datum",
+        "idade_min": "Minimalna dob za članstvo: 14 godina",
+        "idade_max": "Maksimalna dob za članstvo: 30 godina",
+        "enc_obrigatorio": "Obavezno za mlađe od 16 godina",
+        "morada_obrigatoria": "Adresa je obavezna",
+        "localidade_obrigatoria": "Mjesto je obavezno",
+        "distrito_obrigatorio": "Okrug je obavezan",
+        "concelho_obrigatorio": "Općina je obavezna",
+        "cc_invalido": "Nevažeći broj osobne iskaznice",
+        "termos_obrigatorio": "Moraš prihvatiti uvjete i politiku privatnosti"
+    },
+    "timeline": {
+        "eyebrow": "Naš put",
+        "heading": "Pet desetljeća izgradnje budućnosti",
+        "marcos": [
+            {
+                "ano": "1974",
+                "title": "Juventude Centrista",
+                "text": "Osnivanje omladinske organizacije povezane s CDS-om, iste godine kad i osnivanje stranke."
+            },
+            {
+                "ano": "1998",
+                "title": "Postaje Juventude Popular",
+                "text": "Organizacija usvaja naziv i identitet koji zadržava do danas."
+            },
+            {
+                "ano": "2020",
+                "title": "Obnova vodstva",
+                "text": "Nakon uspona Francisca Rodriguesa u CDS-PP, Francisco Mota postaje vršitelj dužnosti predsjednika."
+            },
+            {
+                "ano": "2021",
+                "title": "Izabran Francisco Camacho",
+                "text": "Bivši predsjednik lisabonske podružnice izabran je za predsjednika JP-a na Nacionalnom kongresu."
+            },
+            {
+                "ano": "2025",
+                "title": "Catarina Marinho preuzima vodstvo",
+                "text": "Početak sadašnjeg mandata, s geslom \"Od Riječi do Djela. Za Portugal!\""
+            },
+            {
+                "ano": "2026",
+                "title": "XXVII. Nacionalni kongres",
+                "text": "Održan u travnju, uz statutarnu reviziju i pokretanje obnove nacionalne digitalne strukture."
+            },
+            {
+                "ano": "Danas",
+                "title": "Više od 100 lokalnih podružnica",
+                "text": "Aktivna struktura od sjevera do juga zemlje i na otocima, koja raste u svakom okrugu."
+            }
+        ]
+    },
+    "trust": {
+        "eyebrow": "Transparentnost",
+        "heading": "Povjerenje se stječe jasnoćom",
+        "lede": "Prije nego što nam daš svoje podatke, pošteno je da znaš što možeš očekivati od nas.",
+        "items": [
+            {
+                "title": "Volonterska struktura",
+                "text": "JP je neprofitna politička omladinska organizacija. Nacionalno vodstvo i lokalne podružnice vode volonteri."
+            },
+            {
+                "title": "Podaci istinski zaštićeni",
+                "text": "Tvoji podaci o članstvu nalaze se u izoliranoj bazi podataka, s pristupom ograničenim na CPN; osobni dokument briše se 30 dana nakon odluke."
+            },
+            {
+                "title": "Nacionalni statut",
+                "text": "Cijela struktura slijedi Statut usvojen na Nacionalnom kongresu, dostupan kod vodstva bilo koje lokalne podružnice."
+            }
+        ]
+    },
+    "vozes_da_casa": {
+        "label": "Glasovi Kuće",
+        "aria_ver": "Pogledaj citat {n}",
+        "cargo_fundador": "Osnivač CDS-a"
+    }
+}
