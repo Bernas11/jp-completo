@@ -1,7 +1,6 @@
 import { notFound } from "next/navigation";
 import { getMilitanciaClient } from "@/lib/supabase";
 import { buildAlternates } from "@/lib/seo";
-import { getLocale } from "next-intl/server";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 

@@ -9,6 +9,12 @@ import { getMilitanciaClient } from "@/lib/supabase";
 // Sem isto a página é gerada no build e nunca mais atualiza (conteúdo publicado no Admin não aparecia).
 export const revalidate = 60;
 
+type NationalBodyPosition = {
+  body_key: string;
+  title: string;
+  national_body_members: { full_name: string; end_date: string | null }[];
+};
+
 const BODY_KEYS = ["cpn", "mcn", "disciplina", "jurisdicao", "mesa_conselho", "gabinete"] as const;
 
 export async function generateMetadata() {
@@ -25,12 +31,13 @@ export default async function OrgaosNacionaisPage() {
     .select("body_key, title, display_order, national_body_members(full_name, end_date)")
     .order("display_order");
 
+  const typedPositions = (positions ?? []) as NationalBodyPosition[];
   const orgaos = BODY_KEYS.map((key) => {
-    const membros = (positions ?? [])
-      .filter((p: any) => p.body_key === key)
-      .map((p: any) => ({
+    const membros = typedPositions
+      .filter((p) => p.body_key === key)
+      .map((p) => ({
         cargo: p.title,
-        nome: (p.national_body_members as any[]).find((m) => m.end_date === null)?.full_name ?? null,
+        nome: p.national_body_members.find((m) => m.end_date === null)?.full_name ?? null,
       }));
     return {
       key,
