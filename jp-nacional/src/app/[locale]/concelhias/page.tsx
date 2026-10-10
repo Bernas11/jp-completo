@@ -8,6 +8,13 @@ import { getMunicipiosSvgPaths, MUNICIPIOS_VIEWBOX } from "@/lib/municipios-map"
 import ConcelhiasSearch from "@/components/ConcelhiasSearch";
 import { getMilitanciaClient } from "@/lib/supabase";
 
+type ConcelhiaRow = {
+  name: string;
+  district: { name: string }[];
+  contact_email: string | null;
+  instagram_handle: string | null;
+};
+
 // Sem isto a página é gerada no build e nunca mais atualiza (conteúdo publicado no Admin não aparecia).
 export const revalidate = 60;
 
@@ -26,9 +33,9 @@ export default async function ConcelhiasPage() {
     .eq("active", true)
     .order("name");
 
-  const concelhias = (data ?? []).map((c: any) => ({
+  const concelhias = ((data ?? []) as ConcelhiaRow[]).map((c) => ({
     nome: c.name,
-    distrito: c.district?.name ?? "",
+    distrito: c.district[0]?.name ?? "",
     email: c.contact_email,
     instagram: c.instagram_handle as string | null,
   }));

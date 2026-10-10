@@ -3,7 +3,7 @@ import {
   portalUrlFor,
   nextEligibleAt,
   signPayload,
-} from "../../supabase-functions/_shared/sync-logic";
+} from "../../supabase/functions/sync-outbox-processor/_shared/sync-logic";
 
 const urls = { member: "https://portal.example/sync-member", event: "https://portal.example/sync-event" };
 

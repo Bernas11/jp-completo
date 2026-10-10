@@ -1,8 +1,7 @@
 // Copiar para jp-admin/tests/e2e/
 // Env: E2E_BASE_URL, E2E_ADMIN_EMAIL, E2E_ADMIN_PASSWORD, E2E_ADMIN_TOTP_SECRET (base32; opcional)
-// npm i -D otplib
 import { test, expect, type Page } from "@playwright/test";
-import { authenticator } from "otplib";
+import { generate } from "otplib";
 
 const ROTAS_PROTEGIDAS = [
   "/", "/militancia/pedidos", "/militancia/membros", "/militancia/importar",
@@ -34,7 +33,7 @@ async function login(page: Page) {
   await page.getByPlaceholder("Email institucional").fill(process.env.E2E_ADMIN_EMAIL!);
   await page.getByPlaceholder("Palavra-passe").fill(process.env.E2E_ADMIN_PASSWORD!);
   await page.getByRole("button", { name: "Continuar" }).click();
-  await page.getByPlaceholder("Código de 6 dígitos").fill(authenticator.generate(process.env.E2E_ADMIN_TOTP_SECRET!));
+  await page.getByPlaceholder("Código de 6 dígitos").fill(await generate({ secret: process.env.E2E_ADMIN_TOTP_SECRET! }));
   await page.keyboard.press("Enter");
   await page.waitForURL((u) => !u.pathname.startsWith("/login"), { timeout: 15_000 });
 }

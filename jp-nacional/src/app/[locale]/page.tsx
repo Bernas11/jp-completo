@@ -14,6 +14,8 @@ import { MOTE_ATUAL } from "@/lib/citacoes";
 import { Link } from "@/i18n/navigation";
 import { ArrowRight } from "lucide-react";
 
+type ConcelhiaAtiva = { name: string; district: { name: string }[] };
+
 // Notícias e eventos públicos vêm da BD do JP-Admin; revalida periodicamente
 // em vez de renderizar 100% dinâmico (que anularia o trabalho de performance
 // mobile) ou cachear indefinidamente (que esconderia conteúdo novo).
@@ -126,7 +128,7 @@ export default async function HomePage() {
             <MunicipiosMap
               paths={getMunicipiosSvgPaths()}
               viewBox={MUNICIPIOS_VIEWBOX}
-              ativos={(concelhiasAtivas ?? []).map((c: any) => ({ concelho: c.name, distrito: c.district?.name ?? "" }))}
+              ativos={((concelhiasAtivas ?? []) as ConcelhiaAtiva[]).map((c) => ({ concelho: c.name, distrito: c.district[0]?.name ?? "" }))}
             />
           </div>
         </section>
