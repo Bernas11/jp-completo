@@ -6,8 +6,8 @@ import "./globals.css";
 const archivo = Archivo({ subsets: ["latin"], variable: "--font-archivo", display: "swap" });
 
 export const metadata: Metadata = {
-  title: "Portal Juventude Popular",
-  description: "Comunidade oficial da Juventude Popular",
+  title: "Portal Juventude Popular — protótipo",
+  description: "Demonstração não oficial do portal da Juventude Popular. Não introduzas dados reais.",
   manifest: "/manifest.json",
   appleWebApp: { capable: true, statusBarStyle: "default", title: "Portal JP" },
 };

@@ -22,12 +22,13 @@ Cada app é um projeto **Vercel** independente ligado ao mesmo repositório, com
 
 ## 2. Variáveis por ambiente
 Definir em *Production* e, se usares *Preview*, apontar para projetos Supabase **de teste** (nunca para os de produção). `NEXT_PUBLIC_*` são embebidas no *build*: alterar exige novo *deploy*.
+Manter `NEXT_PUBLIC_DEMO_MODE=true` enquanto o site for uma demonstração: adesões e newsletter ficam bloqueadas no cliente e no servidor. Só definir `false` após autorização, revisão de privacidade e configuração do ambiente real.
 
 ## 3. Stripe (loja)
 - *Webhook endpoint:* `https://<site>/api/stripe-webhook`, evento **`checkout.session.completed`** (é o único tratado) → copiar o segredo para `STRIPE_WEBHOOK_SECRET`.
 - Métodos de pagamento usados no checkout: cartão, Multibanco e MB WAY (têm de estar ativos na conta Stripe).
 - `NEXT_PUBLIC_SITE_URL` define os URLs de sucesso/cancelamento.
-- Sem Stripe, desliga a loja com `NEXT_PUBLIC_SHOP_ENABLED=false`.
+- A loja começa desligada; só ativa fora do modo demo com `NEXT_PUBLIC_SHOP_ENABLED=true` e Stripe configurado.
 
 ## 4. Crons
 | Onde | O quê |
@@ -43,7 +44,8 @@ Defina `CRON_SECRET` nas variáveis de ambiente da Vercel: a Vercel envia-o como
 - Configurar SPF/DKIM do domínio de envio no Brevo para que os emails não caiam em spam.
 
 ## 6. Checklist pós-deploy
-- [ ] `/` do site público abre e o formulário de adesão submete (usar email de teste e apagar depois).
+- [ ] Em modo demo, `/aderir`, newsletter e checkout estão bloqueados e não recebem dados pessoais.
+- [ ] Apenas num ambiente de teste autorizado, desativar o modo demo e usar dados sintéticos para validar o formulário de adesão.
 - [ ] Login no admin com TOTP funciona; `/administradores` abre.
 - [ ] Aprovar um pedido de teste → evento em `sync_outbox` → `processado`.
 - [ ] Magic link do portal chega e entra; o papel é `militante`.

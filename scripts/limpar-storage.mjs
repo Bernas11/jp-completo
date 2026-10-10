@@ -1,5 +1,5 @@
 // node scripts/limpar-storage.mjs   (Node 18+)
-// Env: SUPABASE_URL=https://bcwbhhtsncuriueponuz.supabase.co  SUPABASE_SERVICE_ROLE_KEY=...
+// Env: SUPABASE_URL=<URL configurado fora do repositório>  SUPABASE_SERVICE_ROLE_KEY=...
 import { createClient } from "@supabase/supabase-js";
 const sb = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_SERVICE_ROLE_KEY);
 for (const bucket of ["documentos-identificacao", "documentos-publicos"]) {

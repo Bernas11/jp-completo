@@ -2,10 +2,18 @@ import { NextRequest, NextResponse } from "next/server";
 import { z } from "zod";
 import { getPortalClient } from "@/lib/supabase";
 import { newsletterLimiter, getClientIp } from "@/lib/rate-limit";
+import { DEMO_MODE } from "@/lib/features";
 
 const Schema = z.object({ email: z.string().email() });
 
 export async function POST(req: NextRequest) {
+  if (DEMO_MODE) {
+    return NextResponse.json(
+      { error: "A newsletter está desativada nesta demonstração." },
+      { status: 503 },
+    );
+  }
+
   try {
     const ip = getClientIp(req);
     const { success } = await newsletterLimiter.limit(ip);

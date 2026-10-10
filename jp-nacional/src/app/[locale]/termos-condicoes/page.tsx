@@ -23,8 +23,9 @@ export default function TermosCondicoesPage() {
 
             <h2>1. Objeto</h2>
             <p>
-              Este site é o site oficial da Juventude Popular, e permite consultar informação
-              institucional e submeter um pedido de adesão{SHOP_ENABLED ? " e adquirir produtos na loja online" : ""}.
+              Este site é um protótipo de portefólio não oficial da Juventude Popular. É apenas uma
+              demonstração e não deve ser utilizado para submeter pedidos reais de adesão
+              {SHOP_ENABLED ? " ou adquirir produtos" : ""}.
             </p>
 
             <h2>2. Pedido de adesão</h2>

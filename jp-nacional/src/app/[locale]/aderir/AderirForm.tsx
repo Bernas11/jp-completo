@@ -15,6 +15,7 @@ import { DISTRITOS } from "@/lib/constants";
 import CONCELHOS_POR_DISTRITO from "@/lib/concelhos-por-distrito.json";
 import { calcularIdade } from "@/lib/idade";
 import { createFullFormSchema, type AderirFormValues } from "@/lib/adesao-form-schema";
+import { DEMO_MODE } from "@/lib/features";
 
 const inputClass = (hasError?: boolean) => cn(
   "px-4 py-3 rounded-lg border text-sm text-white bg-white/5 w-full",
@@ -25,6 +26,21 @@ const inputClass = (hasError?: boolean) => cn(
 const labelClass = "font-display text-xs text-jp-yellow block mb-1.5";
 
 export default function AderirForm() {
+  if (DEMO_MODE) {
+    return (
+      <div role="note" className="glass-panel rounded-2xl border border-jp-yellow/40 p-8 text-center">
+        <h2 className="font-headline text-xl text-white">Demonstração — adesões desativadas</h2>
+        <p className="mx-auto mt-3 max-w-xl text-sm leading-relaxed text-white/70">
+          Este protótipo não é o site oficial da Juventude Popular e não aceita pedidos reais.
+          Não introduzas dados pessoais nem documentos de identificação.
+        </p>
+      </div>
+    );
+  }
+  return <LiveAderirForm />;
+}
+
+function LiveAderirForm() {
   const t = useTranslations("aderir_form");
   const tErr = useTranslations("aderir_form_errors");
 

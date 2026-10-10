@@ -2,8 +2,21 @@
 
 import { useState } from "react";
 import { Send } from "lucide-react";
+import { DEMO_MODE } from "@/lib/features";
 
 export default function Newsletter() {
+  if (DEMO_MODE) {
+    return (
+      <p className="max-w-xs text-xs leading-relaxed text-white/60">
+        Newsletter desativada nesta demonstração. Não introduzas o teu email.
+      </p>
+    );
+  }
+
+  return <ActiveNewsletter />;
+}
+
+function ActiveNewsletter() {
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "ok" | "erro">("idle");
 
@@ -36,6 +49,7 @@ export default function Newsletter() {
         <Send size={14} />
       </button>
       {status === "ok" && <p className="text-jp-yellow text-xs mt-1 absolute">Subscrito!</p>}
+      {status === "erro" && <p role="alert" className="text-red-300 text-xs mt-1 absolute">Não foi possível subscrever.</p>}
     </form>
   );
 }

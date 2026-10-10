@@ -5,8 +5,16 @@ import { getMilitanciaClient } from "@/lib/supabase";
 import { enviarEmailAdesaoMilitante, enviarEmailAdesaoCPN } from "@/lib/email";
 import { adesaoLimiter, getClientIp } from "@/lib/rate-limit";
 import CONCELHOS_POR_DISTRITO from "@/lib/concelhos-por-distrito.json";
+import { DEMO_MODE } from "@/lib/features";
 
 export async function POST(req: NextRequest) {
+  if (DEMO_MODE) {
+    return NextResponse.json(
+      { error: "Este protótipo não aceita pedidos reais de adesão." },
+      { status: 503 },
+    );
+  }
+
   try {
     const ip = getClientIp(req);
     const { success } = await adesaoLimiter.limit(ip);

@@ -1,7 +1,6 @@
 import { Link } from "@/i18n/navigation";
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
-import { LogIn, ShieldCheck } from "lucide-react";
 import { FacebookIcon, InstagramIcon, YoutubeIcon } from "./icons/SocialIcons";
 import Newsletter from "./Newsletter";
 import { SHOP_ENABLED } from "@/lib/features";
@@ -82,24 +81,9 @@ export default async function SiteFooter() {
         </div>
         <div className="border-t border-white/10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-5">
           <p className="text-xs">© {new Date().getFullYear()} {t("footer.rights")}</p>
-          <div className="flex gap-2.5">
-            <a
-              href="https://portal.juventudepopular.pt"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center gap-1.5 px-4 py-2 rounded-full bg-white/8 border border-white/15 text-xs font-display hover:bg-jp-yellow hover:text-jp-blue-deep hover:border-jp-yellow transition-colors"
-            >
-              <LogIn size={13} /> {t("footer.portal_label")}
-            </a>
-            <a
-              href="https://admin.juventudepopular.pt"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center gap-1.5 px-4 py-2 rounded-full bg-white/8 border border-white/15 text-xs font-display hover:bg-jp-yellow hover:text-jp-blue-deep hover:border-jp-yellow transition-colors"
-            >
-              <ShieldCheck size={13} /> {t("footer.admin_label")}
-            </a>
-          </div>
+          <p className="text-xs text-center sm:text-right">
+            O portal e o backoffice desta demonstração não estão disponíveis.
+          </p>
         </div>
         <div className="border-t border-white/10 pt-4 mt-4 flex flex-wrap justify-center gap-x-5 gap-y-2 text-xs">
           <Link href="/politica-privacidade" className="hover:text-white">Política de Privacidade</Link>

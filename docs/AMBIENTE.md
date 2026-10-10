@@ -7,6 +7,8 @@ Apenas **nomes e finalidade** — os valores ficam na Vercel (Project Settings �
 | Variável | Finalidade |
 |---|---|
 | `NEXT_PUBLIC_SITE_URL` | URL público do site |
+| `NEXT_PUBLIC_DEMO_MODE` | `true` por omissão: bloqueia adesões e newsletter. Só definir `false` após autorização e revisão operacional/privacidade. |
+| `NEXT_PUBLIC_SHOP_ENABLED` | A loja só abre com `NEXT_PUBLIC_DEMO_MODE=false` e `NEXT_PUBLIC_SHOP_ENABLED=true`. |
 | `SUPABASE_MILITANCIA_URL`, `SUPABASE_MILITANCIA_SERVICE_ROLE_KEY` | Acesso (servidor) à `jp-militancia` |
 | `SUPABASE_PORTAL_URL`, `SUPABASE_PORTAL_SERVICE_ROLE_KEY` | Acesso (servidor) à `jp-portal` |
 | `UPSTASH_REDIS_REST_URL`, `UPSTASH_REDIS_REST_TOKEN` | *Rate limiting* |
@@ -14,7 +16,8 @@ Apenas **nomes e finalidade** — os valores ficam na Vercel (Project Settings �
 | `EMAIL_FROM`, `EMAIL_CPN` | Remetente e destinatário dos avisos de adesão |
 | `STRIPE_SECRET_KEY`, `STRIPE_WEBHOOK_SECRET` | Pagamentos da loja |
 | `NEXT_PUBLIC_POSTHOG_KEY`, `NEXT_PUBLIC_POSTHOG_HOST` | Analytics |
-| `NEXT_PUBLIC_SHOP_ENABLED` | Loja «Marca JP». **Ligada por omissão**; só `false` a desliga (menu, rodapé, páginas e checkout) |
+
+O site público começa em modo de demonstração; as rotas de adesão e newsletter recusam gravações no servidor.
 
 ## jp-admin
 
@@ -28,7 +31,7 @@ Apenas **nomes e finalidade** — os valores ficam na Vercel (Project Settings �
 | `SYNC_SHARED_SECRET` | Chave HMAC da sincronização (**igual** no portal) |
 | `PORTAL_SYNC_MEMBER_URL`, `PORTAL_SYNC_EVENT_URL`, `PORTAL_GET_ATTENDEES_URL` | Endpoints `/api/sync/*` do portal |
 | `BREVO_API_KEY`, `BREVO_SENDER_EMAIL`, `BREVO_SENDER_NAME` | Emails |
-| `NEXT_PUBLIC_SHOP_ENABLED` | Mostra/oculta a loja (só `false` desliga) |
+| `NEXT_PUBLIC_SHOP_ENABLED` | Mostra/oculta as ferramentas de gestão da loja no admin |
 | `E2E_*` | Só para testes Playwright (ver `docs/TESTES.md`) |
 
 

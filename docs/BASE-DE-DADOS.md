@@ -4,8 +4,8 @@ São dois projetos Supabase (Postgres 17, região UE):
 
 | Projeto | Ref | Região | Usado por |
 |---|---|---|---|
-| `jp-militancia` | `bcwbhhtsncuriueponuz` | eu-west-1 | jp-nacional, jp-admin |
-| `jp-portal` | `ffstmmzzrbznuwtvnbkp` | eu-central-1 | jp-portal |
+| `jp-militancia` | `<PROJECT_REF>` | eu-west-1 | jp-nacional, jp-admin |
+| `jp-portal` | `<PROJECT_REF>` | eu-central-1 | jp-portal |
 
 > **A base de dados de produção é a fonte de verdade, não as pastas de migrations.** O histórico de migrations nunca foi mantido de forma consistente (ver `jp-portal/db/LEIA-ME.md` e `docs/PONTOS-DE-ATENCAO.md`). Para recriar um ambiente, gera um dump com `supabase db dump --schema public` em vez de correr migrations por ordem.
 
