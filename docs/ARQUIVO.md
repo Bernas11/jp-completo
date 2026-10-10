@@ -7,7 +7,7 @@ O ecossistema (`jp-nacional`, `jp-admin`, `jp-portal`) foi desenvolvido como **p
 | Elemento | Estado |
 |---|---|
 | Site público | Publicado como demonstração: https://jp-nacional.vercel.app |
-| Backoffice e portal | Backoffice (sem acesso): jp-admin-pi.vercel.app | Portal: jp-portal.vercel.app |
+| Backoffice e portal | Backoffice (sem acesso): jp-admin-pi.vercel.app e Portal: jp-portal.vercel.app |
 | Bases de dados (`jp-militancia`, `jp-portal`) | Limpas de dados de teste: sem militantes, pedidos, contas, comunicados, auditoria, eventos ou encomendas. Mantidos só os dados de referência (distritos, concelhias, ex-dirigentes, órgão nacional, produtos, *badges*, categoria do fórum). **Não existe nenhuma conta**, nem de administrador |
 | Edge Functions | Código exportado para `supabase/functions/` |
 | Ficheiros em Storage | Os de teste devem ser apagados (`scripts/limpar-storage.mjs`) |
