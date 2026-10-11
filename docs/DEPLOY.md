@@ -37,7 +37,7 @@ Manter `NEXT_PUBLIC_DEMO_MODE=true` enquanto o site for uma demonstração: ades
 | Vercel (portal) | `/api/cron/keepalive` 05:00 UTC |
 | Supabase `pg_cron` | `process-sync-outbox` (a cada minuto) — **corrigir antes de depender dele** (`PONTOS-DE-ATENCAO.md`) |
 
-Defina `CRON_SECRET` nas variáveis de ambiente da Vercel: a Vercel envia-o como `Authorization: Bearer`. Nota: o plano gratuito da Vercel limita os crons a execuções diárias.
+Defina `CRON_SECRET` nas variáveis de ambiente Vercel de cada projeto com crons autenticados; a Vercel envia-o como `Authorization: Bearer`. **No projeto `jp-portal` é obrigatório**: sem configuração, `/api/cron/keepalive` devolve `503`; com token ausente/incorreto, devolve `401`. Valida o cron depois de configurar o segredo. Nota: o plano gratuito da Vercel limita os crons a execuções diárias.
 
 ## 5. Domínios e emails
 - Apontar o domínio principal para `jp-nacional`; subdomínios para `jp-admin` e `jp-portal`.
