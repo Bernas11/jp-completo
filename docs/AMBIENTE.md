@@ -45,7 +45,7 @@ O site público começa em modo de demonstração; as rotas de adesão e newslet
 | `DATABASE_URL` | Ligação direta Postgres (Drizzle) |
 | `UPSTASH_REDIS_REST_URL`, `UPSTASH_REDIS_REST_TOKEN` | *Rate limiting* |
 | `SYNC_SHARED_SECRET` | Valida a assinatura dos eventos de sincronização (**igual** no admin) |
-| `CRON_SECRET` | Autenticação do cron *keepalive* (opcional) |
+| `CRON_SECRET` | Obrigatório: autenticação do cron *keepalive*; sem ele a rota devolve `503` |
 | `VAPID_PUBLIC_KEY` | Notificações *push* |
 | `UPLOADTHING_TOKEN` (ou `UPLOADTHING_SECRET`) | Uploads do portal (UploadThing); confirma o nome exato na tua conta |
 
